@@ -21,10 +21,8 @@ keywords:
   - "Add:Select Language for New Writing System dialog box"
   - "Select language overview:Select language for writing system"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
-  - "Select Language 
- overview -> Select_Language_overview.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Select Language \n overview -> Select_Language_overview.md"
 fw_help_version: "9.3"
 page_heading: "Select a language for a writing system"
 type: "topic"

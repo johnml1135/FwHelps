@@ -13,14 +13,10 @@ keywords:
   - "Writing System:Vernacular writing systems"
   - "About:Vernacular writing systems"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
-  - "Get 
- more help -> ../../../Overview/Technical_support.md"
-  - "Using 
- the Writing System Properties dialog box -> ../Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
-  - "Writing Systems 
- overview -> ../Writing_Systems_overview.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Get \n more help -> ../../../Overview/Technical_support.md"
+  - "Using \n the Writing System Properties dialog box -> ../Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
+  - "Writing Systems \n overview -> ../Writing_Systems_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:8dcd741ecbb99288"

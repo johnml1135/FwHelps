@@ -13,8 +13,7 @@ keywords:
   - "Delete:Feature Type"
   - "Feature Types (Lists)"
 related:
-  - "Feature Types 
- overview -> Feature_Types_overview.md"
+  - "Feature Types \n overview -> Feature_Types_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:779f381938e45234"

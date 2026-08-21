@@ -23,8 +23,7 @@ keywords:
   - "interlinear annotation line"
   - "Right-Click:Configure Interlinear lines right-click"
 related:
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:938eb52bf62e3ceb"

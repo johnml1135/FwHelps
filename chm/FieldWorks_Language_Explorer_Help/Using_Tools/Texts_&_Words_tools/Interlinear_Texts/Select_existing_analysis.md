@@ -12,12 +12,9 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Select (See also: Specify or Choose):Existing analysis"
 related:
-  - "Parsing 
- words overview -> ../../../User_Interface/Menus/Parser/Parsing_words_overview.md"
-  - "Move 
- to another word -> ../../../User_Interface/Menus/Data/Data_overview.md"
-  - "Texts & 
- Words overview -> ../Texts_and_Words_overview.md"
+  - "Parsing \n words overview -> ../../../User_Interface/Menus/Parser/Parsing_words_overview.md"
+  - "Move \n to another word -> ../../../User_Interface/Menus/Data/Data_overview.md"
+  - "Texts & \n Words overview -> ../Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 page_heading: "Select an existing analysis"
 type: "topic"

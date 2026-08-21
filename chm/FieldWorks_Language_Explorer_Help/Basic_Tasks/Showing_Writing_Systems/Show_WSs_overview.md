@@ -18,17 +18,12 @@ keywords:
   - "Showing:Showing Writing Systems"
   - "Showing:Showing Writing Systems overview"
 related:
-  - "Advanced 
- Tasks overview -> ../../Advanced_Tasks/Advanced_Tasks_overview.md"
+  - "Advanced \n Tasks overview -> ../../Advanced_Tasks/Advanced_Tasks_overview.md"
   - "Basic Tasks overview -> ../Basic_Tasks_overview.md"
-  - "Field 
- Descriptions overview -> ../../User_Interface/Field_Descriptions/field_descriptions_overview.md"
-  - "Modifying 
- a writing system overview -> ../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Modifying_a_writing_system_overview.md"
-  - "Select 
- a writing system -> ../../User_Interface/Menus/Format/select_a_writing_system.md"
-  - "Select 
- pronunciation writing systems -> ../../Using_Tools/Lexicon_tools/Lexicon_Edit/select_pronunciation_writing_systems.md"
+  - "Field \n Descriptions overview -> ../../User_Interface/Field_Descriptions/field_descriptions_overview.md"
+  - "Modifying \n a writing system overview -> ../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Modifying_a_writing_system_overview.md"
+  - "Select \n a writing system -> ../../User_Interface/Menus/Format/select_a_writing_system.md"
+  - "Select \n pronunciation writing systems -> ../../Using_Tools/Lexicon_tools/Lexicon_Edit/select_pronunciation_writing_systems.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:4919868de907d762"

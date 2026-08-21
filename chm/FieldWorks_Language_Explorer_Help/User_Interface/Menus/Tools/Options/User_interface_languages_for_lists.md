@@ -17,13 +17,10 @@ keywords:
   - "UI language"
   - "change"
 related:
-  - "Change the 
- user interface language -> Change_Interface_Language.md"
+  - "Change the \n user interface language -> Change_Interface_Language.md"
   - "Configure List -> ../Configure_List.md"
-  - "Delete 
- FieldWorks project -> ../../File/Delete_Fieldworks_project.md"
-  - "Import 
- translated list content -> ../../../../Beginning_Tasks/Importing_Data/Import_Translated_List_Content.md"
+  - "Delete \n FieldWorks project -> ../../File/Delete_Fieldworks_project.md"
+  - "Import \n translated list content -> ../../../../Beginning_Tasks/Importing_Data/Import_Translated_List_Content.md"
   - "Options (menu) overview -> Options_overview.md"
 fw_help_version: "9.3"
 page_heading: "User Interface language for Lists"

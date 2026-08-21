@@ -17,8 +17,7 @@ keywords:
   - "Characters"
   - "valid for writing system"
 related:
-  - "Valid Characters 
- dialog box -> Valid_Char_overview.md"
+  - "Valid Characters \n dialog box -> Valid_Char_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:a477863e35734993"

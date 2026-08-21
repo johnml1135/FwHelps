@@ -10,12 +10,9 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Shortcuts overview -> Shortcuts_overview.md"
-  - "Shortcuts 
- for the Contents tab -> Shortcuts_for_the_Contents_tab.md"
-  - "Shortcuts for 
- the Index tab -> Shortcuts_for_the_Index_tab.md"
-  - "Shortcuts 
- for the Favorites tab -> Shortcuts_for_the_Favorites_tab.md"
+  - "Shortcuts \r\n for the Contents tab -> Shortcuts_for_the_Contents_tab.md"
+  - "Shortcuts for \r\n the Index tab -> Shortcuts_for_the_Index_tab.md"
+  - "Shortcuts \r\n for the Favorites tab -> Shortcuts_for_the_Favorites_tab.md"
 type: "topic"
 content_hash: "sha256:6a964dbc476c9776"
 ---

@@ -23,8 +23,7 @@ keywords:
   - "Send/Receive"
 related:
   - "Chorus Hub overview -> Chorus_Hub_overview.md"
-  - "Collaborating 
- with Others overview -> Collaborating_with_Others_overview.md"
+  - "Collaborating \n with Others overview -> Collaborating_with_Others_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:5b8c9825617ede37"

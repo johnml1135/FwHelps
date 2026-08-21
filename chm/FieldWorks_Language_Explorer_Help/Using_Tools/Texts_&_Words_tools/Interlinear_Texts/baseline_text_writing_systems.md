@@ -15,14 +15,10 @@ keywords:
   - "Texts & Words:Baseline text writing systems"
   - "Analyze Texts (parse):Baseline text writing systems"
 related:
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
-  - "Show 
- data overview -> ../../../Basic_Tasks/Show_data/Show_data_overview.md"
-  - "Text 
- preparation before analyzing -> Text_preparation_before_analyzing.md"
-  - "Word-forming 
- apostrophes and glottal stops -> ../../../User_Interface/Menus/Insert/wordforming_apostophes.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
+  - "Show \n data overview -> ../../../Basic_Tasks/Show_data/Show_data_overview.md"
+  - "Text \n preparation before analyzing -> Text_preparation_before_analyzing.md"
+  - "Word-forming \n apostrophes and glottal stops -> ../../../User_Interface/Menus/Insert/wordforming_apostophes.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:35f6b415511fef28"

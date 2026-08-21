@@ -14,10 +14,8 @@ keywords:
   - "New:Sense"
 related:
   - "Add a new sense -> add_a_new_sense.md"
-  - "Insert 
- a sense or subsense in an entry -> ../../Lexicon_tools/Lexicon_Edit/Insert_a_sense_or_subsense_in_an_entry.md"
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
+  - "Insert \n a sense or subsense in an entry -> ../../Lexicon_tools/Lexicon_Edit/Insert_a_sense_or_subsense_in_an_entry.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:af16a1081761a983"

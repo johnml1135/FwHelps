@@ -13,10 +13,8 @@ keywords:
   - "Open"
   - "Open:Writing System Properties dialog box"
 related:
-  - "Modifying 
- a writing system overview -> Modifying_a_writing_system_overview.md"
-  - "Valid 
- Characters dialog box -> Valid_Characters_dialog_box/Valid_Char_overview.md"
+  - "Modifying \n a writing system overview -> Modifying_a_writing_system_overview.md"
+  - "Valid \n Characters dialog box -> Valid_Characters_dialog_box/Valid_Char_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:ec0cb6ee81616fd9"

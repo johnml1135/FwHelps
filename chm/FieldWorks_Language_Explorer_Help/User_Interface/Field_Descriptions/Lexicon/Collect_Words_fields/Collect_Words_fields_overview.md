@@ -15,10 +15,8 @@ keywords:
   - "Rapid Words:Collect Words fields overview"
   - "Collect Words:Collect Words fields overview"
 related:
-  - "Collect 
- Words overview -> ../../../../Using_Tools/Lexicon_tools/Collect_Words/Collect_Words_overview.md"
-  - "Lexicon Fields 
- overview -> ../Lexicon_fields_overview.md"
+  - "Collect \n Words overview -> ../../../../Using_Tools/Lexicon_tools/Collect_Words/Collect_Words_overview.md"
+  - "Lexicon Fields \n overview -> ../Lexicon_fields_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:60c21b2a6b9f477c"

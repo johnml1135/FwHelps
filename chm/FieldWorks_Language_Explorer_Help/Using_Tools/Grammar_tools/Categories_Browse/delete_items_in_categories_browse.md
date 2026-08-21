@@ -13,12 +13,9 @@ keywords:
   - "Delete:Category (Categories Browse)"
   - "Categories Browse"
 related:
-  - "Categories 
- Browse overview -> Categories_Browse_overview.md"
-  - "Category 
- Edit overview -> ../Category_Edit/Category_Edit_overview.md"
-  - "Configure 
- Columns overview -> ../../../Basic_Tasks/Configure_Columns/Configure_Columns_overview.md"
+  - "Categories \n Browse overview -> Categories_Browse_overview.md"
+  - "Category \n Edit overview -> ../Category_Edit/Category_Edit_overview.md"
+  - "Configure \n Columns overview -> ../../../Basic_Tasks/Configure_Columns/Configure_Columns_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:11bfdc46a7dde1c4"

@@ -15,10 +15,8 @@ keywords:
   - "Merge"
   - "Merge:Writing systems"
 related:
-  - "File 
- overview -> ../../../User_Interface/Menus/File/File_overview.md"
-  - "Writing 
- System Properties overview -> Using_the_Writing_System_Properties_dialog_box.md"
+  - "File \n overview -> ../../../User_Interface/Menus/File/File_overview.md"
+  - "Writing \n System Properties overview -> Using_the_Writing_System_Properties_dialog_box.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:19733f22048d2411"

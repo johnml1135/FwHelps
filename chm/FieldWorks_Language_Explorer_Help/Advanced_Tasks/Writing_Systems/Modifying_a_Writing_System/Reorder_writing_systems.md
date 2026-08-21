@@ -12,8 +12,7 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Writing System:Reorder writing systems"
 related:
-  - "Modifying 
- a writing system overview -> Modifying_a_writing_system_overview.md"
+  - "Modifying \n a writing system overview -> Modifying_a_writing_system_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:85b3c072ed0d053e"

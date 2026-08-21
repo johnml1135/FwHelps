@@ -14,10 +14,8 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Extended Note:Extended Note fields"
 related:
-  - "Enter 
- extended note information -> ../../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Enter_Extended_Note.md"
-  - "Sense-level 
- fields overview -> ../Sense_level_fields_overview.md"
+  - "Enter \n extended note information -> ../../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Enter_Extended_Note.md"
+  - "Sense-level \n fields overview -> ../Sense_level_fields_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:269749312d489ec5"

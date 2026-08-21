@@ -14,14 +14,10 @@ keywords:
   - "Feature Types (Lists):Feature Types fields overview"
   - "Types:Feature Types fields overview"
 related:
-  - "About 
- Inflection Features and Feature Types -> ../../../../Using_Tools/Grammar_tools/Inflection_Features/About_Infl_Features_and_Types.md"
-  - "Lists fields 
- overview -> ../Lists_fields_overview.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Inflection 
- Features fields overview -> ../../Grammar/Inflection_Features_fields/Features_fields_overview.md"
+  - "About \n Inflection Features and Feature Types -> ../../../../Using_Tools/Grammar_tools/Inflection_Features/About_Infl_Features_and_Types.md"
+  - "Lists fields \n overview -> ../Lists_fields_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Inflection \n Features fields overview -> ../../Grammar/Inflection_Features_fields/Features_fields_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:e55059bcfb53a894"

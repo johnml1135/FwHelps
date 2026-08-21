@@ -13,12 +13,9 @@ keywords:
   - "writing systems"
   - "Send/Receive:Writing system collaboration issues"
 related:
-  - "Get Started 
- with Send/Receive -> Get_Started_with_Send_Receive.md"
-  - "Technical 
- support -> ../../Overview/Technical_support.md"
-  - "Using 
- the Writing System Properties dialog box -> ../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
+  - "Get Started \n with Send/Receive -> Get_Started_with_Send_Receive.md"
+  - "Technical \n support -> ../../Overview/Technical_support.md"
+  - "Using \n the Writing System Properties dialog box -> ../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:0cdb35074341a27e"

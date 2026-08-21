@@ -9,10 +9,8 @@ source: "Using_Help/Searching_for_Help_Topics/Find_information_using_an_advanced
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Help/Searching_for_Help_Topics/Find_information_using_an_advanced_search.htm"
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
-  - "Search 
- for information overview -> Search_for_Information_overview.md"
-  - "Find 
- information using a simple search -> Find_information_using_a_simple_search.md"
+  - "Search \r\n for information overview -> Search_for_Information_overview.md"
+  - "Find \r\n information using a simple search -> Find_information_using_a_simple_search.md"
 type: "topic"
 content_hash: "sha256:102920623438c540"
 ---

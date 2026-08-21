@@ -1,7 +1,7 @@
 ---
 title: "Technical Notes on LinguaLinks Database Import"
 source: "Language Explorer/Training/Technical Notes on LinguaLinks Database Import.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/1ecb705/Language%20Explorer/Training/Technical%20Notes%20on%20LinguaLinks%20Database%20Import.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Training/Technical%20Notes%20on%20LinguaLinks%20Database%20Import.pdf"
 sha256: "c0bd82d74ec89dea663fa1c671bddb5d2c539ba4a8a029946dd62fda62f25846"
 pdf_metadata:
   format: "PDF 1.5"
@@ -12,7 +12,7 @@ pdf_metadata:
   creationDate: "D:20130603124740-05'00'"
   modDate: "D:20130603124740-05'00'"
 type: "pdf"
-outline_count: 25
+outline_count: "25"
 structure: "font-inference (15p)"
 ---
 

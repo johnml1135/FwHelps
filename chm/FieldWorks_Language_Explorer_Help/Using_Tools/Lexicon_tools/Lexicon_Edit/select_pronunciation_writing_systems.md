@@ -20,10 +20,8 @@ keywords:
 related:
   - "Enter a pronunciation -> Enter_a_Pronunciation.md"
   - "Lexicon Edit overview -> lexicon_edit_overview.md"
-  - "Pronunciation 
- field -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Pronunciation_field.md"
-  - "Showing 
- writing systems overview -> ../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
+  - "Pronunciation \n field -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Pronunciation_field.md"
+  - "Showing \n writing systems overview -> ../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
 fw_help_version: "9.3"
 page_heading: "Select pronunciation writing systems"
 type: "topic"

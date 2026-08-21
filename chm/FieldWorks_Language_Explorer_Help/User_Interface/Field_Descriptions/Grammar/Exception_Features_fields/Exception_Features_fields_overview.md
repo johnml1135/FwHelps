@@ -22,9 +22,9 @@ type: "index"
 content_hash: "sha256:a33f794d912db2e6"
 ---
 
-# Exception "Features" fields overview
+# Exception \"Features\" fields overview
 
-*User Interface › Field Descriptions › Grammar › Exception "Features" fields*
+*User Interface › Field Descriptions › Grammar › Exception \"Features\" fields*
 
 **Exception "Features"** are used to restrict the productivity of certain affixes so that they only co-occur with stems that are tagged with the same set of exception “features.”
 

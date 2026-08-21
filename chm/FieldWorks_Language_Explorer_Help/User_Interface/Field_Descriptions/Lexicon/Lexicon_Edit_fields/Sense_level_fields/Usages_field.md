@@ -15,20 +15,14 @@ keywords:
   - "Usages"
   - "Usages:Usages field"
 related:
-  - "Bulk 
- change publications -> ../../../../../Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_change_publications.md"
-  - "Create 
- a new publication -> ../../../../../Using_Tools/Lists_tools/Create_new_publication.md"
+  - "Bulk \n change publications -> ../../../../../Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_change_publications.md"
+  - "Create \n a new publication -> ../../../../../Using_Tools/Lists_tools/Create_new_publication.md"
   - "Definition field -> definition_field.md"
-  - "Dialect Labels 
- (Sense) -> Dialect_Labels_(Sense).md"
-  - "Lexicon 
- Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "Dialect Labels \n (Sense) -> Dialect_Labels_(Sense).md"
+  - "Lexicon \n Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
   - "Publish Sense In field -> Publish_In_(Sense).md"
-  - "Sense-level 
- fields overview -> Sense_level_fields_overview.md"
-  - "What 
- is a publication? -> ../../../Lists/Publications/What_is_a_Publication.md"
+  - "Sense-level \n fields overview -> Sense_level_fields_overview.md"
+  - "What \n is a publication? -> ../../../Lists/Publications/What_is_a_Publication.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:37844cdcd09148b5"

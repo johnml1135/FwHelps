@@ -16,8 +16,7 @@ keywords:
   - "Advanced tasks:Advanced check box"
   - "Use or Using:Use the advanced writing system controls"
 related:
-  - "Modifying 
- a writing system overview -> Modifying_a_writing_system_overview.md"
+  - "Modifying \n a writing system overview -> Modifying_a_writing_system_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:b0299bfdcefbee75"

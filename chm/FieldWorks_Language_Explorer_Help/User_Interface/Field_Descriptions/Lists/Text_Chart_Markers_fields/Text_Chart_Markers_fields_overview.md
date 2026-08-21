@@ -14,18 +14,12 @@ keywords:
   - "Texts & Words:Text Chart Markers fields overview"
   - "Text Chart tab fields (Lists)"
 related:
-  - "Lists fields 
- overview -> ../Lists_fields_overview.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Mark 
- Grammatical Information -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/mark_grammatical_information.md"
-  - "Text 
- Chart Markers -> ../../../../Using_Tools/Lists_tools/Text_Chart/Text_Chart_Markers.md"
-  - "Text 
- Chart Markers fields overview -> Text_Chart_Markers_fields_overview.md"
-  - "Text 
- Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
+  - "Lists fields \n overview -> ../Lists_fields_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Mark \n Grammatical Information -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/mark_grammatical_information.md"
+  - "Text \n Chart Markers -> ../../../../Using_Tools/Lists_tools/Text_Chart/Text_Chart_Markers.md"
+  - "Text \n Chart Markers fields overview -> Text_Chart_Markers_fields_overview.md"
+  - "Text \n Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:9f19ea24e708ab30"

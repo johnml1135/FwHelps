@@ -16,22 +16,14 @@ keywords:
   - "Lexical Edit:Lexicon Edit fields overview"
   - "Grammatical Information"
 related:
-  - "About 
- features and feature types -> ../../../../Using_Tools/Grammar_tools/Inflection_Features/About_Infl_Features_and_Types.md"
-  - "Add 
- a custom field -> ../../../Menus/Tools/Custom_Fields/add_a_custom_field.md"
-  - "Change 
- the width of the field label area -> ../../Field_Types/change_the_width_of_the_field_label_area.md"
-  - "Configure 
- field writing systems -> ../../../../Basic_Tasks/Showing_Writing_Systems/configure_field_WSs.md"
-  - "Format 
- a table -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Format_a_table.md"
-  - "Lexicon 
- Edit fields overview -> Lexicon_Edit_fields_overview.md"
-  - "Lexicon 
- Edit overview -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
-  - "Lexicon fields 
- overview -> ../Lexicon_fields_overview.md"
+  - "About \n features and feature types -> ../../../../Using_Tools/Grammar_tools/Inflection_Features/About_Infl_Features_and_Types.md"
+  - "Add \n a custom field -> ../../../Menus/Tools/Custom_Fields/add_a_custom_field.md"
+  - "Change \n the width of the field label area -> ../../Field_Types/change_the_width_of_the_field_label_area.md"
+  - "Configure \n field writing systems -> ../../../../Basic_Tasks/Showing_Writing_Systems/configure_field_WSs.md"
+  - "Format \n a table -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Format_a_table.md"
+  - "Lexicon \n Edit fields overview -> Lexicon_Edit_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "Lexicon fields \n overview -> ../Lexicon_fields_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:fa6fb8cbfbb966c4"

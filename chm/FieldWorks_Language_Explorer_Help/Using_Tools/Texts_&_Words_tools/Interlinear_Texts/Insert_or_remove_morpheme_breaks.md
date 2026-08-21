@@ -30,10 +30,8 @@ keywords:
   - "Analyze a phrase"
 related:
   - "Analyze Text overview -> Analyze_Text_overview.md"
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
-  - "Texts & 
- Words overview -> ../Texts_and_Words_overview.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
+  - "Texts & \n Words overview -> ../Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:119c498371faa141"

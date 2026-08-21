@@ -22,7 +22,7 @@ type: "topic"
 content_hash: "sha256:648f603a594c7406"
 ---
 
-# Exception "Features" field
+# Exception \"Features\" field
 
 *User Interface › Field Descriptions › Lexicon › Lexicon Edit fields › Grammatical Info Details fields*
 

@@ -10,8 +10,7 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Shortcuts overview -> Shortcuts_overview.md"
-  - "Shortcuts 
- for the Help window -> Shortcuts_for_the_Help_window.md"
+  - "Shortcuts \r\n for the Help window -> Shortcuts_for_the_Help_window.md"
 type: "topic"
 content_hash: "sha256:84617a23c53f803f"
 ---

@@ -24,7 +24,7 @@ content_hash: "sha256:58962f84f8e9e749"
 
 # Exception Features overview
 
-*Using Tools › Grammar tools › Exception "Features"*
+*Using Tools › Grammar tools › Exception \"Features\"*
 
 **Exception "Features"** are used in the [Lexicon](../../Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md) **Exception Features** field.
 

@@ -13,10 +13,8 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Abbreviation fields"
 related:
-  - "Grammar 
- Sketch -> ../../../../Using_Tools/Grammar_tools/Grammar_Sketch/Grammar_Sketch_overview.md"
-  - "Natural 
- Classes fields overview -> natural_classes_fields_overview.md"
+  - "Grammar \n Sketch -> ../../../../Using_Tools/Grammar_tools/Grammar_Sketch/Grammar_Sketch_overview.md"
+  - "Natural \n Classes fields overview -> natural_classes_fields_overview.md"
 fw_help_version: "9.3"
 page_heading: "Abbreviation field"
 type: "topic"

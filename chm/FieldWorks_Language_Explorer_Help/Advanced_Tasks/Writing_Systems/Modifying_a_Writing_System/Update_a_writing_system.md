@@ -14,12 +14,9 @@ keywords:
   - "Modify a writing system:Update a writing system"
   - "Update:Update a writing system"
 related:
-  - "Get 
- more help -> ../../../Overview/Technical_support.md"
-  - "Modifying 
- a writing system overview -> Modifying_a_writing_system_overview.md"
-  - "Writing 
- System Files -> ../Add_a_new_writing_system/Writing_System_files.md"
+  - "Get \n more help -> ../../../Overview/Technical_support.md"
+  - "Modifying \n a writing system overview -> Modifying_a_writing_system_overview.md"
+  - "Writing \n System Files -> ../Add_a_new_writing_system/Writing_System_files.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:5c08defc1025b1f0"

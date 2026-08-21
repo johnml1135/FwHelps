@@ -20,12 +20,9 @@ keywords:
   - "Showing:Showing and hiding fields overview"
 related:
   - "Basic Tasks overview -> ../Basic_Tasks_overview.md"
-  - "Configure 
- Columns dialog box -> ../Configure_Columns/Using_Configure_Columns_dialog_box.md"
-  - "Field 
- descriptions overview -> ../../User_Interface/Field_Descriptions/field_descriptions_overview.md"
-  - "Restore 
- default settings -> ../../User_Interface/Menus/Tools/Restore_defaults.md"
+  - "Configure \n Columns dialog box -> ../Configure_Columns/Using_Configure_Columns_dialog_box.md"
+  - "Field \n descriptions overview -> ../../User_Interface/Field_Descriptions/field_descriptions_overview.md"
+  - "Restore \n default settings -> ../../User_Interface/Menus/Tools/Restore_defaults.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:497d5b5b5cce803a"

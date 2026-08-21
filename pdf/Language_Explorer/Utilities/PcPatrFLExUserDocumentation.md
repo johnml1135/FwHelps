@@ -1,7 +1,7 @@
 ---
 title: "Use PC-PATR with FLEx User Documentation"
 source: "Language Explorer/Utilities/PcPatrFLExUserDocumentation.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/1ecb705/Language%20Explorer/Utilities/PcPatrFLExUserDocumentation.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Utilities/PcPatrFLExUserDocumentation.pdf"
 sha256: "895f2e27662e7dffeb8d7e65e1c742f095d51df599b425605b0b2bd2fac058bd"
 pdf_metadata:
   format: "PDF 1.5"
@@ -11,7 +11,7 @@ pdf_metadata:
   producer: "xdvipdfmx (0.7.8)"
   creationDate: "D:20260402150635-07'00'"
 type: "pdf"
-outline_count: 23
+outline_count: "23"
 structure: "bookmarks (11p)"
 ---
 

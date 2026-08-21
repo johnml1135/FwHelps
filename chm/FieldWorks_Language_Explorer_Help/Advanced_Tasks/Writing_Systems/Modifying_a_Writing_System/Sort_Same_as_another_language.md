@@ -14,8 +14,7 @@ keywords:
   - "Collation"
   - "sorting:Sort - Same as another language"
 related:
-  - "Sorting 
- tab, Writing System Properties dialog box -> Writing_System_Properties_Sorting_tab.md"
+  - "Sorting \n tab, Writing System Properties dialog box -> Writing_System_Properties_Sorting_tab.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:10f3bb47675f6b0a"

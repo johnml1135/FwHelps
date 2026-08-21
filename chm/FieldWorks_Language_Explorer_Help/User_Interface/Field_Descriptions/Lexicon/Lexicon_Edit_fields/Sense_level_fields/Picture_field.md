@@ -14,10 +14,8 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Picture:Picture field"
 related:
-  - "Lexicon 
- Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
-  - "Sense-level 
- fields overview -> Sense_level_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "Sense-level \n fields overview -> Sense_level_fields_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:6423ab113f8d774b"

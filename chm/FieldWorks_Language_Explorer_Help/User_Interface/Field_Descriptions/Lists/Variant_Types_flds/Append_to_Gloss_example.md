@@ -16,11 +16,9 @@ keywords:
   - "Variant Forms:Append to Gloss example"
   - "Append to Gloss:Append to Gloss example"
 related:
-  - "About 
- Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
+  - "About \n Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
   - "Append to Gloss field -> Append_to_Gloss.md"
-  - "Convert 
- variants utility -> ../../../Menus/Tools/Convert_variants_utility.md"
+  - "Convert \n variants utility -> ../../../Menus/Tools/Convert_variants_utility.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:8222904bbafadbc1"

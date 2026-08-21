@@ -15,10 +15,8 @@ keywords:
   - "Lexicon"
   - "Literal Meaning"
 related:
-  - "Enter a summary 
- definition -> Enter_a_summary_definition.md"
-  - "Lexicon 
- Edit fields overview -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Lexicon_Edit_fields_overview.md"
+  - "Enter a summary \n definition -> Enter_a_summary_definition.md"
+  - "Lexicon \n Edit fields overview -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Lexicon_Edit_fields_overview.md"
   - "Lexicon Edit overview -> lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"

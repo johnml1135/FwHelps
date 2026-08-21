@@ -21,7 +21,7 @@ content_hash: "sha256:1920c62ab7c54a9e"
 
 # Insert an exception feature
 
-*Using Tools › Grammar tools › Exception "Features"*
+*Using Tools › Grammar tools › Exception \"Features\"*
 
 1.  In the **Navigation** **Pane**, click **Grammar**, and then click **Exception "Features**.**"**
 

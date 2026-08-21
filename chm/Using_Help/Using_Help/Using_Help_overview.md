@@ -8,8 +8,7 @@ source: "Using_Help/Using_Help_overview.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Help/Using_Help_overview.htm"
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
-  - "Find a Help 
- topic -> Help_Window/Find_a_Help_topic.md"
+  - "Find a Help \r\n topic -> Help_Window/Find_a_Help_topic.md"
 type: "index"
 content_hash: "sha256:5aff11bdc2def7ce"
 ---

@@ -13,12 +13,9 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Environment:Environments fields overview"
 related:
-  - "Environments 
- overview -> ../../../../Using_Tools/Grammar_tools/Environments/Environments_overview.md"
-  - "Grammar fields 
- overview -> ../Grammar_fields_overview.md"
-  - "Problems 
- fields overview -> ../Problems_fields/problems_fields_overview.md"
+  - "Environments \n overview -> ../../../../Using_Tools/Grammar_tools/Environments/Environments_overview.md"
+  - "Grammar fields \n overview -> ../Grammar_fields_overview.md"
+  - "Problems \n fields overview -> ../Problems_fields/problems_fields_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:52ddb109f081a75a"

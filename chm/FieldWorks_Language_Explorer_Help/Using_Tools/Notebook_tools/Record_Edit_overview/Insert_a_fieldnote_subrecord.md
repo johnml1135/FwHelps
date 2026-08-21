@@ -16,19 +16,14 @@ keywords:
   - "fieldnote (Notebook)"
   - "Subrecord field"
 related:
-  - "Add 
- a custom field -> ../../../User_Interface/Menus/Tools/Custom_Fields/add_a_custom_field.md"
-  - "Browse 
- overview -> ../Browse_overview/Notebook_Browse_overview.md"
-  - "Context-sensitive 
- menus -> ../../../Basic_Tasks/Show_data/Context_sens_menus.md"
+  - "Add \n a custom field -> ../../../User_Interface/Menus/Tools/Custom_Fields/add_a_custom_field.md"
+  - "Browse \n overview -> ../Browse_overview/Notebook_Browse_overview.md"
+  - "Context-sensitive \n menus -> ../../../Basic_Tasks/Show_data/Context_sens_menus.md"
   - "Edit a title -> Edit_a_title.md"
   - "Notebook overview -> ../Notebook_overview.md"
   - "Record Edit overview -> Record_Edit_overview.md"
-  - "Reorder, 
- demote or promote a record -> Reorder_demote_or_promote_a_record.md"
-  - "Subrecord 
- field -> ../../../User_Interface/Field_Descriptions/Notebook/Subrecords_field.md"
+  - "Reorder, \n demote or promote a record -> Reorder_demote_or_promote_a_record.md"
+  - "Subrecord \n field -> ../../../User_Interface/Field_Descriptions/Notebook/Subrecords_field.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:61b2c9adabca1d62"

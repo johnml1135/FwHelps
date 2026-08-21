@@ -39,16 +39,11 @@ keywords:
   - "Vernacular writing system"
   - "Vernacular writing system:About Writing Systems"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
-  - "Format 
- menu overview -> ../../../User_Interface/Menus/Format/Format_overview.md"
-  - "Showing 
- writing systems overview -> ../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
-  - "Using 
- the Writing System Properties dialog box -> ../Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
-  - "Writing Systems 
- overview -> ../Writing_Systems_overview.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Format \n menu overview -> ../../../User_Interface/Menus/Format/Format_overview.md"
+  - "Showing \n writing systems overview -> ../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
+  - "Using \n the Writing System Properties dialog box -> ../Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
+  - "Writing Systems \n overview -> ../Writing_Systems_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:fe47da3f886c29ca"

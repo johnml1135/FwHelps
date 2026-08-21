@@ -21,11 +21,9 @@ keywords:
   - "New:New FieldWorks project"
   - "Illegal characters in project name"
 related:
-  - "Backup 
- and Restore dialog box -> Backup_and_Restore/Backup_and_Restore_overview.md"
+  - "Backup \n and Restore dialog box -> Backup_and_Restore/Backup_and_Restore_overview.md"
   - "File overview -> File_overview.md"
-  - "Unable to Open 
- Project dialog box -> Unable_to_Open_Project.md"
+  - "Unable to Open \n Project dialog box -> Unable_to_Open_Project.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:8febf106bfe082cc"

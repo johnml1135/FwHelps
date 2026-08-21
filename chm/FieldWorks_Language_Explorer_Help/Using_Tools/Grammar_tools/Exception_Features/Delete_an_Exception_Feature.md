@@ -13,8 +13,7 @@ keywords:
   - "Delete:Exception"
   - "Exception Feature"
 related:
-  - "Exception 
- \"Features\" overview -> exception_features_overview.md"
+  - "Exception \n \"Features\" overview -> exception_features_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:fd072147aa65f817"
@@ -22,7 +21,7 @@ content_hash: "sha256:fd072147aa65f817"
 
 # Delete an exception feature
 
-*Using Tools › Grammar tools › Exception "Features"*
+*Using Tools › Grammar tools › Exception \"Features\"*
 
 1.  In the **Navigation** **Pane**, click **Grammar**, and then click **Exception "Features**.**"**
 

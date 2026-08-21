@@ -14,14 +14,10 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "File:File field"
 related:
-  - "Lexicon 
- Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
-  - "FieldWorks 
- Project Properties, Linked Files tab -> ../../../../Menus/File/Project_Properties/Project_Properties_Linked_Files_tab.md"
-  - "Move 
- or Copy Files dialog box -> ../../../../Menus/File/Project_Properties/Move_or_Copy_Files.md"
-  - "Sense-level 
- fields overview -> Sense_level_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "FieldWorks \n Project Properties, Linked Files tab -> ../../../../Menus/File/Project_Properties/Project_Properties_Linked_Files_tab.md"
+  - "Move \n or Copy Files dialog box -> ../../../../Menus/File/Project_Properties/Move_or_Copy_Files.md"
+  - "Sense-level \n fields overview -> Sense_level_fields_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:e18bf7c948c58419"

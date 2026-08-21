@@ -18,13 +18,11 @@ keywords:
   - "Select language overview"
   - "Select language overview:Select language overview"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
-  - "Select a language 
- for a writing system -> Select_Language_dialog_box.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Select a language \n for a writing system -> Select_Language_dialog_box.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:845a2d2f7ae30b4d"
+content_hash: "sha256:8098136c3196da12"
 ---
 
 # Select language overview
@@ -55,7 +53,7 @@ Avoid associating a writing system with an *incorrect* language. You probably sh
 [Select a language for a writing system](Select_Language_dialog_box.md)
 
 ## Related links
-<a href="httsp://www.ethnologue.com/world" target="_blank" title="https://www.ethnologue.com/world">https://www.ethnologue.com/world</a>
+<a href="#" target="_blank" title="https://www.ethnologue.com/world">https://www.ethnologue.com/world</a>
 
 <a href="https://www.ethnologue.com/about/language-info" target="_blank" title="https://www.ethnologue.com/about/language-info">https://www.ethnologue.com/about/language-info</a>
 

@@ -15,12 +15,9 @@ keywords:
   - "Text Chart tab fields (Lists)"
   - "Text Constituent Chart Templates fields"
 related:
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Text 
- Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
-  - "Text Constituent 
- Chart Templates fields overview -> Text_Chart_Temp_flds_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Text \n Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
+  - "Text Constituent \n Chart Templates fields overview -> Text_Chart_Temp_flds_overview.md"
 fw_help_version: "9.3"
 page_heading: "Description field (Text Constituent Chart Templates)"
 type: "topic"

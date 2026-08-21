@@ -9,8 +9,7 @@ source: "Using_Help/Help_Window/Hide_or_show_the_Navigation_pane.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Help/Help_Window/Hide_or_show_the_Navigation_pane.htm"
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
-  - "Customize the 
- Help window -> Customize_the_Help_window.md"
+  - "Customize the \r\n Help window -> Customize_the_Help_window.md"
   - "Help Window overview -> Help_Window_overview.md"
 type: "topic"
 content_hash: "sha256:eb81b8575a881149"

@@ -17,10 +17,8 @@ keywords:
   - "Extended Note"
   - "Extended Note:Insert an extended note"
 related:
-  - "Extended 
- Note fields overview -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Extended_Note/Extended_Note_fields_overview.md"
-  - "Extended 
- Note (Configure Dictionary) -> ../../../User_Interface/Menus/Tools/Configure_Dictionary/Extended_Note.md"
+  - "Extended \n Note fields overview -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Extended_Note/Extended_Note_fields_overview.md"
+  - "Extended \n Note (Configure Dictionary) -> ../../../User_Interface/Menus/Tools/Configure_Dictionary/Extended_Note.md"
   - "Lexicon Edit overview -> lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"

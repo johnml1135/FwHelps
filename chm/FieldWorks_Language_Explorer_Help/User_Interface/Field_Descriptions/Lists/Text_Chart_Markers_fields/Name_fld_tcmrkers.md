@@ -14,14 +14,10 @@ keywords:
   - "Name fields"
   - "Text Chart tab fields (Lists)"
 related:
-  - "Configure 
- List -> ../../../Menus/Tools/Configure_List.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Text 
- Chart Markers overview -> Text_Chart_Markers_fields_overview.md"
-  - "Text 
- Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
+  - "Configure \n List -> ../../../Menus/Tools/Configure_List.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Text \n Chart Markers overview -> Text_Chart_Markers_fields_overview.md"
+  - "Text \n Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:61d1539c5a96a750"

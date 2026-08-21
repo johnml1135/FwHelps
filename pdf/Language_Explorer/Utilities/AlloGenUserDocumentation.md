@@ -1,7 +1,7 @@
 ---
 title: "Allomorph Generator User Documentation"
 source: "Language Explorer/Utilities/AlloGenUserDocumentation.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/1ecb705/Language%20Explorer/Utilities/AlloGenUserDocumentation.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Utilities/AlloGenUserDocumentation.pdf"
 sha256: "b38ce8d8a203e8ca15ba39bab4f8f38e215a91338759a39211f881bebf72c535"
 pdf_metadata:
   format: "PDF 1.5"
@@ -11,7 +11,7 @@ pdf_metadata:
   producer: "xdvipdfmx (0.7.8)"
   creationDate: "D:20260309100639-07'00'"
 type: "pdf"
-outline_count: 22
+outline_count: "22"
 structure: "bookmarks (12p)"
 ---
 

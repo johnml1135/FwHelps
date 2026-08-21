@@ -19,11 +19,9 @@ keywords:
   - "Phonetic (IPA) writing system"
   - "setup:Language codes"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
   - "Private-Use codes -> Privatel_Use_codes.md"
-  - "Writing Systems 
- overview -> ../Writing_Systems_overview.md"
+  - "Writing Systems \n overview -> ../Writing_Systems_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:67d96c0d27130e9b"

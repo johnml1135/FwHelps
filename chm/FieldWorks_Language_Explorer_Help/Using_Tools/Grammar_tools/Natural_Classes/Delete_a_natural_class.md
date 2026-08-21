@@ -13,8 +13,7 @@ keywords:
   - "Delete:Natural class"
   - "Natural Class"
 related:
-  - "Natural Classes 
- overview -> Natural_classes_overview.md"
+  - "Natural Classes \n overview -> Natural_classes_overview.md"
   - "Grammar overview -> ../grammar_overview.md"
 fw_help_version: "9.3"
 type: "topic"

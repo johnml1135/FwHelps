@@ -15,15 +15,11 @@ keywords:
   - "Append to Gloss"
   - "Append to Gloss:Append to Gloss field"
 related:
-  - "About 
- Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
-  - "Convert 
- variants utility -> ../../../Menus/Tools/Convert_variants_utility.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "About \n Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
+  - "Convert \n variants utility -> ../../../Menus/Tools/Convert_variants_utility.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
   - "Prepend to Gloss -> Prepend_to_Gloss.md"
-  - "Variant Types 
- fields overview -> variant_types_flds_overview.md"
+  - "Variant Types \n fields overview -> variant_types_flds_overview.md"
 fw_help_version: "9.3"
 page_heading: "Append to Gloss field"
 type: "topic"

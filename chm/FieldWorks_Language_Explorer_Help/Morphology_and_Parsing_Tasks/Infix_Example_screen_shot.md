@@ -12,8 +12,7 @@ keywords:
   - "example:Infix Example screen shot"
 related:
   - "Circumfix Example -> circumfix_example.md"
-  - "Morphology 
- and Parsing overview -> Morphology_Parsing_Tasks_overview.md"
+  - "Morphology \n and Parsing overview -> Morphology_Parsing_Tasks_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:8d0437eacc9a399c"

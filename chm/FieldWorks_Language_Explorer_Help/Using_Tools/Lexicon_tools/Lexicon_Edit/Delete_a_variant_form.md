@@ -18,8 +18,7 @@ keywords:
 related:
   - "Delete Variant Info -> Delete_Variant_Info.md"
   - "Lexicon Edit overview -> lexicon_edit_overview.md"
-  - "Variant 
- of field -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Variant_of_field.md"
+  - "Variant \n of field -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Variant_of_field.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:29652de91934132d"

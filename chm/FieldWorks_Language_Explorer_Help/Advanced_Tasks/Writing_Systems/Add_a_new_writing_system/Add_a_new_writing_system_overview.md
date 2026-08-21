@@ -12,10 +12,8 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Writing System:Add a new writing system overview"
 related:
-  - "About 
- the Advanced writing system controls -> ../Modifying_a_Writing_System/About_the_Advanced_ws_controls.md"
-  - "Writing Systems 
- overview -> ../Writing_Systems_overview.md"
+  - "About \n the Advanced writing system controls -> ../Modifying_a_Writing_System/About_the_Advanced_ws_controls.md"
+  - "Writing Systems \n overview -> ../Writing_Systems_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:f3119b495691ecec"

@@ -10,10 +10,8 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Using Help overview -> ../Using_Help_overview.md"
-  - "Help 
- Window overview -> ../Help_Window/Help_Window_overview.md"
-  - "Shortcuts 
- overview -> ../Shortcuts/Shortcuts_overview.md"
+  - "Help \r\n Window overview -> ../Help_Window/Help_Window_overview.md"
+  - "Shortcuts \r\n overview -> ../Shortcuts/Shortcuts_overview.md"
 type: "index"
 content_hash: "sha256:0dc77938126c40f6"
 ---

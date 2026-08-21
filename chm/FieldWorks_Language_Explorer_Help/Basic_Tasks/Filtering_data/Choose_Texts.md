@@ -14,12 +14,9 @@ keywords:
   - "Choose (See also: Select or Specify):Texts"
   - "Choose"
 related:
-  - "Choose 
- a genre (Metadata) -> ../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Enter_text_metadata.md"
-  - "Interlinear 
- Texts overview -> ../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/texts_edit_overview.md"
-  - "Texts 
- & Words overview -> ../../Using_Tools/Texts_&_Words_tools/Texts_and_Words_overview.md"
+  - "Choose \n a genre (Metadata) -> ../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Enter_text_metadata.md"
+  - "Interlinear \n Texts overview -> ../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/texts_edit_overview.md"
+  - "Texts \n & Words overview -> ../../Using_Tools/Texts_&_Words_tools/Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:ca56786ba2ce77a0"

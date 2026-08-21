@@ -9,11 +9,9 @@ source: "Using_Help/Help_Window/Change_the_font_size_of_a_topic.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Help/Help_Window/Change_the_font_size_of_a_topic.htm"
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
-  - "Customize the 
- Help window -> Customize_the_Help_window.md"
+  - "Customize the \r\n Help window -> Customize_the_Help_window.md"
   - "Help window overview -> Help_Window_overview.md"
-  - "Change 
- the formatting of style of a topic -> Change_the_formatting_or_style_of_a_topic.md"
+  - "Change \r\n the formatting of style of a topic -> Change_the_formatting_or_style_of_a_topic.md"
 type: "topic"
 content_hash: "sha256:e071f602f8575a87"
 ---

@@ -2,7 +2,7 @@
 
 Generated documentation corpus. **Do not edit these files**; the tree is replaced as a set.
 
-- **Source ref:** `1ecb705`
+- **Source ref:** `b2df7ee`
 - **CHMs:** 2   **PDFs:** 13
 
 - **Root CHMs (auto-discovered):** `FieldWorks_Language_Explorer_Help.chm`, `Using_Help.chm`
@@ -12,9 +12,10 @@ Generated documentation corpus. **Do not edit these files**; the tree is replace
 | Check | Severity | Count |
 | --- | --- | ---: |
 | Duplicate display title | warning | 4 |
-| Missing local link | warning | 23 |
+| Missing local link | warning | 16 |
 | Raw HTML retained | warning | 240 |
 | Replacement character | warning | 2 |
+| Source unsafe URI | warning | 4 |
 | Stale TOC entry | warning | 1 |
 | Topic missing from TOC | warning | 3 |
 

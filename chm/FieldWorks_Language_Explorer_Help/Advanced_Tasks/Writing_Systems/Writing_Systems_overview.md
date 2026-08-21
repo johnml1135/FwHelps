@@ -15,18 +15,12 @@ keywords:
   - "Advanced tasks:Writing Systems overview"
   - "Modify a writing system:Writing Systems overview"
 related:
-  - "Advanced Tasks 
- overview -> ../Advanced_Tasks_overview.md"
-  - "Baseline 
- text writing systems -> ../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/baseline_text_writing_systems.md"
-  - "Hide 
- or show a writing system -> Modifying_a_Writing_System/Hide_or_show_a_writing_system.md"
-  - "Showing 
- writing systems overview -> ../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
-  - "Using 
- the Writing System Properties dialog box -> Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
-  - "Valid 
- Characters dialog box -> Modifying_a_Writing_System/Valid_Characters_dialog_box/Valid_Char_overview.md"
+  - "Advanced Tasks \n overview -> ../Advanced_Tasks_overview.md"
+  - "Baseline \n text writing systems -> ../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/baseline_text_writing_systems.md"
+  - "Hide \n or show a writing system -> Modifying_a_Writing_System/Hide_or_show_a_writing_system.md"
+  - "Showing \n writing systems overview -> ../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
+  - "Using \n the Writing System Properties dialog box -> Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
+  - "Valid \n Characters dialog box -> Modifying_a_Writing_System/Valid_Characters_dialog_box/Valid_Char_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:1bad97132acfa31f"

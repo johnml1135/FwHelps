@@ -14,10 +14,8 @@ keywords:
   - "Writing System Properties"
   - "Writing System Properties dialog box:Converters tab"
 related:
-  - "Modifying 
- a writing system overview -> Modifying_a_writing_system_overview.md"
-  - "Using 
- the Writing System Properties dialog box -> Using_the_Writing_System_Properties_dialog_box.md"
+  - "Modifying \n a writing system overview -> Modifying_a_writing_system_overview.md"
+  - "Using \n the Writing System Properties dialog box -> Using_the_Writing_System_Properties_dialog_box.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:5fa349d51a16d654"

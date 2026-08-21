@@ -11,8 +11,7 @@ source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3
 related:
   - "Help Window overview -> Help_Window_overview.md"
   - "Copy a Help topic -> Copy_a_Help_topic.md"
-  - "Tips 
- on finding information using help -> Tips_on_finding_information_using_Help.md"
+  - "Tips \r\n on finding information using help -> Tips_on_finding_information_using_Help.md"
 type: "topic"
 content_hash: "sha256:25c33d637b30038c"
 ---

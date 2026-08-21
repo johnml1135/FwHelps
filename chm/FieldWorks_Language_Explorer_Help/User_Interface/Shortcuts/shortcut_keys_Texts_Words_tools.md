@@ -16,22 +16,14 @@ keywords:
   - "used in Language Explorer"
 related:
   - "Menus overview -> ../Menus/Menus_overview.md"
-  - "Shortcut keys 
- to edit text -> Shortcut_keys_to_edit_text.md"
-  - "Shortcut 
- keys to move the insertion point -> Shortcut_keys_to_move_the_insertion_point.md"
-  - "Shortcut keys 
- overview -> shortcut_keys_overview.md"
-  - "Show 
- Concordance of from interlinear view -> ../../Basic_Tasks/Show_data/Show_Concordance_of_from_Interlinear_view.md"
-  - "Show 
- in Category Edit from interlinear view -> ../../Basic_Tasks/Show_data/Show_in_category_edit_from_interlinear_view.md"
-  - "Show 
- in Lexicon from interlinear view -> ../../Basic_Tasks/Show_data/Show_in_Lexicon_from_Interlinear_text.md"
-  - "Show 
- in Word Analyses from interlinear view -> ../../Basic_Tasks/Show_data/Show_in_analyses_from_interlinear_view.md"
-  - "Texts 
- overview -> ../../Using_Tools/Texts_&_Words_tools/Texts_and_Words_overview.md"
+  - "Shortcut keys \n to edit text -> Shortcut_keys_to_edit_text.md"
+  - "Shortcut \n keys to move the insertion point -> Shortcut_keys_to_move_the_insertion_point.md"
+  - "Shortcut keys \n overview -> shortcut_keys_overview.md"
+  - "Show \n Concordance of from interlinear view -> ../../Basic_Tasks/Show_data/Show_Concordance_of_from_Interlinear_view.md"
+  - "Show \n in Category Edit from interlinear view -> ../../Basic_Tasks/Show_data/Show_in_category_edit_from_interlinear_view.md"
+  - "Show \n in Lexicon from interlinear view -> ../../Basic_Tasks/Show_data/Show_in_Lexicon_from_Interlinear_text.md"
+  - "Show \n in Word Analyses from interlinear view -> ../../Basic_Tasks/Show_data/Show_in_analyses_from_interlinear_view.md"
+  - "Texts \n overview -> ../../Using_Tools/Texts_&_Words_tools/Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 page_heading: "Shortcut keys: Texts & Words tools"
 type: "topic"

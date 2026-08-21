@@ -10,8 +10,7 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Shortcuts overview -> Shortcuts_overview.md"
-  - "Shortcuts 
- for the Options menu -> Shortcuts_for_the_Options_menu.md"
+  - "Shortcuts \r\n for the Options menu -> Shortcuts_for_the_Options_menu.md"
 type: "topic"
 content_hash: "sha256:506f46f66d52d65e"
 ---

@@ -16,10 +16,8 @@ keywords:
   - "Extended Note:Insert an example in an extended note"
 related:
   - "Delete a translation -> Delete_a_translation.md"
-  - "Insert an 
- example in a sense -> Insert_an_example_in_a_sense.md"
-  - "Extended 
- Note fields overview -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Extended_Note/Extended_Note_fields_overview.md"
+  - "Insert an \n example in a sense -> Insert_an_example_in_a_sense.md"
+  - "Extended \n Note fields overview -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Extended_Note/Extended_Note_fields_overview.md"
   - "Lexicon Edit overview -> lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"

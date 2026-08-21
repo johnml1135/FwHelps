@@ -26,7 +26,7 @@ related:
   - "Usages field -> ../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Usages_field.md"
 fw_help_version: "9.3"
 type: "topic"
-content_hash: "sha256:7b68eef6283fc579"
+content_hash: "sha256:bae07e10dbc1160c"
 ---
 
 # Specify publishable lexical data
@@ -119,15 +119,15 @@ content_hash: "sha256:7b68eef6283fc579"
 <td style="width: 50%"><ul>
 <li><p>Specify that you want a complex form entry to appear as an indented mini-subentry under a component entry</p></li>
 </ul></td>
-<td style="width: 50%"><p>Choose the complex form entry in the <a href="file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Subentries_(Publication_Settings).htm">Subentries</a> field in the component entry.</p></td>
+<td style="width: 50%"><p>Choose the complex form entry in the <a href="#">Subentries</a> field in the component entry.</p></td>
 </tr>
 <tr>
 <td style="width: 50%"><ul>
-<li><p>Specify that you want a variant form to be available for display (<a href="file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Menus/Tools/Configure_Dictionary/Main_Minor_entry.htm">minor entry</a>)</p></li>
+<li><p>Specify that you want a variant form to be available for display (<a href="#">minor entry</a>)</p></li>
 </ul></td>
-<td style="width: 50%"><p>Select (<img src="../../../assets/images/CheckedBox.PNG" />) either the <a href="file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Show_Minor_Entry_Pub_Set_level.htm">Show Minor Entry</a> field associated with the variant form below the <strong>Variants</strong> field in the <em>main</em> entry,</p>
+<td style="width: 50%"><p>Select (<img src="../../../assets/images/CheckedBox.PNG" />) either the <a href="#">Show Minor Entry</a> field associated with the variant form below the <strong>Variants</strong> field in the <em>main</em> entry,</p>
 <p><em>or,</em></p>
-<p>the <a href="file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Show_Minor_Entry_Pub_Set_level.htm">Show Minor Entry</a> field below the <strong>Publication Settings</strong> field in the <em>variant</em> entry.</p></td>
+<p>the <a href="#">Show Minor Entry</a> field below the <strong>Publication Settings</strong> field in the <em>variant</em> entry.</p></td>
 </tr>
 </tbody>
 </table>

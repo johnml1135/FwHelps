@@ -28,16 +28,11 @@ keywords:
   - "Sense Types"
   - "Status"
 related:
-  - "Basic 
- tasks overview -> ../../Basic_Tasks/Basic_Tasks_overview.md"
-  - "Choose 
- a list of anthropology categories -> ../../User_Interface/Menus/File/Create_a_new_Fieldworks_project.md"
-  - "List item usage 
- table -> List_item_usage_table.md"
-  - "Shortcut 
- Keys: Lists tools -> ../../User_Interface/Shortcuts/shortcut_keys_Lists_tools.md"
-  - "Show 
- data overview -> ../../Basic_Tasks/Show_data/Show_data_overview.md"
+  - "Basic \n tasks overview -> ../../Basic_Tasks/Basic_Tasks_overview.md"
+  - "Choose \n a list of anthropology categories -> ../../User_Interface/Menus/File/Create_a_new_Fieldworks_project.md"
+  - "List item usage \n table -> List_item_usage_table.md"
+  - "Shortcut \n Keys: Lists tools -> ../../User_Interface/Shortcuts/shortcut_keys_Lists_tools.md"
+  - "Show \n data overview -> ../../Basic_Tasks/Show_data/Show_data_overview.md"
   - "Using tools overview -> ../Using_Tools_overview.md"
 fw_help_version: "9.3"
 type: "index"

@@ -13,12 +13,9 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Phoneme:Phonemes fields overview"
 related:
-  - "Bulk 
- Edit Phoneme Features -> ../../../../Using_Tools/Grammar_tools/Bulk_Edit_Phoneme_Features/Bulk_Edit_Phoneme_Features.md"
-  - "Grammar fields 
- overview -> ../Grammar_fields_overview.md"
-  - "Phonemes 
- overview -> ../../../../Using_Tools/Grammar_tools/Phonemes/Phonemes_overview.md"
+  - "Bulk \n Edit Phoneme Features -> ../../../../Using_Tools/Grammar_tools/Bulk_Edit_Phoneme_Features/Bulk_Edit_Phoneme_Features.md"
+  - "Grammar fields \n overview -> ../Grammar_fields_overview.md"
+  - "Phonemes \n overview -> ../../../../Using_Tools/Grammar_tools/Phonemes/Phonemes_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:ba52c95461cf5934"

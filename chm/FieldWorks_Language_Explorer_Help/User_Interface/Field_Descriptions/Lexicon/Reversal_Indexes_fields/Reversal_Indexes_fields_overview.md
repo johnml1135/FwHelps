@@ -13,16 +13,11 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Reversal Indexes:Reversal Indexes fields overview"
 related:
-  - "About 
- Reversal Entries -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Reversal_Entries.md"
-  - "About 
- Reversal Index Categories -> ../../../../Using_Tools/Lists_tools/about_reversal_index_categories.md"
-  - "Export 
- a Reversal Index -> ../../../Menus/File/Export/Export_a_reversal_index.md"
-  - "Lexicon fields 
- overview -> ../Lexicon_fields_overview.md"
-  - "Reversal 
- Indexes overview -> ../../../../Using_Tools/Lexicon_tools/Reversal_Indexes/reversal_indexes_overview.md"
+  - "About \n Reversal Entries -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Reversal_Entries.md"
+  - "About \n Reversal Index Categories -> ../../../../Using_Tools/Lists_tools/about_reversal_index_categories.md"
+  - "Export \n a Reversal Index -> ../../../Menus/File/Export/Export_a_reversal_index.md"
+  - "Lexicon fields \n overview -> ../Lexicon_fields_overview.md"
+  - "Reversal \n Indexes overview -> ../../../../Using_Tools/Lexicon_tools/Reversal_Indexes/reversal_indexes_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:acea2a910288a846"

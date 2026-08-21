@@ -29,12 +29,9 @@ keywords:
   - "Word Cat. line"
 related:
   - "Concordance overview -> Concordance_overview.md"
-  - "Display 
- text in an interlinear view -> ../Interlinear_Texts/Display_text_in_an_interlinear_view.md"
-  - "Find 
- word -> ../../../User_Interface/Menus/Edit/Find_wordform.md"
-  - "Show 
- in Concordance from interlinearized text -> ../../../Basic_Tasks/Show_data/Show_Concordance_of_from_Interlinear_view.md"
+  - "Display \n text in an interlinear view -> ../Interlinear_Texts/Display_text_in_an_interlinear_view.md"
+  - "Find \n word -> ../../../User_Interface/Menus/Edit/Find_wordform.md"
+  - "Show \n in Concordance from interlinearized text -> ../../../Basic_Tasks/Show_data/Show_Concordance_of_from_Interlinear_view.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:af5d93be7d8f7052"

@@ -15,12 +15,9 @@ keywords:
   - "Times of"
   - "List"
 related:
-  - "Lists fields 
- overview -> ../Lists_fields_overview.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Notebook 
- overview -> ../../../../Using_Tools/Notebook_tools/Notebook_overview.md"
+  - "Lists fields \n overview -> ../Lists_fields_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Notebook \n overview -> ../../../../Using_Tools/Notebook_tools/Notebook_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:41cd5e8b98d2a997"

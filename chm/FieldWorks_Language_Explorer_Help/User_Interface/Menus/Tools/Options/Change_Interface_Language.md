@@ -22,12 +22,10 @@ keywords:
   - "User Interface languages"
   - "change:Install UI Language pack"
 related:
-  - "Delete 
- FieldWorks project -> ../../File/Delete_Fieldworks_project.md"
+  - "Delete \n FieldWorks project -> ../../File/Delete_Fieldworks_project.md"
   - "Tools overview -> ../Tools_overview.md"
   - "Options overview -> Options_overview.md"
-  - "User 
- Interface language for Lists -> User_interface_languages_for_lists.md"
+  - "User \n Interface language for Lists -> User_interface_languages_for_lists.md"
 fw_help_version: "9.3"
 page_heading: "Change the User Interface language"
 type: "topic"

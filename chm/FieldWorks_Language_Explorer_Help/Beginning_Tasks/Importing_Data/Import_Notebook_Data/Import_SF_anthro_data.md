@@ -15,10 +15,8 @@ keywords:
   - "Standard Format import:Import Standard Format anthropology data"
 related:
   - "Import overview -> ../Import_overview.md"
-  - "File 
- menu overview -> ../../../User_Interface/Menus/File/File_overview.md"
-  - "Writing 
- System files -> ../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Writing_System_files.md"
+  - "File \n menu overview -> ../../../User_Interface/Menus/File/File_overview.md"
+  - "Writing \n System files -> ../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Writing_System_files.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:4b3695cd4c3157cc"

@@ -22,12 +22,9 @@ keywords:
   - "Language Packs"
   - "Language Packs:Language Packs example"
 related:
-  - "Change the 
- User Interface language -> Change_Interface_Language.md"
-  - "Import 
- Translated list content -> ../../../../Beginning_Tasks/Importing_Data/Import_Translated_List_Content.md"
-  - "User 
- Interface language for Lists -> User_interface_languages_for_lists.md"
+  - "Change the \n User Interface language -> Change_Interface_Language.md"
+  - "Import \n Translated list content -> ../../../../Beginning_Tasks/Importing_Data/Import_Translated_List_Content.md"
+  - "User \n Interface language for Lists -> User_interface_languages_for_lists.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:11271c91339271e4"

@@ -10,8 +10,7 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Help Window overview -> Help_Window_overview.md"
-  - "Print the 
- current Help topic -> Print_the_current_Help_topic.md"
+  - "Print the \r\n current Help topic -> Print_the_current_Help_topic.md"
 type: "topic"
 content_hash: "sha256:2a0994da6dc3afbe"
 ---

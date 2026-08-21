@@ -1,6 +1,6 @@
 {
   "corpus": {
-    "source_ref": "1ecb705",
+    "source_ref": "b2df7ee",
     "source_repo": "https://github.com/sillsdev/FwHelps",
     "chms": [
       {
@@ -24,231 +24,251 @@
     "pdf_count": 13
   },
   "summary": {
-    "total": 273,
+    "total": 270,
     "fatal": 0,
-    "advisory": 273,
+    "advisory": 270,
     "by_code": {
       "duplicate_title": 4,
-      "missing_link": 23,
+      "source_unsafe_uri": 4,
       "not_in_toc": 3,
+      "source_missing_link": 16,
       "stale_toc_entries": 1,
-      "replacement_character": 2,
+      "source_replacement_character": 2,
       "raw_html": 240
     }
   },
   "issues": [
     {
       "code": "duplicate_title",
-      "message": "['Bibliography field', ['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm']]",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "message": "['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm']",
+      "path": "Bibliography field",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
+      "detail": [
+        "Bibliography field",
+        [
+          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm",
+          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm"
+        ]
+      ],
       "label": "Duplicate display title",
       "severity": "warning"
     },
     {
       "code": "duplicate_title",
-      "message": "['Complex Forms', ['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm', 'User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm']]",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "message": "['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm', 'User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm']",
+      "path": "Complex Forms",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
+      "detail": [
+        "Complex Forms",
+        [
+          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm",
+          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm",
+          "User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm"
+        ]
+      ],
       "label": "Duplicate display title",
       "severity": "warning"
     },
     {
-      "code": "missing_link",
-      "message": "['Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Select_Language_overview.htm', 'httsp://www.ethnologue.com/world']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "code": "source_unsafe_uri",
+      "message": "httsp://www.ethnologue.com/world",
+      "path": "Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Select_Language_overview.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
+      "detail": [
+        "Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Select_Language_overview.htm",
+        "httsp://www.ethnologue.com/world"
+      ],
+      "label": "Source unsafe URI",
       "severity": "warning"
     },
     {
-      "code": "missing_link",
-      "message": "['Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm', '../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "code": "source_unsafe_uri",
+      "message": "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Subentries_(Publication_Settings).htm",
+      "path": "Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
+      "detail": [
+        "Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm",
+        "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Subentries_(Publication_Settings).htm"
+      ],
+      "label": "Source unsafe URI",
       "severity": "warning"
     },
     {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Data/Data_overview.htm', '../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "code": "source_unsafe_uri",
+      "message": "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Menus/Tools/Configure_Dictionary/Main_Minor_entry.htm",
+      "path": "Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
+      "detail": [
+        "Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm",
+        "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Menus/Tools/Configure_Dictionary/Main_Minor_entry.htm"
+      ],
+      "label": "Source unsafe URI",
       "severity": "warning"
     },
     {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "code": "source_unsafe_uri",
+      "message": "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Show_Minor_Entry_Pub_Set_level.htm",
+      "path": "Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Edit_Parser_Parameters.htm', 'Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Parse_Current_Word.htm', '../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Parsing_words_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Parsing_words_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Parsing_words_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "missing_link",
-      "message": "['User_Interface/Toolbars/Insert_toolbar.htm', '../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
+      "detail": [
+        "Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm",
+        "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Show_Minor_Entry_Pub_Set_level.htm"
+      ],
+      "label": "Source unsafe URI",
       "severity": "warning"
     },
     {
       "code": "not_in_toc",
       "message": "Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Shoebox_Toobox_style_sort_order.htm",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "path": "Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Shoebox_Toobox_style_sort_order.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
+      "detail": "Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Shoebox_Toobox_style_sort_order.htm",
       "label": "Topic missing from TOC",
       "severity": "warning"
     },
     {
       "code": "not_in_toc",
       "message": "User_Interface/Menus/File/Export/Export_Grammar_Sketch.htm",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "path": "User_Interface/Menus/File/Export/Export_Grammar_Sketch.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
+      "detail": "User_Interface/Menus/File/Export/Export_Grammar_Sketch.htm",
       "label": "Topic missing from TOC",
       "severity": "warning"
     },
     {
       "code": "not_in_toc",
       "message": "Using_Tools/Lexicon_tools/Lexicon_Edit/Using_Edit_Gram_Infodlg.htm",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "path": "Using_Tools/Lexicon_tools/Lexicon_Edit/Using_Edit_Gram_Infodlg.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
+      "detail": "Using_Tools/Lexicon_tools/Lexicon_Edit/Using_Edit_Gram_Infodlg.htm",
       "label": "Topic missing from TOC",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm",
+        "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "User_Interface/Menus/Data/Data_overview.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Menus/Data/Data_overview.htm",
+        "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm",
+        "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm",
+      "path": "User_Interface/Menus/Parser/Edit_Parser_Parameters.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Menus/Parser/Edit_Parser_Parameters.htm",
+        "Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "User_Interface/Menus/Parser/Parse_Current_Word.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Menus/Parser/Parse_Current_Word.htm",
+        "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "User_Interface/Menus/Parser/Parsing_words_overview.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Menus/Parser/Parsing_words_overview.htm",
+        "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm",
+        "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "source_missing_link",
+      "message": "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
+      "path": "User_Interface/Toolbars/Insert_toolbar.htm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "User_Interface/Toolbars/Insert_toolbar.htm",
+        "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
+      ],
+      "label": "Missing local link",
       "severity": "warning"
     },
     {
       "code": "stale_toc_entries",
       "message": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
-      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "path": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": null,
+      "detail": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
       "label": "Stale TOC entry",
       "severity": "warning"
     },
     {
-      "code": "replacement_character",
+      "code": "source_replacement_character",
       "message": "source PDF replacement characters: [{'page': 22, 'count': 1, 'codepoints': ['U+001F']}]",
       "path": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
       "fatal": false,
@@ -267,11 +287,14 @@
     },
     {
       "code": "raw_html",
-      "message": 4,
+      "message": "4",
       "path": "WW-ConceptualIntro/ConceptualIntroFLEx.pdf",
       "fatal": false,
-      "provenance": "exporter",
-      "detail": null,
+      "provenance": "source",
+      "detail": [
+        "WW-ConceptualIntro/ConceptualIntroFLEx.pdf",
+        4
+      ],
       "label": "Raw HTML retained",
       "severity": "warning"
     },
@@ -516,7 +539,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.md",
       "fatal": false,
@@ -946,7 +969,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Data/Data_overview.md",
       "fatal": false,
@@ -1166,7 +1189,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Default_XAmple_parser_overview.md",
       "fatal": false,
@@ -1176,7 +1199,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: Strata_as_a_String_in_the_Hermit_Crab_properties%20-%20OBSOLETE.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Edit_Parser_Parameters.md",
       "fatal": false,
@@ -1186,7 +1209,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parse_Current_Word.md",
       "fatal": false,
@@ -1206,7 +1229,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parsing_words_overview.md",
       "fatal": false,
@@ -1216,7 +1239,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.md",
       "fatal": false,
@@ -1866,7 +1889,7 @@
       "severity": "warning"
     },
     {
-      "code": "missing_link",
+      "code": "source_missing_link",
       "message": "raw HTML target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Toolbars/Insert_toolbar.md",
       "fatal": false,
@@ -2706,7 +2729,7 @@
       "severity": "warning"
     },
     {
-      "code": "replacement_character",
+      "code": "source_replacement_character",
       "message": "contains U+FFFD",
       "path": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
       "fatal": false,

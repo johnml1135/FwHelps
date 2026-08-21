@@ -17,10 +17,8 @@ keywords:
   - "phonological"
   - "Metathesis Rules"
 related:
-  - "Parsing 
- words (Hermit Crab parser) -> ../../../User_Interface/Menus/Parser/Parsing_words_(HermitCrab).md"
-  - "Phonological 
- Rules overview -> Phonological_Rules_overview.md"
+  - "Parsing \n words (Hermit Crab parser) -> ../../../User_Interface/Menus/Parser/Parsing_words_(HermitCrab).md"
+  - "Phonological \n Rules overview -> Phonological_Rules_overview.md"
 fw_help_version: "9.3"
 page_heading: "Delete a phonological or metathesis rule"
 type: "topic"

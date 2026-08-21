@@ -17,8 +17,7 @@ keywords:
   - "shown in fields:Configure Writing Systems for fields"
   - "Showing:Showing Writing Systems"
 related:
-  - "Showing writing systems 
- overview -> Show_WSs_overview.md"
+  - "Showing writing systems \n overview -> Show_WSs_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:79405f152407b5e6"

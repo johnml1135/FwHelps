@@ -16,14 +16,10 @@ keywords:
   - "fields relate to"
   - "Alternate Forms"
 related:
-  - "About 
- Lexicon Edit field levels -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Lex_Edit_fld_levels.md"
-  - "Change 
- the width of the field label area -> ../../../Field_Types/change_the_width_of_the_field_label_area.md"
-  - "Lexicon 
- Edit fields overview -> ../Lexicon_Edit_fields_overview.md"
-  - "Lexicon 
- Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "About \n Lexicon Edit field levels -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Lex_Edit_fld_levels.md"
+  - "Change \n the width of the field label area -> ../../../Field_Types/change_the_width_of_the_field_label_area.md"
+  - "Lexicon \n Edit fields overview -> ../Lexicon_Edit_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:5850998275b27e50"

@@ -15,12 +15,9 @@ keywords:
   - "interlinear"
   - "Texts & Words fields"
 related:
-  - "Texts 
- & Words fields overview -> Texts_&_Words_fields_overview.md"
-  - "Word 
- Analyses overview -> ../../../Using_Tools/Texts_&_Words_tools/Word_Analyses/Word_Analyses_overview.md"
-  - "Word 
- list columns -> ../../../Using_Tools/Texts_&_Words_tools/Word_list_columns.md"
+  - "Texts \n & Words fields overview -> Texts_&_Words_fields_overview.md"
+  - "Word \n Analyses overview -> ../../../Using_Tools/Texts_&_Words_tools/Word_Analyses/Word_Analyses_overview.md"
+  - "Word \n list columns -> ../../../Using_Tools/Texts_&_Words_tools/Word_list_columns.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:f4bf290af6fbc721"

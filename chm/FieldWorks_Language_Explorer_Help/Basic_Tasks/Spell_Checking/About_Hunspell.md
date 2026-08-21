@@ -12,12 +12,9 @@ keywords:
   - "About:Hunspell"
   - "Hunspell"
 related:
-  - "About spelling dictionary 
- files -> dictionary_files.md"
-  - "Obtaining 
- spelling dictionary files -> Obtaining_spelling_dictionary_files.md"
-  - "Spell checking 
- overview -> Spell_checking_overview.md"
+  - "About spelling dictionary \n files -> dictionary_files.md"
+  - "Obtaining \n spelling dictionary files -> Obtaining_spelling_dictionary_files.md"
+  - "Spell checking \n overview -> Spell_checking_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:3159ede89e2f7976"

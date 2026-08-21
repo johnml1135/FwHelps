@@ -21,14 +21,10 @@ keywords:
   - "Green"
   - "cell background color"
 related:
-  - "About Text Chart 
- tab -> About_Text_Chart_tab.md"
-  - "Change Text Chart 
- tab font attributes -> change_text_chart_font.md"
-  - "Interlinear Texts 
- overview -> ../texts_edit_overview.md"
-  - "Text 
- Chart tab columns and rows -> Text_Chart_tab_columns_and_rows.md"
+  - "About Text Chart \n tab -> About_Text_Chart_tab.md"
+  - "Change Text Chart \n tab font attributes -> change_text_chart_font.md"
+  - "Interlinear Texts \n overview -> ../texts_edit_overview.md"
+  - "Text \n Chart tab columns and rows -> Text_Chart_tab_columns_and_rows.md"
   - "Text Chart tab overview -> Text_chart_overview.md"
 fw_help_version: "9.3"
 type: "topic"

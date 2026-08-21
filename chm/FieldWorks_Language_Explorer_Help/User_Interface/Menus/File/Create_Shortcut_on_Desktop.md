@@ -19,12 +19,9 @@ keywords:
   - "Desktop icon to start FLEx"
 related:
   - "Menus overview -> ../Menus_overview.md"
-  - "Shortcut 
- keys overview -> ../../Shortcuts/shortcut_keys_overview.md"
-  - "Unable to Open 
- Project dialog box -> Unable_to_Open_Project.md"
-  - "User Interface 
- overview -> ../../User_Interface_overview.md"
+  - "Shortcut \n keys overview -> ../../Shortcuts/shortcut_keys_overview.md"
+  - "Unable to Open \n Project dialog box -> Unable_to_Open_Project.md"
+  - "User Interface \n overview -> ../../User_Interface_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:0cfa9bb2e8c154a7"

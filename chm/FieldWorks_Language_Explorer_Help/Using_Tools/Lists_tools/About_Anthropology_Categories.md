@@ -15,14 +15,10 @@ keywords:
   - "About:Anthropology Categories"
   - "FRAME"
 related:
-  - "Anthropology 
- Categories field (Lexicon) -> ../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/anthropology_categories_field.md"
-  - "Anthropology 
- Categories field (Notebook) -> ../../User_Interface/Field_Descriptions/Notebook/Anthro_Cat_field_Ntbk.md"
-  - "File 
- overview -> ../../User_Interface/Menus/File/File_overview.md"
-  - "Lists item usage 
- table -> List_item_usage_table.md"
+  - "Anthropology \n Categories field (Lexicon) -> ../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/anthropology_categories_field.md"
+  - "Anthropology \n Categories field (Notebook) -> ../../User_Interface/Field_Descriptions/Notebook/Anthro_Cat_field_Ntbk.md"
+  - "File \n overview -> ../../User_Interface/Menus/File/File_overview.md"
+  - "Lists item usage \n table -> List_item_usage_table.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:4731df94c5cced8f"

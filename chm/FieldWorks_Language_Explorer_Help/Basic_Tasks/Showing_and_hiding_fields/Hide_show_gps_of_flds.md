@@ -17,15 +17,11 @@ keywords:
   - "Hide:Groups of fields"
   - "hide or show"
 related:
-  - "About 
- Lexicon Edit field levels -> ../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Lex_Edit_fld_levels.md"
+  - "About \n Lexicon Edit field levels -> ../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Lex_Edit_fld_levels.md"
   - "Basic Tasks overview -> ../Basic_Tasks_overview.md"
-  - "Field 
- Descriptions overview -> ../../User_Interface/Field_Descriptions/field_descriptions_overview.md"
-  - "Show or hide fields 
- overview -> Show_hiding_flds_oview.md"
-  - "Restore 
- default settings -> ../../User_Interface/Menus/Tools/Restore_defaults.md"
+  - "Field \n Descriptions overview -> ../../User_Interface/Field_Descriptions/field_descriptions_overview.md"
+  - "Show or hide fields \n overview -> Show_hiding_flds_oview.md"
+  - "Restore \n default settings -> ../../User_Interface/Menus/Tools/Restore_defaults.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:82b522d968c93ef2"

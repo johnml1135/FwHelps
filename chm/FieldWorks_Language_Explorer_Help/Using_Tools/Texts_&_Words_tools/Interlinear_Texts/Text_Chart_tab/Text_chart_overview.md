@@ -24,22 +24,14 @@ keywords:
   - "Constituents chart fields"
   - "Levinsohn"
 related:
-  - "About Text Chart 
- tab -> About_Text_Chart_tab.md"
-  - "Change 
- Text Chart gloss writing system -> Change_Text_Chart_gloss_writing_system.md"
-  - "Export 
- a Discourse Chart -> ../../../../User_Interface/Menus/File/Export/Export_Discourse_Chart.md"
-  - "Interlinear Texts 
- overview -> ../texts_edit_overview.md"
-  - "Spelling 
- Status field -> ../../../../User_Interface/Field_Descriptions/Texts_&_Words/spelling_status_field.md"
-  - "Text Chart 
- colors and lines -> Text_Chart_tab_colors_lines.md"
-  - "Text 
- Chart columns and rows -> Text_Chart_tab_columns_and_rows.md"
-  - "Texts 
- overview -> ../../Texts_and_Words_overview.md"
+  - "About Text Chart \n tab -> About_Text_Chart_tab.md"
+  - "Change \n Text Chart gloss writing system -> Change_Text_Chart_gloss_writing_system.md"
+  - "Export \n a Discourse Chart -> ../../../../User_Interface/Menus/File/Export/Export_Discourse_Chart.md"
+  - "Interlinear Texts \n overview -> ../texts_edit_overview.md"
+  - "Spelling \n Status field -> ../../../../User_Interface/Field_Descriptions/Texts_&_Words/spelling_status_field.md"
+  - "Text Chart \n colors and lines -> Text_Chart_tab_colors_lines.md"
+  - "Text \n Chart columns and rows -> Text_Chart_tab_columns_and_rows.md"
+  - "Texts \n overview -> ../../Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:d40d64861e79b547"

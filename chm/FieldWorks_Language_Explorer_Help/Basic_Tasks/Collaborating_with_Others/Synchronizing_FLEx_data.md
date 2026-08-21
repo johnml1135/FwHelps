@@ -15,12 +15,9 @@ keywords:
   - "Merge:Synchronizing FLEx data"
   - "Synchronizing FLEx data"
 related:
-  - "Collaborating 
- with Others overview -> Collaborating_with_Others_overview.md"
-  - "Get started 
- with Send/Receive -> Get_Started_with_Send_Receive.md"
-  - "Messages 
- field -> ../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Messages_field.md"
+  - "Collaborating \n with Others overview -> Collaborating_with_Others_overview.md"
+  - "Get started \n with Send/Receive -> Get_Started_with_Send_Receive.md"
+  - "Messages \n field -> ../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Messages_field.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:84f1d53578e67442"

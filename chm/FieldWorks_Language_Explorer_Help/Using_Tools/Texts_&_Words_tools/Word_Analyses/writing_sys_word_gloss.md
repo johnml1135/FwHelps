@@ -13,10 +13,8 @@ keywords:
   - "Choose (See also: Select or Specify):Word Gloss writing system"
   - "Texts & Words:Choose a Word Gloss Writing System"
 related:
-  - "Word Analyses 
- overview -> Word_Analyses_overview.md"
-  - "Word 
- Gloss field -> ../../../User_Interface/Field_Descriptions/Texts_&_Words/Word_Gloss_field.md"
+  - "Word Analyses \n overview -> Word_Analyses_overview.md"
+  - "Word \n Gloss field -> ../../../User_Interface/Field_Descriptions/Texts_&_Words/Word_Gloss_field.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:b501695dbe1b3143"

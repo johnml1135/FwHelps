@@ -12,12 +12,9 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Delete:Category or subcategory"
 related:
-  - "Category Edit 
- overview -> Category_Edit_overview.md"
-  - "Categories 
- Browse overview -> ../Categories_Browse/Categories_Browse_overview.md"
-  - "Undo 
- and Redo -> ../../../User_Interface/Menus/Edit/Undo_and_Redo.md"
+  - "Category Edit \n overview -> Category_Edit_overview.md"
+  - "Categories \n Browse overview -> ../Categories_Browse/Categories_Browse_overview.md"
+  - "Undo \n and Redo -> ../../../User_Interface/Menus/Edit/Undo_and_Redo.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:b4eb2344a1efe25e"

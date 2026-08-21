@@ -9,12 +9,9 @@ source: "Using_Help/Searching_for_Help_Topics/Search_for_words_or_phrases.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Help/Searching_for_Help_Topics/Search_for_words_or_phrases.htm"
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
-  - "Find 
- information using a simple search -> Find_information_using_a_simple_search.md"
-  - "Find 
- information using an advanced search -> Find_information_using_an_advanced_search.md"
-  - "Search 
- for information overview -> Search_for_Information_overview.md"
+  - "Find \r\n information using a simple search -> Find_information_using_a_simple_search.md"
+  - "Find \r\n information using an advanced search -> Find_information_using_an_advanced_search.md"
+  - "Search \r\n for information overview -> Search_for_Information_overview.md"
 type: "topic"
 content_hash: "sha256:bba9f4d5865cc6be"
 ---

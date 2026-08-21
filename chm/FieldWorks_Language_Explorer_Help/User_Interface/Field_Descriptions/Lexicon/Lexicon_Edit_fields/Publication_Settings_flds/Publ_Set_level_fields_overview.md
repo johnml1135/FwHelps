@@ -14,21 +14,14 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Publication Settings-level fields overview"
 related:
-  - "About 
- Lexicon Edit field levels -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Lex_Edit_fld_levels.md"
+  - "About \n Lexicon Edit field levels -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/About_Lex_Edit_fld_levels.md"
   - "Cha -> ../../../Field_Types/change_the_width_of_the_field_label_area.md"
-  - "nge 
- the width of the field label area -> ../../../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
-  - "Create 
- a new publication -> ../../../../../Using_Tools/Lists_tools/Create_new_publication.md"
-  - "Lexicon 
- Edit fields overview -> ../Lexicon_Edit_fields_overview.md"
-  - "Lexicon 
- Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
-  - "Specify 
- publishable lexical data -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.md"
-  - "What 
- is a publication? -> ../../../Lists/Publications/What_is_a_Publication.md"
+  - "nge \n the width of the field label area -> ../../../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md"
+  - "Create \n a new publication -> ../../../../../Using_Tools/Lists_tools/Create_new_publication.md"
+  - "Lexicon \n Edit fields overview -> ../Lexicon_Edit_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "Specify \n publishable lexical data -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.md"
+  - "What \n is a publication? -> ../../../Lists/Publications/What_is_a_Publication.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:0202d1fbf411cd5e"

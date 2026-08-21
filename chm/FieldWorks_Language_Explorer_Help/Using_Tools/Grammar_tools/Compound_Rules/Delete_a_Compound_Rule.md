@@ -13,8 +13,7 @@ keywords:
   - "Delete:Compound rule"
   - "Compound Rule"
 related:
-  - "Compound Rules 
- overview -> Compound_Rules_overview.md"
+  - "Compound Rules \n overview -> Compound_Rules_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:ff64129d2728b415"

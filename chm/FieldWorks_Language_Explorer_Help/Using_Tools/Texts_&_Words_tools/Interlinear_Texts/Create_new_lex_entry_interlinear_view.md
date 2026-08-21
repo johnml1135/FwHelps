@@ -19,14 +19,10 @@ keywords:
   - "from interlinear view"
   - "Lex. Entries line"
 related:
-  - "Analyzing Text 
- overview -> Analyze_Text_overview.md"
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
-  - "Select 
- the lexical sense for a morpheme -> Select_the_lexical_sense_for_a_morpheme.md"
-  - "Shortcut 
- keys: Texts & Words tools -> ../../../User_Interface/Shortcuts/shortcut_keys_Texts_Words_tools.md"
+  - "Analyzing Text \n overview -> Analyze_Text_overview.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
+  - "Select \n the lexical sense for a morpheme -> Select_the_lexical_sense_for_a_morpheme.md"
+  - "Shortcut \n keys: Texts & Words tools -> ../../../User_Interface/Shortcuts/shortcut_keys_Texts_Words_tools.md"
 fw_help_version: "9.3"
 page_heading: "Create new lexical entry from an interlinear view"
 type: "topic"

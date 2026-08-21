@@ -17,8 +17,7 @@ keywords:
   - "delete unwanted"
 related:
   - "Analyze Text overview -> Analyze_Text_overview.md"
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
   - "Undo -> ../../../User_Interface/Menus/Edit/Undo_and_Redo.md"
 fw_help_version: "9.3"
 type: "topic"

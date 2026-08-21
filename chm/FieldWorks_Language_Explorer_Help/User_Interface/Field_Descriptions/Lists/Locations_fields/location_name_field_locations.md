@@ -14,12 +14,9 @@ keywords:
   - "Location"
   - "Name fields"
 related:
-  - "Configure 
- List -> ../../../Menus/Tools/Configure_List.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Locations fields 
- overview -> Locations_fields_overview.md"
+  - "Configure \n List -> ../../../Menus/Tools/Configure_List.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Locations fields \n overview -> Locations_fields_overview.md"
 fw_help_version: "9.3"
 page_heading: "Location Name field"
 type: "topic"

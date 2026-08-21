@@ -16,10 +16,8 @@ keywords:
   - "Features"
   - "Inflection"
 related:
-  - "Delete a feature 
- value -> delete_a_feature_value.md"
-  - "Inflection 
- Features overview -> Inflection_Features_overview.md"
+  - "Delete a feature \n value -> delete_a_feature_value.md"
+  - "Inflection \n Features overview -> Inflection_Features_overview.md"
 fw_help_version: "9.3"
 page_heading: "Delete an inflectional feature or complex feature"
 type: "topic"

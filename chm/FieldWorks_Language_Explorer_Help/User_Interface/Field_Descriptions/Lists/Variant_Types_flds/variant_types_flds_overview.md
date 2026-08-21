@@ -15,16 +15,11 @@ keywords:
   - "fields relate to"
   - "Variant Forms:Variant Types fields overview"
 related:
-  - "About 
- entry types -> ../../../../Using_Tools/Lists_tools/About_Entry_Types.md"
-  - "About 
- Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
-  - "Lists fields 
- overview -> ../Lists_fields_overview.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Main 
- Entry and Minor Entry -> ../../../Menus/Tools/Configure_Dictionary/Main_Minor_entry.md"
+  - "About \n entry types -> ../../../../Using_Tools/Lists_tools/About_Entry_Types.md"
+  - "About \n Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
+  - "Lists fields \n overview -> ../Lists_fields_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Main \n Entry and Minor Entry -> ../../../Menus/Tools/Configure_Dictionary/Main_Minor_entry.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:f5dd3ba7d4b4ebf1"

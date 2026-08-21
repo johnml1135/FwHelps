@@ -18,10 +18,8 @@ keywords:
   - "Project"
   - "Project:FieldWorks project names"
 related:
-  - "FieldWorks 
- Project Properties, General tab -> ../Project_Properties/Project_Properties_General_tab.md"
-  - "Open a FieldWorks 
- language project -> ../Open_a_language_project.md"
+  - "FieldWorks \n Project Properties, General tab -> ../Project_Properties/Project_Properties_General_tab.md"
+  - "Open a FieldWorks \n language project -> ../Open_a_language_project.md"
   - "Restore a project -> Restore_a_project.md"
 fw_help_version: "9.3"
 type: "topic"

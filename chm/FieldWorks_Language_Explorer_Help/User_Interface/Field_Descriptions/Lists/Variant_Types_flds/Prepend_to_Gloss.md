@@ -13,15 +13,11 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Prepend to Gloss"
 related:
-  - "About 
- Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
+  - "About \n Variant Types -> ../../../../Using_Tools/Lists_tools/About_Variants.md"
   - "Append to Gloss -> Append_to_Gloss.md"
-  - "Convert 
- variants utility -> ../../../Menus/Tools/Convert_variants_utility.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Variant Types 
- fields overview -> variant_types_flds_overview.md"
+  - "Convert \n variants utility -> ../../../Menus/Tools/Convert_variants_utility.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Variant Types \n fields overview -> variant_types_flds_overview.md"
 fw_help_version: "9.3"
 page_heading: "Prepend to Gloss field"
 type: "topic"

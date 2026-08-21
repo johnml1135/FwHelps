@@ -19,15 +19,11 @@ keywords:
   - "Location"
   - "Project:Project Locations dialog box"
 related:
-  - "FieldWorks 
- Project Properties, General tab -> Project_Properties/Project_Properties_General_tab.md"
-  - "FieldWorks 
- Project Properties, Linked Files tab -> Project_Properties/Project_Properties_Linked_Files_tab.md"
+  - "FieldWorks \n Project Properties, General tab -> Project_Properties/Project_Properties_General_tab.md"
+  - "FieldWorks \n Project Properties, Linked Files tab -> Project_Properties/Project_Properties_Linked_Files_tab.md"
   - "File menu overview -> File_overview.md"
-  - "Send/Receive 
- overview -> ../../../Basic_Tasks/Collaborating_with_Others/Send_Receive_overview.md"
-  - "Technical 
- support -> ../../../Overview/Technical_support.md"
+  - "Send/Receive \n overview -> ../../../Basic_Tasks/Collaborating_with_Others/Send_Receive_overview.md"
+  - "Technical \n support -> ../../../Overview/Technical_support.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:8a86fac375a1ccc1"

@@ -14,11 +14,9 @@ keywords:
   - "Export:Full lexicon (LIFT)"
 related:
   - "Export overview -> Export_overview.md"
-  - "FieldWorks 
- Project Utilities -> ../../Tools/Language_Project_Utilities_overview.md"
+  - "FieldWorks \n Project Utilities -> ../../Tools/Language_Project_Utilities_overview.md"
   - "File menu overview -> ../File_overview.md"
-  - "Import 
- LIFT lexical data -> ../../../../Beginning_Tasks/Importing_Data/import_lift_lex.md"
+  - "Import \n LIFT lexical data -> ../../../../Beginning_Tasks/Importing_Data/import_lift_lex.md"
 fw_help_version: "9.3"
 page_heading: "Export a full lexicon (LIFT)"
 type: "topic"

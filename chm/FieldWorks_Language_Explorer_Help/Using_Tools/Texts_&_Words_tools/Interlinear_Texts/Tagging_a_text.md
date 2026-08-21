@@ -14,12 +14,9 @@ keywords:
   - "Tagging tab"
   - "Tagging tab:Tagging a text"
 related:
-  - "Configure 
- Interlinear Lines dialog box -> ../../../User_Interface/Menus/Tools/Configure_interlinear_lines_dialog_box.md"
-  - "Configure 
- Interlinear Lines right-click -> Configure_Interlinear_lines_right_click.md"
-  - "Display 
- the text in an interlinear view -> Display_text_in_an_interlinear_view.md"
+  - "Configure \n Interlinear Lines dialog box -> ../../../User_Interface/Menus/Tools/Configure_interlinear_lines_dialog_box.md"
+  - "Configure \n Interlinear Lines right-click -> Configure_Interlinear_lines_right_click.md"
+  - "Display \n the text in an interlinear view -> Display_text_in_an_interlinear_view.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:b2c4ad9f227ad3af"

@@ -20,8 +20,7 @@ keywords:
 related:
   - "Export overview -> Export_overview.md"
   - "File menu overview -> ../File_overview.md"
-  - "Writing 
- Systems tab -> ../../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/About_Writing_Systems.md"
+  - "Writing \n Systems tab -> ../../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/About_Writing_Systems.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:9ec4713515133782"

@@ -19,10 +19,8 @@ keywords:
   - "IPA:Add a new writing system"
   - "Vernacular writing system:Add a new writing system"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
-  - "Modify 
- a writing system overview -> ../Modifying_a_Writing_System/Modifying_a_writing_system_overview.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Modify \n a writing system overview -> ../Modifying_a_Writing_System/Modifying_a_writing_system_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:d169a44bb913b3f1"

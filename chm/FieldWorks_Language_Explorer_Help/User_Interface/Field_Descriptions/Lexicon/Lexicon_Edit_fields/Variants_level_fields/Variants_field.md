@@ -19,10 +19,8 @@ keywords:
   - "Variant or Allomorph?:Variants field"
   - "Allomorph or variant?:Variants field"
 related:
-  - "Lexicon 
- Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
-  - "Variants-level 
- fields overview -> Variant_level_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "Variants-level \n fields overview -> Variant_level_fields_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:b2841cc4ba2a5ffb"

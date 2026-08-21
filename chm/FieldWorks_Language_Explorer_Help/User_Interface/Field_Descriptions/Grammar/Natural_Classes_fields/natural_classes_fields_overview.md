@@ -13,14 +13,10 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Natural Class:Natural Classes fields overview"
 related:
-  - "Grammar fields 
- overview -> ../Grammar_fields_overview.md"
-  - "Natural 
- Classes overview -> ../../../../Using_Tools/Grammar_tools/Natural_Classes/Natural_classes_overview.md"
-  - "Parsing 
- words overview -> ../../../Menus/Parser/Parsing_words_overview.md"
-  - "Specify 
- phonemes for a natural class -> ../../../../Using_Tools/Grammar_tools/Natural_Classes/Choose_Phonemes_for_Natural_Class.md"
+  - "Grammar fields \n overview -> ../Grammar_fields_overview.md"
+  - "Natural \n Classes overview -> ../../../../Using_Tools/Grammar_tools/Natural_Classes/Natural_classes_overview.md"
+  - "Parsing \n words overview -> ../../../Menus/Parser/Parsing_words_overview.md"
+  - "Specify \n phonemes for a natural class -> ../../../../Using_Tools/Grammar_tools/Natural_Classes/Choose_Phonemes_for_Natural_Class.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:8e14df1448f8cb3c"

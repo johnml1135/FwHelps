@@ -13,8 +13,7 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Active:Active field Phonological Rules"
 related:
-  - "Phonological 
- Rules fields overview -> Phonological_Rules_fields_overview.md"
+  - "Phonological \n Rules fields overview -> Phonological_Rules_fields_overview.md"
 fw_help_version: "9.3"
 page_heading: "Active field (Phonological Rules)"
 type: "topic"

@@ -9,10 +9,8 @@ source: "Using_Help/Searching_for_Help_Topics/Search_using_boolean_operators.htm
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Help/Searching_for_Help_Topics/Search_using_boolean_operators.htm"
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
-  - "Find 
- information using an advanced search -> Find_information_using_an_advanced_search.md"
-  - "Search 
- using nested expressions -> Search_using_nested_expressions.md"
+  - "Find \r\n information using an advanced search -> Find_information_using_an_advanced_search.md"
+  - "Search \r\n using nested expressions -> Search_using_nested_expressions.md"
 type: "topic"
 content_hash: "sha256:87b7e5a4c3b18401"
 ---

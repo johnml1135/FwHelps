@@ -26,8 +26,7 @@ keywords:
   - "Non-Break space"
   - "Section Sign"
 related:
-  - "About 
- Font Features -> ../../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/about_font_features.md"
+  - "About \n Font Features -> ../../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/about_font_features.md"
   - "Insert overview -> Insert_overview.md"
 fw_help_version: "9.3"
 type: "topic"

@@ -15,10 +15,8 @@ keywords:
   - "Phonological"
   - "Phonological Features"
 related:
-  - "Phonological 
- Features overview -> Phonological_Features_overview.md"
-  - "Delete 
- a phonological feature value -> Delete_a_phonological_feature_value.md"
+  - "Phonological \n Features overview -> Phonological_Features_overview.md"
+  - "Delete \n a phonological feature value -> Delete_a_phonological_feature_value.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:4c786000c3586261"

@@ -19,10 +19,8 @@ keywords:
   - "Illegal characters in project name"
 related:
   - "File menu overview -> ../File_overview.md"
-  - "FieldWorks project 
- names -> FieldWorks_project_names.md"
-  - "FieldWorks 
- Project Properties, General tab -> ../Project_Properties/Project_Properties_General_tab.md"
+  - "FieldWorks project \n names -> FieldWorks_project_names.md"
+  - "FieldWorks \n Project Properties, General tab -> ../Project_Properties/Project_Properties_General_tab.md"
   - "RAMP Metadata -> ../RAMP_Metadata.md"
 fw_help_version: "9.3"
 type: "topic"

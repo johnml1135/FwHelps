@@ -13,14 +13,10 @@ source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0
 keywords:
   - "Academic domain:Academic Domains fields overview"
 related:
-  - "Academic 
- Domains field -> ../../Lexicon/Lexicon_Edit_fields/Sense_level_fields/academic_domains_field.md"
-  - "Choose 
- an academic domain -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_academic_domains.md"
-  - "Lists fields 
- overview -> ../Lists_fields_overview.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Academic \n Domains field -> ../../Lexicon/Lexicon_Edit_fields/Sense_level_fields/academic_domains_field.md"
+  - "Choose \n an academic domain -> ../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_academic_domains.md"
+  - "Lists fields \n overview -> ../Lists_fields_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:e273f08ccae9afb5"

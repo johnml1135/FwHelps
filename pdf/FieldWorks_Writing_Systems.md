@@ -1,7 +1,7 @@
 ---
 title: "FieldWorks Writing Systems"
 source: "FieldWorks Writing Systems.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/1ecb705/FieldWorks%20Writing%20Systems.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/FieldWorks%20Writing%20Systems.pdf"
 sha256: "8b2cfe3e9c0a472625f24a3b4fbe06cc26312234215c7a4e14b128cae121cf36"
 pdf_metadata:
   format: "PDF 1.4"
@@ -14,7 +14,7 @@ pdf_metadata:
   modDate: "D:20040423113012-03'00'"
   encryption: "Standard V2 R3 128-bit RC4"
 type: "pdf"
-outline_count: 18
+outline_count: "18"
 structure: "bookmarks (19p)"
 ---
 

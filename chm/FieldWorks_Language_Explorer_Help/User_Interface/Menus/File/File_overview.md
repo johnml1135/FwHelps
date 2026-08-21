@@ -19,18 +19,13 @@ keywords:
   - "Icon"
   - "desktop open specific project"
 related:
-  - "Import 
- Translated Grammatical Category Content -> ../../../Beginning_Tasks/Importing_Data/Import_Translated_Grammatical_Category_Content.md"
-  - "Import 
- Translated List Content -> ../../../Beginning_Tasks/Importing_Data/Import_Translated_List_Content.md"
+  - "Import \n Translated Grammatical Category Content -> ../../../Beginning_Tasks/Importing_Data/Import_Translated_Grammatical_Category_Content.md"
+  - "Import \n Translated List Content -> ../../../Beginning_Tasks/Importing_Data/Import_Translated_List_Content.md"
   - "Menus overview -> ../Menus_overview.md"
   - "Save -> Save.md"
-  - "Shortcut 
- keys overview -> ../../Shortcuts/shortcut_keys_overview.md"
-  - "Unable to Open 
- Project dialog box -> Unable_to_Open_Project.md"
-  - "User Interface 
- overview -> ../../User_Interface_overview.md"
+  - "Shortcut \n keys overview -> ../../Shortcuts/shortcut_keys_overview.md"
+  - "Unable to Open \n Project dialog box -> Unable_to_Open_Project.md"
+  - "User Interface \n overview -> ../../User_Interface_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:097acdd3c36d099c"

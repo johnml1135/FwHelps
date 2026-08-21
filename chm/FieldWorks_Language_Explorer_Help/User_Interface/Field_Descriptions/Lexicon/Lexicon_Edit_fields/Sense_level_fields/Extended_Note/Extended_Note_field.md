@@ -16,10 +16,8 @@ keywords:
   - "Extended Note"
   - "Extended Note:Extended Note fields"
 related:
-  - "Extended 
- Note fields overview -> Extended_Note_fields_overview.md"
-  - "Lexicon 
- Edit overview -> ../../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+  - "Extended \n Note fields overview -> Extended_Note_fields_overview.md"
+  - "Lexicon \n Edit overview -> ../../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:4f8de5db7e64df01"

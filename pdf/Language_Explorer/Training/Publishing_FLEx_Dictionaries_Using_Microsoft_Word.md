@@ -1,7 +1,7 @@
 ---
 title: "Publishing FLEx Dictionaries Using Microsoft Word"
 source: "Language Explorer/Training/Publishing FLEx Dictionaries Using Microsoft Word.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/1ecb705/Language%20Explorer/Training/Publishing%20FLEx%20Dictionaries%20Using%20Microsoft%20Word.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Training/Publishing%20FLEx%20Dictionaries%20Using%20Microsoft%20Word.pdf"
 sha256: "680b7c9d6dd751b19042bc54f1b303d38e6986701b49d45348785e8b64ee9b40"
 pdf_metadata:
   format: "PDF 1.7"
@@ -11,7 +11,7 @@ pdf_metadata:
   creationDate: "D:20260813134239-05'00'"
   modDate: "D:20260813134239-05'00'"
 type: "pdf"
-outline_count: 38
+outline_count: "38"
 structure: "font-inference (28p)"
 ---
 

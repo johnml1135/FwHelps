@@ -15,8 +15,7 @@ keywords:
   - "REAP/RAMP archiving"
 related:
   - "File menu overview -> File_overview.md"
-  - "Using 
- the Writing System Properties dialog box -> ../../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
+  - "Using \n the Writing System Properties dialog box -> ../../../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:9e9779ecde5db36f"

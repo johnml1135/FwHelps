@@ -28,10 +28,8 @@ keywords:
   - "Section Sign"
 related:
   - "Insert new text -> Insert_new_Text.md"
-  - "Parsing 
- words overview -> ../../../User_Interface/Menus/Parser/Parsing_words_overview.md"
-  - "Texts & 
- Words overview -> ../Texts_and_Words_overview.md"
+  - "Parsing \n words overview -> ../../../User_Interface/Menus/Parser/Parsing_words_overview.md"
+  - "Texts & \n Words overview -> ../Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:082bc8eff8c41ebd"

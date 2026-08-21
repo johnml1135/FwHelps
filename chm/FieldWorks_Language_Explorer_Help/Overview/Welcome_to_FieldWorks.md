@@ -13,19 +13,13 @@ keywords:
   - "Collaborating with Others:Language Explorer dialog box"
   - "Language Explorer dialog box"
 related:
-  - "Collection 
- of Locale Data -> ../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Collection_of_Locale_data.md"
-  - "Create 
- Shortcut on Desktop -> ../User_Interface/Menus/File/Create_Shortcut_on_Desktop.md"
-  - "File 
- menu overview -> ../User_Interface/Menus/File/File_overview.md"
+  - "Collection \n of Locale Data -> ../Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Collection_of_Locale_data.md"
+  - "Create \n Shortcut on Desktop -> ../User_Interface/Menus/File/Create_Shortcut_on_Desktop.md"
+  - "File \n menu overview -> ../User_Interface/Menus/File/File_overview.md"
   - "Getting started -> Getting_started.md"
-  - "Help 
- menu overview -> ../User_Interface/Menus/Help/Help_overview.md"
-  - "Options 
- overview -> ../User_Interface/Menus/Tools/Options/Options_overview.md"
-  - "Unable 
- to Open Project dialog box -> ../User_Interface/Menus/File/Unable_to_Open_Project.md"
+  - "Help \n menu overview -> ../User_Interface/Menus/Help/Help_overview.md"
+  - "Options \n overview -> ../User_Interface/Menus/Tools/Options/Options_overview.md"
+  - "Unable \n to Open Project dialog box -> ../User_Interface/Menus/File/Unable_to_Open_Project.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:40617d950468fa42"

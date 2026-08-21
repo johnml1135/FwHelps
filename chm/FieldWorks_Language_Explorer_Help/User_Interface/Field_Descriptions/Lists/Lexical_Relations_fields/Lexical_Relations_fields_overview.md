@@ -14,16 +14,11 @@ keywords:
   - "Lexical Relation"
   - "Lexical Relation:Lexical Relations fields overview"
 related:
-  - "About 
- reference set type -> ../../../../Using_Tools/Lists_tools/About_reference_set_types.md"
-  - "Create 
- new Lexical Relations -> ../../../../Using_Tools/Lists_tools/Create_new_Lexical_Relations.md"
-  - "Lexical 
- Relations field -> ../../Lexicon/Lexicon_Edit_fields/Sense_level_fields/lexical_relations_field.md"
-  - "Lists fields 
- overview -> ../Lists_fields_overview.md"
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "About \n reference set type -> ../../../../Using_Tools/Lists_tools/About_reference_set_types.md"
+  - "Create \n new Lexical Relations -> ../../../../Using_Tools/Lists_tools/Create_new_Lexical_Relations.md"
+  - "Lexical \n Relations field -> ../../Lexicon/Lexicon_Edit_fields/Sense_level_fields/lexical_relations_field.md"
+  - "Lists fields \n overview -> ../Lists_fields_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:16602583fe161185"

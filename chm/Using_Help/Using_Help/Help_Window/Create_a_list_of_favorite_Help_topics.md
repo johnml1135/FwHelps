@@ -10,10 +10,8 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Help Window overview -> Help_Window_overview.md"
-  - "Understanding 
- Help window panes -> Understanding_Help_window_panes.md"
-  - "Tips 
- on finding information using Help -> Tips_on_finding_information_using_Help.md"
+  - "Understanding \r\n Help window panes -> Understanding_Help_window_panes.md"
+  - "Tips \r\n on finding information using Help -> Tips_on_finding_information_using_Help.md"
 type: "topic"
 content_hash: "sha256:8fb1a8922ab7b6ec"
 ---

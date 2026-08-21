@@ -16,10 +16,8 @@ keywords:
   - "Restore:Restore a FW6 backup in FW7 or later"
   - "Replace Existing Project (Restore)"
 related:
-  - "Backup and 
- Restore overview -> Backup_and_Restore_overview.md"
-  - "Migrate 
- FieldWorks 6.0.6 (or earlier) Project dialog box -> ../../../../Overview/Migrate_FieldWorks_6.0.4_(or_earlier)_Projects.md"
+  - "Backup and \n Restore overview -> Backup_and_Restore_overview.md"
+  - "Migrate \n FieldWorks 6.0.6 (or earlier) Project dialog box -> ../../../../Overview/Migrate_FieldWorks_6.0.4_(or_earlier)_Projects.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:47ac4329784be0c2"

@@ -15,16 +15,12 @@ keywords:
   - "Default Paragraph Characters Style:Format overview"
   - "Format:Format overview"
 related:
-  - "Bulk 
- change writing system -> ../../../Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_change_writing_system.md"
+  - "Bulk \n change writing system -> ../../../Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_change_writing_system.md"
   - "Font dialog box -> Font.md"
-  - "Format 
- toolbar -> ../../Toolbars/Format_toolbar.md"
+  - "Format \n toolbar -> ../../Toolbars/Format_toolbar.md"
   - "Menus overview -> ../Menus_overview.md"
-  - "Remove 
- formatting -> ../../../Basic_Tasks/Formatting_Text/Remove_formatting.md"
-  - "Shortcut 
- keys overview -> ../../Shortcuts/shortcut_keys_overview.md"
+  - "Remove \n formatting -> ../../../Basic_Tasks/Formatting_Text/Remove_formatting.md"
+  - "Shortcut \n keys overview -> ../../Shortcuts/shortcut_keys_overview.md"
 fw_help_version: "9.3"
 type: "index"
 content_hash: "sha256:e725f24eae48c568"

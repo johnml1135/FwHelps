@@ -18,13 +18,10 @@ keywords:
   - "change"
   - "Select language overview:Private-Use codes"
 related:
-  - "Add 
- a new writing system overview -> Add_a_new_writing_system_overview.md"
-  - "Select Language 
- overview -> Select_Language_overview.md"
+  - "Add \n a new writing system overview -> Add_a_new_writing_system_overview.md"
+  - "Select Language \n overview -> Select_Language_overview.md"
   - "Writing System codes -> Writing_system_codes.md"
-  - "Writing 
- System Properties dialog box -> ../Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
+  - "Writing \n System Properties dialog box -> ../Modifying_a_Writing_System/Using_the_Writing_System_Properties_dialog_box.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:86a0b8798a095a87"

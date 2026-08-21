@@ -10,8 +10,7 @@ source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/e
 source_hash: "sha256:048514303a3761831b4e423add4a5a71154f5a1142ffb4b103d190ebce3c2774"
 related:
   - "Help Window overview -> Help_Window_overview.md"
-  - "Tips 
- on finding information using Help -> Tips_on_finding_information_using_Help.md"
+  - "Tips \r\n on finding information using Help -> Tips_on_finding_information_using_Help.md"
 type: "topic"
 content_hash: "sha256:b77399540f726ff8"
 ---

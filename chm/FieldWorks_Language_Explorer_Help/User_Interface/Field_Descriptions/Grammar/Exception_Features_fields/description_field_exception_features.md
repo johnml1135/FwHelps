@@ -21,9 +21,9 @@ type: "topic"
 content_hash: "sha256:4447f6f6746fcb15"
 ---
 
-# Description field (Exception "Features")
+# Description field (Exception \"Features\")
 
-*User Interface › Field Descriptions › Grammar › Exception "Features" fields*
+*User Interface › Field Descriptions › Grammar › Exception \"Features\" fields*
 
 **Full name:** **Description**
 

@@ -13,10 +13,8 @@ keywords:
   - "Comment"
   - "Comment:Enter a comment"
 related:
-  - "Configure 
- Dictionary View -> ../../../User_Interface/Menus/Tools/Configure_Dictionary/Configure_Dictionary.md"
-  - "Enter a literal 
- meaning -> Enter_a_literal_meaning.md"
+  - "Configure \n Dictionary View -> ../../../User_Interface/Menus/Tools/Configure_Dictionary/Configure_Dictionary.md"
+  - "Enter a literal \n meaning -> Enter_a_literal_meaning.md"
   - "Lexicon Edit overview -> lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "topic"

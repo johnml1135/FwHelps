@@ -14,12 +14,9 @@ keywords:
   - "Description fields"
   - "Text Chart tab fields (Lists)"
 related:
-  - "Lists 
- overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Text 
- Chart Markers fields overview -> Text_Chart_Markers_fields_overview.md"
-  - "Text 
- Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
+  - "Lists \n overview -> ../../../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Text \n Chart Markers fields overview -> Text_Chart_Markers_fields_overview.md"
+  - "Text \n Chart tab overview -> ../../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Text_Chart_tab/Text_chart_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:ab0f6cd28e6732ef"

@@ -23,17 +23,12 @@ keywords:
   - "interlinear annotation line"
 related:
   - "Analyze Text overview -> Analyze_Text_overview.md"
-  - "Configure 
- Interlinear lines right-click -> Configure_Interlinear_lines_right_click.md"
-  - "Configure 
- Interlinear Lines dialog box -> ../../../User_Interface/Menus/Tools/Configure_interlinear_lines_dialog_box.md"
-  - "Enter a free 
- translation -> Enter_a_Free_Translation.md"
-  - "Enter a literal 
- translation -> Enter_a_Literal_Translation.md"
+  - "Configure \n Interlinear lines right-click -> Configure_Interlinear_lines_right_click.md"
+  - "Configure \n Interlinear Lines dialog box -> ../../../User_Interface/Menus/Tools/Configure_interlinear_lines_dialog_box.md"
+  - "Enter a free \n translation -> Enter_a_Free_Translation.md"
+  - "Enter a literal \n translation -> Enter_a_Literal_Translation.md"
   - "Enter a note -> Enter_a_Note.md"
-  - "Interlinear Texts 
- overview -> texts_edit_overview.md"
+  - "Interlinear Texts \n overview -> texts_edit_overview.md"
   - "Undo -> ../../../User_Interface/Menus/Edit/Undo_and_Redo.md"
 fw_help_version: "9.3"
 type: "topic"

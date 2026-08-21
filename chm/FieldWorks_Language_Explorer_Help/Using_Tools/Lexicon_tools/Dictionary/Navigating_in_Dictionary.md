@@ -19,10 +19,8 @@ keywords:
   - "Dictionary & Reversal Indexes:Navigating in Dictionary"
 related:
   - "Dictionary overview -> Dictionary_overview.md"
-  - "Referenced 
- Headword (Configure Dictionary) -> ../../../User_Interface/Menus/Tools/Configure_Dictionary/Headword.md"
-  - "Standard 
- Toolbar -> ../../../User_Interface/Toolbars/Standard_toolbar.md"
+  - "Referenced \n Headword (Configure Dictionary) -> ../../../User_Interface/Menus/Tools/Configure_Dictionary/Headword.md"
+  - "Standard \n Toolbar -> ../../../User_Interface/Toolbars/Standard_toolbar.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:f5bbdafea286753d"

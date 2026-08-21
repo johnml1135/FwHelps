@@ -12,14 +12,10 @@ keywords:
   - "Shortcut keys:Lists tools"
   - "shortcut keys for"
 related:
-  - "Lists 
- overview -> ../../Using_Tools/Lists_tools/Lists_overview.md"
-  - "Shortcut keys 
- to edit text -> Shortcut_keys_to_edit_text.md"
-  - "Shortcut 
- keys to move the insertion point -> Shortcut_keys_to_move_the_insertion_point.md"
-  - "Shortcut keys 
- overview -> shortcut_keys_overview.md"
+  - "Lists \n overview -> ../../Using_Tools/Lists_tools/Lists_overview.md"
+  - "Shortcut keys \n to edit text -> Shortcut_keys_to_edit_text.md"
+  - "Shortcut \n keys to move the insertion point -> Shortcut_keys_to_move_the_insertion_point.md"
+  - "Shortcut keys \n overview -> shortcut_keys_overview.md"
 fw_help_version: "9.3"
 type: "topic"
 content_hash: "sha256:9630eaf4ae5d6cae"

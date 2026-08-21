@@ -1,7 +1,7 @@
 ---
 title: "Technical Notes on SFM Database Import"
 source: "Language Explorer/Training/Technical Notes on SFM Database Import.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/1ecb705/Language%20Explorer/Training/Technical%20Notes%20on%20SFM%20Database%20Import.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Training/Technical%20Notes%20on%20SFM%20Database%20Import.pdf"
 sha256: "e83c9936c1798f849f7d2d855961935f97c1c4de2273023394ed56ca8d7fbcb9"
 pdf_metadata:
   format: "PDF 1.5"
@@ -12,7 +12,7 @@ pdf_metadata:
   creationDate: "D:20130603124916-05'00'"
   modDate: "D:20130603124916-05'00'"
 type: "pdf"
-outline_count: 31
+outline_count: "31"
 structure: "font-inference (30p)"
 ---
 

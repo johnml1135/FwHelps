@@ -14,12 +14,9 @@ keywords:
   - "Grapheme"
   - "In Orthography as field"
 related:
-  - "Edit 
- a phoneme -> ../../../../Using_Tools/Grammar_tools/Phonemes/Edit_a_phoneme.md"
-  - "Non-base 
- characters as graphemes -> ../../../../Using_Tools/Grammar_tools/Phonemes/Non_Base_Characters_as_Graphemes.md"
-  - "Phonemes fields 
- overview -> Phonemes_fields_overview.md"
+  - "Edit \n a phoneme -> ../../../../Using_Tools/Grammar_tools/Phonemes/Edit_a_phoneme.md"
+  - "Non-base \n characters as graphemes -> ../../../../Using_Tools/Grammar_tools/Phonemes/Non_Base_Characters_as_Graphemes.md"
+  - "Phonemes fields \n overview -> Phonemes_fields_overview.md"
 fw_help_version: "9.3"
 page_heading: "In Orthography as field"
 type: "topic"
