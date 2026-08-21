@@ -1,0 +1,54 @@
+---
+title: "Etymology Note (Etymology)"
+source_title: "Etymology Note (Etymology)"
+breadcrumb:
+  - "User Interface"
+  - "Field Descriptions"
+  - "Lexicon"
+  - "Lexicon Edit fields"
+  - "Entry level fields"
+  - "Etymology Note Field (Etymology)"
+source: "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Etymology_Note_Etymology.htm"
+source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Etymology_Note_Etymology.htm"
+source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+keywords:
+  - "Etymology:Etymology fields"
+related:
+  - "Etymology fields overview -> Etymology_fields_overview.md"
+  - "Lexicon Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
+fw_help_version: "9.3"
+page_heading: "Etymology Note field (Etymology)"
+type: "topic"
+content_hash: "sha256:6d0e7002ad905932"
+---
+
+# Etymology Note (Etymology)
+
+*User Interface › Field Descriptions › Lexicon › Lexicon Edit fields › Entry level fields*
+
+**Full name:** **Etymology Note**
+
+**Location:**
+
+In the **Entry** pane (**Lexicon Edit**).
+
+This field is between the **Lexeme Form** [field](Lexeme_Form_field.md) and the **Sense 1** [field](../Sense_level_fields/Sense_field.md), at the [entry-level](Entry_level_fields_overview.md).
+
+It is part of the set of **Etymology** [fields](Etymology_fields_overview.md).
+
+**Description:** This field stores notes that are for the lexicographer, but not intended for publication. Consequently, you cannot configure the dictionary to include content from this field.
+
+**Tasks:**
+
+- [Enter etymological information](../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Enter_etymological_information.md)
+
+- Right-click the field label, or click the menu button (![](../../../../../assets/images/Menu_Button_pic.GIF)), and then point to **Writing Systems** and click [Configure](../../../../../Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md).
+
+**Field type:** [Single-line text field](../../../Field_Types/Single_line_text_field.md) – allows embedded [writing systems](../../../../Menus/Format/select_a_writing_system.md) and [styles](../../../../Menus/Format/apply_a_style_to_text.md)
+
+**Writing systems:** One or more [analysis](../../../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/About_Writing_Systems.md) writing system.
+
+## Related topics
+[Etymology fields overview](Etymology_fields_overview.md)
+
+[Lexicon Edit overview](../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md)

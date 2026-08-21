@@ -1,0 +1,63 @@
+---
+title: "Example Words field (Collect Words)"
+source_title: "Example Words field (Collect Words)"
+breadcrumb:
+  - "User Interface"
+  - "Field Descriptions"
+  - "Lexicon"
+  - "Collect Words fields"
+  - "Example Words field (Collect Words)"
+source: "User_Interface/Field_Descriptions/Lexicon/Collect_Words_fields/Example_Words_Field_Collect_words.htm"
+source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Collect_Words_fields/Example_Words_Field_Collect_words.htm"
+source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+keywords:
+  - "Example"
+  - "Example:Example Words field (Categorized Entry)"
+  - "Collect Words:Example Words field (Collect Words)"
+related:
+  - "Collect Words fields overview -> Collect_Words_fields_overview.md"
+  - "Create a lexical entry in Collect Words -> ../../../../Using_Tools/Lexicon_tools/Collect_Words/Create_a_Lexical_entry_in_Collect_Words.md"
+  - "Lexicon fields overview -> ../Lexicon_fields_overview.md"
+  - "Questions field -> ../../Lists/Semantic_Domains_fields/Questions_field_Semantic_Domains.md"
+  - "Search Semantic Domains -> ../../../../Using_Tools/Lexicon_tools/Collect_Words/Search_Semantic_Domains.md"
+fw_help_version: "9.3"
+type: "topic"
+content_hash: "sha256:11ef3026ae8d95e6"
+---
+
+# Example Words field (Collect Words)
+
+*User Interface › Field Descriptions › Lexicon › Collect Words fields*
+
+**Full name:** **Example Words**
+
+**Location:** In the **Semantic Domain** pane (**Collect Words**).
+
+**Description:** This field displays the content stored in the corresponding [Example Words](../../Lists/Semantic_Domains_fields/Example_Words_field_Semantic_Domains.md) field in the **Semantic Domains** ([Lists](../../../../Using_Tools/Lists_tools/List_item_usage_table.md)).
+
+**Tasks:**
+
+- [Edit a list item or subitem](../../../../Using_Tools/Lists_tools/Edit_a_list_item_or_subitem.md)
+
+- [Insert a question (Semantic Domain)](../../../../Using_Tools/Lists_tools/Insert_a_Question_Semantic_Domain.md)
+
+- **See also:** [Collect Words overview](../../../../Using_Tools/Lexicon_tools/Collect_Words/Collect_Words_overview.md)
+
+**Field type:**
+
+(*Non*-editable) [Single-line text](../../Field_Types/Single_line_text_field.md)
+
+Edit this content in the [Lists](../../Lists/Semantic_Domains_fields/Semantic_Domains_fields_overview.md) area.
+
+**Writing system:** One or more [analysis](../../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/About_Writing_Systems.md)
+
+## Related topics
+[Collect Words fields overview](Collect_Words_fields_overview.md)
+
+[Create a lexical entry in Collect Words](../../../../Using_Tools/Lexicon_tools/Collect_Words/Create_a_Lexical_entry_in_Collect_Words.md)
+
+[Lexicon fields overview](../Lexicon_fields_overview.md)
+
+[Questions field](../../Lists/Semantic_Domains_fields/Questions_field_Semantic_Domains.md) (**Semantic Domains**)
+
+[Search Semantic Domains](../../../../Using_Tools/Lexicon_tools/Collect_Words/Search_Semantic_Domains.md)

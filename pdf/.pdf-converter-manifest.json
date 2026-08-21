@@ -1,0 +1,56 @@
+{
+ "files": {
+  "FieldWorks Writing Systems.pdf": {
+   "markdown": "FieldWorks_Writing_Systems.md",
+   "images": "FieldWorks_Writing_Systems_images"
+  },
+  "Language Explorer/Training/Publishing FLEx Dictionaries Using Microsoft Word.pdf": {
+   "markdown": "Language_Explorer/Training/Publishing_FLEx_Dictionaries_Using_Microsoft_Word.md",
+   "images": "Language_Explorer/Training/Publishing_FLEx_Dictionaries_Using_Microsoft_Word_images"
+  },
+  "Language Explorer/Training/Technical Notes on FieldWorks Send-Receive.pdf": {
+   "markdown": "Language_Explorer/Training/Technical_Notes_on_FieldWorks_Send-Receive.md",
+   "images": "Language_Explorer/Training/Technical_Notes_on_FieldWorks_Send-Receive_images"
+  },
+  "Language Explorer/Training/Technical Notes on Interlinear Import.pdf": {
+   "markdown": "Language_Explorer/Training/Technical_Notes_on_Interlinear_Import.md",
+   "images": "Language_Explorer/Training/Technical_Notes_on_Interlinear_Import_images"
+  },
+  "Language Explorer/Training/Technical Notes on LinguaLinks Database Import.pdf": {
+   "markdown": "Language_Explorer/Training/Technical_Notes_on_LinguaLinks_Database_Import.md",
+   "images": "Language_Explorer/Training/Technical_Notes_on_LinguaLinks_Database_Import_images"
+  },
+  "Language Explorer/Training/Technical Notes on SFM Database Import.pdf": {
+   "markdown": "Language_Explorer/Training/Technical_Notes_on_SFM_Database_Import.md",
+   "images": "Language_Explorer/Training/Technical_Notes_on_SFM_Database_Import_images"
+  },
+  "Language Explorer/Training/Technical Notes on Writing Systems.pdf": {
+   "markdown": "Language_Explorer/Training/Technical_Notes_on_Writing_Systems.md",
+   "images": "Language_Explorer/Training/Technical_Notes_on_Writing_Systems_images"
+  },
+  "Language Explorer/Utilities/AlloGenUserDocumentation.pdf": {
+   "markdown": "Language_Explorer/Utilities/AlloGenUserDocumentation.md",
+   "images": "Language_Explorer/Utilities/AlloGenUserDocumentation_images"
+  },
+  "Language Explorer/Utilities/PcPatrFLExUserDocumentation.pdf": {
+   "markdown": "Language_Explorer/Utilities/PcPatrFLExUserDocumentation.md",
+   "images": "Language_Explorer/Utilities/PcPatrFLExUserDocumentation_images"
+  },
+  "Language Explorer/Utilities/silewp2007_002.pdf": {
+   "markdown": "Language_Explorer/Utilities/silewp2007_002.md",
+   "images": "Language_Explorer/Utilities/silewp2007_002_images"
+  },
+  "Language Explorer/Utilities/ToneParsFLExUserDocumentation.pdf": {
+   "markdown": "Language_Explorer/Utilities/ToneParsFLExUserDocumentation.md",
+   "images": "Language_Explorer/Utilities/ToneParsFLExUserDocumentation_images"
+  },
+  "Language Explorer/Utilities/VarGenUserDocumentation.pdf": {
+   "markdown": "Language_Explorer/Utilities/VarGenUserDocumentation.md",
+   "images": "Language_Explorer/Utilities/VarGenUserDocumentation_images"
+  },
+  "WW-ConceptualIntro/ConceptualIntroFLEx.pdf": {
+   "markdown": "WW-ConceptualIntro/ConceptualIntroFLEx.md",
+   "images": "WW-ConceptualIntro/ConceptualIntroFLEx_images"
+  }
+ }
+}

@@ -1,0 +1,2785 @@
+{
+  "corpus": {
+    "source_ref": "1ecb705",
+    "source_repo": "https://github.com/sillsdev/FwHelps",
+    "chms": [
+      {
+        "name": "FieldWorks_Language_Explorer_Help.chm",
+        "stem": "FieldWorks_Language_Explorer_Help",
+        "version": "9.3",
+        "topics": 1600,
+        "images": 580
+      },
+      {
+        "name": "Using_Help.chm",
+        "stem": "Using_Help",
+        "version": "",
+        "topics": 30,
+        "images": 3
+      }
+    ],
+    "chm_count": 2,
+    "topic_count": 1630,
+    "image_count": 583,
+    "pdf_count": 13
+  },
+  "summary": {
+    "total": 273,
+    "fatal": 0,
+    "advisory": 273,
+    "by_code": {
+      "duplicate_title": 4,
+      "missing_link": 23,
+      "not_in_toc": 3,
+      "stale_toc_entries": 1,
+      "replacement_character": 2,
+      "raw_html": 240
+    }
+  },
+  "issues": [
+    {
+      "code": "duplicate_title",
+      "message": "['Bibliography field', ['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm']]",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Duplicate display title",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_title",
+      "message": "['Complex Forms', ['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm', 'User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm']]",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Duplicate display title",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Select_Language_overview.htm', 'httsp://www.ethnologue.com/world']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm', '../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Data/Data_overview.htm', '../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Edit_Parser_Parameters.htm', 'Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Parse_Current_Word.htm', '../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Parsing_words_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Parsing_words_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Parsing_words_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm', '../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "['User_Interface/Toolbars/Insert_toolbar.htm', '../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm']",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "not_in_toc",
+      "message": "Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Shoebox_Toobox_style_sort_order.htm",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Topic missing from TOC",
+      "severity": "warning"
+    },
+    {
+      "code": "not_in_toc",
+      "message": "User_Interface/Menus/File/Export/Export_Grammar_Sketch.htm",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Topic missing from TOC",
+      "severity": "warning"
+    },
+    {
+      "code": "not_in_toc",
+      "message": "Using_Tools/Lexicon_tools/Lexicon_Edit/Using_Edit_Gram_Infodlg.htm",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Topic missing from TOC",
+      "severity": "warning"
+    },
+    {
+      "code": "stale_toc_entries",
+      "message": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
+      "path": "FieldWorks_Language_Explorer_Help.chm",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Stale TOC entry",
+      "severity": "warning"
+    },
+    {
+      "code": "replacement_character",
+      "message": "source PDF replacement characters: [{'page': 22, 'count': 1, 'codepoints': ['U+001F']}]",
+      "path": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        {
+          "page": 22,
+          "count": 1,
+          "codepoints": [
+            "U+001F"
+          ]
+        }
+      ],
+      "label": "Replacement character",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": 4,
+      "path": "WW-ConceptualIntro/ConceptualIntroFLEx.pdf",
+      "fatal": false,
+      "provenance": "exporter",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: configurationitem",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Custom_CSS_Override_Files/Custom_CSS_Override_example.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: language\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/About_vernacular_writing_systems.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: language\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/Add_a_new_writing_system.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, language\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Encoding_Converters/Encoding_Converters_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: br, p, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Encoding_Converters/Select_the_conversion_type.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Encoding_Converters/Select_the_converter_mapping.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Encoding_Converters/Select_the_converter_type.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Encoding_Converters/System_language_for_non-Unicode_programs.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Keyboards/Add_an_input_language_Windows.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Keyboards/Input_language_for_Keyman_keyboard.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, k`, p, t''`, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Collation_in_FieldWorks.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: writing",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Delete_a_writing_system.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Keyboard_tab_Windows.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, language\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Writing_System_Properties_Converters_tab.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, missing:**",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Writing_System_Properties_Fonts_tab.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, language\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Writing_System_Properties_General_tab.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Advanced_Tasks/Writing_Systems/Modifying_a_Writing_System/Writing_System_Properties_Keyboard_tab.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: headword\\, number\\, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Audio_files/Audio_files_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Filtering_data/examples_of_combinations_of_regular_expressions.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, code, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Filtering_data/Examples_of_Regular_Expressions.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, code, em, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Filtering_data/Regular_Expression_Metacharacters_table.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_data_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_in_from_Notebook.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_in_from_Word_Analyses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Showing_Writing_Systems/configure_field_WSs.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Showing_Writing_Systems/Show_WSs_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Spell_Checking/Copy_spelling_dictionary_files.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Spell_Checking/Create_multiple_vern_spell_dicts.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, name",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Spell_Checking/vernacular_spell_checking.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Spell_Checking/Vernacular_spelling_dictionary_files.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/About_encoding_converters.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Examine_import_preview_results_errors.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: no",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/import_character_mapping_dlg_box.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_Interlinear_SFM/Step_1_of_3_Import_Files.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_Interlinear_SFM/Step_3_of_3_Ready_to_Import.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: already",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_Notebook_Data/Step_3_of_7_Encoding_conversion.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: code, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_SFM_data_examples.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_SFM_words_and_glosses/Import_Standard_Format_words_and_glosses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_SFM_words_and_glosses/Step_1_of_3_Import_Files_words_and_glosses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Import_SFM_words_and_glosses/Step_3_of_3_Ready_to_Import_words_and_glosses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: already",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Specify_language_mapping_dialog_box.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: your",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Step_7_of_8_Readiness.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: file",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Beginning_Tasks/Importing_Data/Step_8_of_8_Ready_to_Import.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Lexicography_Tasks/Dictionary_and_Lexicon_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Morphology_and_Parsing_Tasks/Morphology_Parsing_Tasks_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Overview/Migrate_FieldWorks_6.0.4_(or_earlier)_Projects.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, flexerrors@sil.org",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Overview/Technical_support.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Field_Types/down_arrow_with_list_example_graphic.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, li, ol, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Grammar/Category_Edit_fields/category_edit_fields_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Grammar/Compound_Rules_fields/Category_field_Compound_Rules.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: component\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Grammar/Environments_fields/String_Representation_field_Environments.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, li, p, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Alternate_Forms_level_flds/Alt_Forms_lev_flds_ov.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: component\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Alternate_Forms_level_flds/Environments_fld_allomorph.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, li, p, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Entry_level_fields_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: component\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Environments_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Note_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Grammatical_Info_Details_fields/Category_Info_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Referenced_Complex_Forms_Publication_Settings.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: any\\, not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Grammatical_Info_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lists/Custom_Lists_fields_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lists/Publications/What_is_a_Publication.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Notebook/Date_Created_field_Ntbk.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Notebook/Date_Modified_field_Ntbk.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Notebook/Date_of_Event_field_Ntbk.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Texts_&_Words/spelling_status_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, ol, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Texts_&_Words/Texts_&_Words_fields_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Data/Data_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Edit/Delete.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Edit/Edit_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, ramp@sil.org, reap@sil.org",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Archive_with_RAMP.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Backup_and_Restore/Back_up_projects_automatically.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Backup_and_Restore/Back_up_this_Project.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Backup_and_Restore/Backup_folder.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Backup_and_Restore/Folder_Structure.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Create_Shortcut_on_Desktop.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, format\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Export/Export_a_configured_dictionary.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: extension\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Export/Export_Interlinear.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, code, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Export/Export_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Export/Export_Semantic_Domain_Worksheets.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: project",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Open_project_in_another_location.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Print_content.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/RAMP_Metadata.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/File/Upload_to_Webonary.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Format/Format_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: default, sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Format/Styles/Select_the_parent_style.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: default",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Format/Styles/Styles_Font_tab.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Insert/Insert_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, blockquote, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/About_parser_parameters.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Default_XAmple_parser_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: Strata_as_a_String_in_the_Hermit_Crab_properties%20-%20OBSOLETE.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Edit_Parser_Parameters.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parse_Current_Word.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, ol, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parser_menu_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parsing_words_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: word\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_a_word.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: p, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_the_next_pass_example.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Send_Receive/Get_a_lexicon.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Send_Receive/Get_a_project.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, flex_devteam@sil.org, img, li, p, strong, sup, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Send_Receive/Send_Receive_menu.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Classified_Dictionary/Abbreviations_Names_ClassifiedDict.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Classified_Dictionary/Manage_Classified_Dictionary_Views.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/abbreviation_and_name.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/About_the_left_pane.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/alternate_forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Citation_Form.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Component_References.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Components.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Cross_References.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Definition.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Definition_or_Gloss.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Dialect_Labels.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Etymology.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Examples.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Extended_Note.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/gloss.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Grammatical_Info.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Headword.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Lexeme_Form.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Lexical_Relations.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Literal_Meaning.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Main_Minor_entry.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Manage_Dictionary_Views.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Minor_Subentries_(Hybrid_view).md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Other_Referenced_Complex_Forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, blockquote, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Pictures.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Pronunciations.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, blockquote, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Referenced_Complex_Forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/References_Section_(Config._Dict.).md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Secondary_Homograph_number.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Senses_Subsenses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Subentries.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Using_the_Configure_Dictionary_dialog_box.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Variant_Forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Variant_Forms_(Inflectional_Variants).md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, blockquote, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Variant_of.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Dictionary/Variants_of_Sense.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, h3, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Document/Classifications.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Document/Configuring_a_Document_view.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: br, em, field, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Document/Configuring_Document_view_styles.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, h3, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Document/Time_of_Event.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Manage_Views_Reversal_Index.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Referenced_Complex_FormsRI.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Referenced_Headword,_Primary_Entry_References.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Referenced_Headword_Referenced_Senses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Referenced_Senses.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Reversal_Category.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Reversal_Form.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Configure_Reversal_Index/Reversal_Subentries.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Tools/Tools_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: br, img, p, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/View/Scroll_through_your_work.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/View/View_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: any\\, not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Shortcuts/shortcut_keys_for_use_with_dialog_boxes.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, code, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Shortcuts/shortcut_keys_Lexicon_tools.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, code, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Shortcuts/shortcut_keys_Lists_tools.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Shortcuts/shortcut_keys_Texts_Words_tools.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, code, em, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Shortcuts/Shortcut_keys_to_move_the_insertion_point.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Toolbars/Insert_toolbar.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "missing_link",
+      "message": "raw HTML target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Toolbars/Insert_toolbar.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Missing local link",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: rule\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Ad_hoc_Rules/delete_an_ad_hoc_rule.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, li, p, table, tbody, td, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Category_Edit/Category_Edit_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Category_Edit/Change_the_optionality_of_a_slot.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Category_Edit/choose_a_default_inflection_class.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: affix\\, category\\, name, name\\, slot",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Category_Edit/Edit_an_Affix_Template_Table.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: rule\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Compound_Rules/Delete_a_Compound_Rule.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: n",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Natural_Classes/Choose_phonological_features(NC).md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: n",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Natural_Classes/Remove_a_phonological_feature(NC).md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: n",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Phonemes/Choose_phonological_features.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: n",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Phonemes/Remove_a_phonological_feature.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: infinite\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Phonological_Rules/Set_occurrence.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: n",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Grammar_tools/Phonological_Rules/Set_phonological_features.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_change_inflect_features.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_change_publications.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: field",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_choose_for_cust_fld.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: code, em, p, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Bulk_Edit_Entries/bulk_copy_and_mark_forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Bulk_Edit_Entries/Bulk_Edit_Entries_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Dictionary/Select_a_publication.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name****\\, name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Add_Reference_to_Lexical_Relation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/change_the_grammatical_info.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_a_sense_status.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/choose_a_sense_type.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_an_inflection_class.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_item_Cust_list_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_Publish_In_publications.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_Show_as_Headwords_In.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: category\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/choose_slots.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_Stem_Allomorph_Label.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Enter_note_content_in_a_sense.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, h3, img, li, p, strong, table, tbody, td, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Format_a_table.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Insert_a_CR_lexical_relation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Insert_a_lexical_relation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/play_sound_or_movie.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, https:",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Use_the_Picture_Properties_dialog_box.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: any\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Using_Create_New_Grammatical_Info_dialog_box.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: any\\, not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Lexicon_Edit/Using_Edit_Gram_Infodlg.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lexicon_tools/Reversal_Indexes/change_the_category_of_a_reversal_entry.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/About_Entry_Types.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/About_Lexical_Relations.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: name\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/choose_item_for_list_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Create_new_publication.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: list, list*",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Delete_a_list_item.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/List_item_usage_table.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Set_Type_example_entry_collection.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Set_Type_example_entry_or_sense_tree.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Set_Type_example_entry_sequence_scale.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Set_Type_example_entry_tree.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Set_Type_example_sense_collection.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/set_type_example_sense_pair.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: em, h3, p, strong, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Set_Type_example_sense_tree.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, p, strong, table, tbody, td, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Text_Chart/default_chart_columns.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, br, em, img, p, strong, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Lists_tools/Text_Chart/specify_columns_for_chart.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Notebook_tools/Record_Edit_overview/Choose_confidence.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Notebook_tools/Record_Edit_overview/Choose_status.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: writing",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Bulk_Edit_Wordforms/Bulk_delete_form_wordform.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: h3, img, p, table, tbody, td, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Complex_Concordance/Complex_Concordance_examples.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: any\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Complex_Concordance/Select_Tag.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: infinite\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Complex_Concordance/Set_Occurrence_(Complex_Concordance).md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Concordance/Concordance_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: morpheme\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/add_a_new_sense.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: current",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Configure_Interlinear_lines_right_click.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Display_text_in_an_interlinear_view.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, li, ol, p, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/interlinear_views_colors.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, img, p, table, tbody, td, th, tr",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Morpheme_Break_examples.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: morpheme\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/Select_the_lexical_sense_for_a_morpheme.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: not",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/specify_a_word_category.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: empty\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/specify_the_word_gloss.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Interlinear_Texts/texts_edit_overview.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: item\\",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Word_Analyses/Specify_spelling_status.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, em, li, p, strong, table, tbody, td, th, tr, ul",
+      "path": "chm/FieldWorks_Language_Explorer_Help/Using_Tools/Texts_&_Words_tools/Word_list_columns.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: br, code, em, p, table, tbody, td, th, thead, tr",
+      "path": "chm/Using_Help/Using_Help/Searching_for_Help_Topics/Search_for_words_or_phrases.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: br, code, p, table, tbody, td, th, thead, tr",
+      "path": "chm/Using_Help/Using_Help/Searching_for_Help_Topics/Search_using_boolean_operators.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: a, code, p, table, tbody, td, th, thead, tr",
+      "path": "chm/Using_Help/Using_Help/Shortcuts/Shortcuts_for_the_Help_window.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup",
+      "path": "pdf/FieldWorks_Writing_Systems.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: mark, sup",
+      "path": "pdf/Language_Explorer/Training/Publishing_FLEx_Dictionaries_Using_Microsoft_Word.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: abbreviation, auni, computerloginname, filename, name, ownseq, sup, u",
+      "path": "pdf/Language_Explorer/Training/Technical_Notes_on_FieldWorks_Send-Receive.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: annotations6001, entries5005, lexicaldatabase6001, partsofspeech6001, sup, texts6001, u, wordforminventory6001",
+      "path": "pdf/Language_Explorer/Training/Technical_Notes_on_LinguaLinks_Database_Import.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: already, de, dt, entry, example, ge, hm, lc, lx, ps, re, sd, semanticdomain, sense, sup, va, variant, xe, xv",
+      "path": "pdf/Language_Explorer/Training/Technical_Notes_on_SFM_Database_Import.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: language, sup",
+      "path": "pdf/Language_Explorer/Training/Technical_Notes_on_Writing_Systems.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup, u",
+      "path": "pdf/Language_Explorer/Utilities/AlloGenUserDocumentation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: br, sup, u",
+      "path": "pdf/Language_Explorer/Utilities/PcPatrFLExUserDocumentation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "replacement_character",
+      "message": "contains U+FFFD",
+      "path": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Replacement character",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: domain_location, marker, sup, type, value",
+      "path": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup, u",
+      "path": "pdf/Language_Explorer/Utilities/ToneParsFLExUserDocumentation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup, u",
+      "path": "pdf/Language_Explorer/Utilities/VarGenUserDocumentation.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "raw_html",
+      "message": "raw HTML tags: sup, table, td, th, tr, u",
+      "path": "pdf/WW-ConceptualIntro/ConceptualIntroFLEx.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": null,
+      "label": "Raw HTML retained",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_title",
+      "message": "display title 'bibliography field (bibliography field)': chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md, chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md",
+        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md"
+      ],
+      "label": "Duplicate display title",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_title",
+      "message": "display title 'complex forms field': chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md, chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md",
+      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md",
+      "fatal": false,
+      "provenance": "source",
+      "detail": [
+        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md",
+        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md"
+      ],
+      "label": "Duplicate display title",
+      "severity": "warning"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+---
+title: "Question field (Collect Words)"
+source_title: "Question field (Collect Words)"
+breadcrumb:
+  - "User Interface"
+  - "Field Descriptions"
+  - "Lexicon"
+  - "Collect Words fields"
+  - "Question field (Collect Words)"
+source: "User_Interface/Field_Descriptions/Lexicon/Collect_Words_fields/Question_Field_Collect_Words.htm"
+source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Collect_Words_fields/Question_Field_Collect_Words.htm"
+source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+keywords:
+  - "Question or Messages:Question field (Categorized Entry)"
+  - "Collect Words:Question field (Collect Words)"
+related:
+  - "Collect Words fields overview -> Collect_Words_fields_overview.md"
+  - "Lexicon fields overview -> ../Lexicon_fields_overview.md"
+  - "Questions field -> ../../Lists/Semantic_Domains_fields/Questions_field_Semantic_Domains.md"
+fw_help_version: "9.3"
+page_heading: "Question field"
+type: "topic"
+content_hash: "sha256:8a2fb9e13b21e614"
+---
+
+# Question field (Collect Words)
+
+*User Interface › Field Descriptions › Lexicon › Collect Words fields*
+
+**Full name:** **Question**
+
+**Location:** In the **Semantic Domain** pane (**Collect Words**).
+
+**Description:** This field displays the content stored in the corresponding [Question](../../Lists/Semantic_Domains_fields/Question_field_Semantic_Domains.md) field in **Semantic Domains** ([Lists](../../../../Using_Tools/Lists_tools/List_item_usage_table.md)).
+
+**Tasks:**
+
+- [Edit a list item or subitem](../../../../Using_Tools/Lists_tools/Edit_a_list_item_or_subitem.md)
+
+- [Insert a question (Semantic Domain)](../../../../Using_Tools/Lists_tools/Insert_a_Question_Semantic_Domain.md)
+
+- **See also:** [Collect Words overview](../../../../Using_Tools/Lexicon_tools/Collect_Words/Collect_Words_overview.md)
+
+**Field type:**
+
+(*Non*-editable) [Single-line text](../../Field_Types/Single_line_text_field.md)
+
+Edit this content in the [Lists](../../Lists/Semantic_Domains_fields/Semantic_Domains_fields_overview.md) area.
+
+**Writing system:** One or more [analysis](../../../../Advanced_Tasks/Writing_Systems/Add_a_new_writing_system/About_Writing_Systems.md)
+
+## Related topics
+[Collect Words fields overview](Collect_Words_fields_overview.md)
+
+[Lexicon fields overview](../Lexicon_fields_overview.md)
+
+[Questions field](../../Lists/Semantic_Domains_fields/Questions_field_Semantic_Domains.md) (**Semantic Domains**)

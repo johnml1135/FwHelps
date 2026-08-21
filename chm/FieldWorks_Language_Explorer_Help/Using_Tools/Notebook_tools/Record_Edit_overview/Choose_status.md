@@ -1,0 +1,48 @@
+---
+title: "Choose status"
+source_title: "Choose status"
+breadcrumb:
+  - "Using Tools"
+  - "Notebook"
+  - "Record Edit"
+  - "Choose status"
+source: "Using_Tools/Notebook_tools/Record_Edit_overview/Choose_status.htm"
+source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Tools/Notebook_tools/Record_Edit_overview/Choose_status.htm"
+source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+keywords:
+  - "Choose (See also: Select or Specify):Status (Notebook)"
+related:
+  - "Insert a list item -> ../../Lists_tools/Insert_a_list_item.md"
+  - "Insert a list subitem -> ../../Lists_tools/Insert_a_list_subitem.md"
+  - "Record Edit overview -> Record_Edit_overview.md"
+fw_help_version: "9.3"
+type: "topic"
+content_hash: "sha256:26cd37a87b465648"
+---
+
+# Choose status
+
+*Using Tools › Notebook › Record Edit*
+
+1.  In the **Navigation Pane**, click **Notebook**, and then click **Record Edit**.
+
+2.  In the **Records** pane, click the record you want to change.
+
+3.  In the **Record** pane, click the [Status](../../../User_Interface/Field_Descriptions/Notebook/Status_field_Ntbk.md) field, and then click the ellipsis button ![](../../../assets/images/Ellipsis_button.PNG) that appears.
+
+    The **Choose Status** dialog box appears.
+
+4.  Click status.
+
+    - Select (![](../../../assets/images/CheckedBox.PNG)) **Display usage figures** to see how many times each **Status** list item is used in the project.
+
+    - Click the **Edit the Status list** link to [insert](../../Lists_tools/Insert_a_list_item.md) or [edit](../../Lists_tools/Edit_a_list_item_or_subitem.md) a **Status** list item.
+
+    - Click the status or **\<Empty\>** (to clear the field). Click **OK**.
+
+## Related topics
+[Insert a list item](../../Lists_tools/Insert_a_list_item.md)
+
+[Insert a list subitem](../../Lists_tools/Insert_a_list_subitem.md)
+
+[Record Edit overview](Record_Edit_overview.md)
