@@ -1,6 +1,6 @@
 {
   "corpus": {
-    "source_ref": "b2df7ee",
+    "source_ref": "c556bc7b8d534ae33152d0379dd2d31b4ac2f92a",
     "source_repo": "https://github.com/sillsdev/FwHelps",
     "chms": [
       {
@@ -40,34 +40,34 @@
   "issues": [
     {
       "code": "duplicate_title",
-      "message": "['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm']",
-      "path": "Bibliography field",
+      "message": "duplicate title 'Bibliography field' appears in 2 topics",
+      "path": "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": [
-        "Bibliography field",
-        [
+      "detail": {
+        "title": "Bibliography field",
+        "topics": [
           "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm",
           "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm"
         ]
-      ],
+      },
       "label": "Duplicate display title",
       "severity": "warning"
     },
     {
       "code": "duplicate_title",
-      "message": "['User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm', 'User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm', 'User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm']",
-      "path": "Complex Forms",
+      "message": "duplicate title 'Complex Forms' appears in 3 topics",
+      "path": "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm",
       "fatal": false,
       "provenance": "source",
-      "detail": [
-        "Complex Forms",
-        [
+      "detail": {
+        "title": "Complex Forms",
+        "topics": [
           "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm",
           "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm",
           "User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm"
         ]
-      ],
+      },
       "label": "Duplicate display title",
       "severity": "warning"
     },
@@ -270,18 +270,22 @@
     {
       "code": "source_replacement_character",
       "message": "source PDF replacement characters: [{'page': 22, 'count': 1, 'codepoints': ['U+001F']}]",
-      "path": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
+      "path": "Language Explorer/Utilities/silewp2007_002.pdf",
       "fatal": false,
       "provenance": "source",
-      "detail": [
-        {
-          "page": 22,
-          "count": 1,
-          "codepoints": [
-            "U+001F"
-          ]
-        }
-      ],
+      "detail": {
+        "source_pdf": "Language Explorer/Utilities/silewp2007_002.pdf",
+        "generated_markdown": "pdf/Language_Explorer/Utilities/silewp2007_002.md",
+        "pages": [
+          {
+            "page": 22,
+            "count": 1,
+            "codepoints": [
+              "U+001F"
+            ]
+          }
+        ]
+      },
       "label": "Replacement character",
       "severity": "warning"
     },

@@ -1,7 +1,7 @@
 ---
 title: "Use TonePars with FLEx User Documentation"
 source: "Language Explorer/Utilities/ToneParsFLExUserDocumentation.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Utilities/ToneParsFLExUserDocumentation.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/c556bc7b8d534ae33152d0379dd2d31b4ac2f92a/Language%20Explorer/Utilities/ToneParsFLExUserDocumentation.pdf"
 sha256: "0df71dbb986cd0abc9664a3699c4999a932a7b823d5a29355778621ebc26f058"
 pdf_metadata:
   format: "PDF 1.5"

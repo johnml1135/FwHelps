@@ -2,7 +2,7 @@
 
 Generated documentation corpus. **Do not edit these files**; the tree is replaced as a set.
 
-- **Source ref:** `b2df7ee`
+- **Source ref:** `c556bc7b8d534ae33152d0379dd2d31b4ac2f92a`
 - **CHMs:** 2   **PDFs:** 13
 
 - **Root CHMs (auto-discovered):** `FieldWorks_Language_Explorer_Help.chm`, `Using_Help.chm`
@@ -19,7 +19,7 @@ Generated documentation corpus. **Do not edit these files**; the tree is replace
 | Stale TOC entry | warning | 1 |
 | Topic missing from TOC | warning | 3 |
 
-Full detail is in [`author-report.json`](author-report.json).
+Full detail: [author-report.md](author-report.md) for authors; [author-report.json](author-report.json) for automation.
 
 ## CHM navigation
 

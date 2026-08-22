@@ -1,7 +1,7 @@
 ---
 title: "Variant Generator User Documentation"
 source: "Language Explorer/Utilities/VarGenUserDocumentation.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Utilities/VarGenUserDocumentation.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/c556bc7b8d534ae33152d0379dd2d31b4ac2f92a/Language%20Explorer/Utilities/VarGenUserDocumentation.pdf"
 sha256: "004abda63dab27bbbd9828307b5db4f2108eab922cd4f2db4a8774fe657c393e"
 pdf_metadata:
   format: "PDF 1.5"

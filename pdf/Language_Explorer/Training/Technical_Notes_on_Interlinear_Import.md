@@ -1,7 +1,7 @@
 ---
 title: "Technical Notes on Interlinear Import"
 source: "Language Explorer/Training/Technical Notes on Interlinear Import.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Training/Technical%20Notes%20on%20Interlinear%20Import.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/c556bc7b8d534ae33152d0379dd2d31b4ac2f92a/Language%20Explorer/Training/Technical%20Notes%20on%20Interlinear%20Import.pdf"
 sha256: "10456b6627b645d0a5f123bd3269db1dd5172582c122d6473c072a4e16daf9c0"
 pdf_metadata:
   format: "PDF 1.5"

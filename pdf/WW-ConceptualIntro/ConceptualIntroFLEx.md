@@ -1,7 +1,7 @@
 ---
 title: "A Conceptual Introduction to Morphological Parsing for FieldWorks Language Explorer"
 source: "WW-ConceptualIntro/ConceptualIntroFLEx.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/WW-ConceptualIntro/ConceptualIntroFLEx.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/c556bc7b8d534ae33152d0379dd2d31b4ac2f92a/WW-ConceptualIntro/ConceptualIntroFLEx.pdf"
 sha256: "79305fc6158e2f1b4bbb8c51e2d912f2f8fa2afb28e061e5521c0dc3d23f38b8"
 pdf_metadata:
   format: "PDF 1.4"

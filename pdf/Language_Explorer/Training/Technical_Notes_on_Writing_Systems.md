@@ -1,7 +1,7 @@
 ---
 title: "Technical Notes on Writing Systems"
 source: "Language Explorer/Training/Technical Notes on Writing Systems.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Training/Technical%20Notes%20on%20Writing%20Systems.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/c556bc7b8d534ae33152d0379dd2d31b4ac2f92a/Language%20Explorer/Training/Technical%20Notes%20on%20Writing%20Systems.pdf"
 sha256: "23e3795fd663a027b93b463ce8a71bc407c7349fbcc0641ebbfd6494d8073f69"
 pdf_metadata:
   format: "PDF 1.5"

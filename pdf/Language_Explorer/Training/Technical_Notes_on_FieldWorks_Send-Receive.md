@@ -1,7 +1,7 @@
 ---
 title: "Technical Notes on Fieldworks Send/Receive"
 source: "Language Explorer/Training/Technical Notes on FieldWorks Send-Receive.pdf"
-source_url: "https://github.com/sillsdev/FwHelps/blob/b2df7ee/Language%20Explorer/Training/Technical%20Notes%20on%20FieldWorks%20Send-Receive.pdf"
+source_url: "https://github.com/sillsdev/FwHelps/blob/c556bc7b8d534ae33152d0379dd2d31b4ac2f92a/Language%20Explorer/Training/Technical%20Notes%20on%20FieldWorks%20Send-Receive.pdf"
 sha256: "f5073482d47eb072040b43ca3a1e34196e815f6ff180ef38c8fc3eec2b185491"
 pdf_metadata:
   format: "PDF 1.7"
