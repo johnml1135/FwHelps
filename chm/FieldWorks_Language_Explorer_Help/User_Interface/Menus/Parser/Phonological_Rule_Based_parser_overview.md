@@ -8,7 +8,7 @@ breadcrumb:
   - "Phonological Rule-based (HC) parser overview"
 source: "User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Parser:Phonological Rule Based parser overview"
 related:
@@ -18,7 +18,7 @@ related:
   - "Parsing words overview -> Parsing_words_overview.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:e1b64de5a5406611"
+content_hash: "sha256:3b44d78b27d2a9de"
 ---
 
 # Phonological Rule Based parser overview
@@ -51,7 +51,7 @@ The phonological rule-based (Hermit Crab) parser is a computational tool that pr
 >
 >   Please [report](../../../Overview/information_for_bug_reports.md) anything that you notice about this new parser that might help us make it more effective.
 >
-> - Using this parser, or the [default (XAmple) parser](Default_XAmple_parser_overview.md), *contrasts* with [manually analyzing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/Analyze_Text_overview.md) or [manually glossing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/specify_the_word_gloss.md) the words in a text. It also *contrasts* with FieldWorks program-proposed analyses that are based on a previous user analysis that was manually done for an identically spelled word. These different analyses initially appear with different [background colors](../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md).
+> - Using this parser, or the [default (XAmple) parser](Default_XAmple_parser_overview.md), *contrasts* with [manually analyzing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/Analyze_Text_overview.md) or [manually glossing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/specify_the_word_gloss.md) the words in a text. It also *contrasts* with FieldWorks program-proposed analyses that are based on a previous user analysis that was manually done for an identically spelled word. These different analyses initially appear with different [background colors](../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/interlinear_views_colors.md).
 
 ## Related topics
 [Choose excluded properties](../../../Using_Tools/Grammar_tools/Phonological_Rules/Choose_excluded_properties.md)

@@ -1,27 +1,28 @@
 ---
-title: "Bibliography field (bibliography field)"
-source_title: "Bibliography field"
+title: "Bibliography field (Entry)"
+source_title: "Bibliography field (Entry)"
 breadcrumb:
   - "User Interface"
   - "Field Descriptions"
   - "Lexicon"
   - "Lexicon Edit fields"
   - "Entry level fields"
-  - "Bibliography field"
-source: "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm"
-source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+  - "Bibliography field (Entry Level)"
+source: "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field_entry.htm"
+source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field_entry.htm"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
-  - "Bibliography:Bibliography field"
+  - "Bibliography field Entry Level"
 related:
   - "Entry-level fields overview -> Entry_level_fields_overview.md"
   - "Lexicon Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
 fw_help_version: "9.3"
+page_heading: "Bibliography field (Entry Level)"
 type: "topic"
-content_hash: "sha256:4930aa2cc625c905"
+content_hash: "sha256:edac3ae2f38b9e15"
 ---
 
-# Bibliography field (bibliography field)
+# Bibliography field (Entry)
 
 *User Interface › Field Descriptions › Lexicon › Lexicon Edit fields › Entry level fields*
 
@@ -35,7 +36,7 @@ In the **Entry** pane (**Lexicon Edit**).
 
 This field is between the **Lexeme Form** [field](Lexeme_Form_field.md) and the **Sense 1** [field](../Sense_level_fields/Sense_field.md), at the [entry-level](Entry_level_fields_overview.md).
 
-(A separate **Bibliography** [field](../Sense_level_fields/bibliography_field.md) is at the [*sense* level](../Sense_level_fields/Sense_level_fields_overview.md) for each sense and subsense.)
+(A separate **Bibliography** [field](../Sense_level_fields/bibliography_field_sense.md) is at the [*sense* level](../Sense_level_fields/Sense_level_fields_overview.md) for each sense and subsense.)
 
 **Description:**
 

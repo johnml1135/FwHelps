@@ -1,19 +1,18 @@
 ---
-title: "Complex Forms field"
-source_title: "Complex Forms"
+title: "Complex Forms Entry Level"
+source_title: "Complex Forms Entry Level"
 breadcrumb:
   - "User Interface"
   - "Field Descriptions"
   - "Lexicon"
   - "Lexicon Edit fields"
   - "Entry level fields"
-  - "Complex Forms field"
-source: "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm"
-source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+  - "Complex Forms field (Entry Level)"
+source: "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms_entry.htm"
+source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms_entry.htm"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
-  - "Complex Forms:Complex Forms field"
-  - "entry"
+  - "Complex Forms field Entry Level"
 related:
   - "Add a lexical subentry -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Add_a_lexical_subentry.md"
   - "Specify that a form is complex -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_that_Form_is_Complex.md"
@@ -24,11 +23,12 @@ related:
   - "Lexicon Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
   - "Show Data overview -> ../../../../../Basic_Tasks/Show_data/Show_data_overview.md"
 fw_help_version: "9.3"
+page_heading: "Complex Forms field (Entry Level)"
 type: "topic"
 content_hash: "sha256:2e32cc19d73d0522"
 ---
 
-# Complex Forms field
+# Complex Forms Entry Level
 
 *User Interface › Field Descriptions › Lexicon › Lexicon Edit fields › Entry level fields*
 

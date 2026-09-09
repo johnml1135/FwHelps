@@ -8,7 +8,7 @@ breadcrumb:
   - "Edit parser parameters"
 source: "User_Interface/Menus/Parser/Edit_Parser_Parameters.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Parser/Edit_Parser_Parameters.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Parser:Edit Parser Parameters"
   - "Parameters"
@@ -16,7 +16,7 @@ keywords:
   - "Edit:Parser parameters"
 fw_help_version: "9.3"
 type: "topic"
-content_hash: "sha256:8aa9a6785d92192c"
+content_hash: "sha256:64f2d50f1290c9ff"
 ---
 
 # Edit parser parameters
@@ -51,6 +51,6 @@ In the **Parser Parameters** dialog box, the values in the top pane control the 
 
 [Parsing words overview](Parsing_words_overview.md)
 
-[Strata as a String in the Hermit Crab Parser](Strata_as_a_String_in_the_Hermit_Crab_properties%20-%20OBSOLETE.md)
+[Strata as a String in the Hermit Crab Parser](Strata_as_a_String_in_the_Hermit_Crab_properties.md)
 
 [Texts & Words overview](../../../Using_Tools/Texts_%26_Words_tools/Texts_and_Words_overview.md)

@@ -7,7 +7,7 @@ breadcrumb:
   - "Audio files overview"
 source: "Basic_Tasks/Audio_files/Audio_files_overview.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Basic_Tasks/Audio_files/Audio_files_overview.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Sound or movie file"
   - "Link (See also: Hyperlink):Audio files"
@@ -20,7 +20,7 @@ related:
   - "Specify concordance criteria -> ../../Using_Tools/Texts_&_Words_tools/Concordance/specify_concordance_criteria.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:961de03037bc53e5"
+content_hash: "sha256:bd5f2af7ef64f41c"
 ---
 
 # Audio files overview
@@ -61,7 +61,7 @@ The full path to the file appears if you hold your mouse pointer over the delete
 >   The reason is that when you link to an audio file, a copy is added to the **AudioVisual** folder. This allows you to use the same audio recording multiple times without the risk of breaking all of the links if you delete one instance.\
 >   However, if you copy them into the **AudioVisual** folder and then link to them a copy is made in that folder, but a numerical value is appended to the file name and that copy is used. The original is not used. If you use the same file multiple times, there can be confusion about which copy or copies of the file are being used.
 >
-> - If you add an **Audio** variant for a vernacular writing system, you can add an audio file to fields that use the vernacular writing system, such as [Lexeme Form](../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Lexeme_Form_field.md), [Citation Form](../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md), and [Example](../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/example_field.md).
+> - If you add an **Audio** variant for a vernacular writing system, you can add an audio file to fields that use the vernacular writing system, such as [Lexeme Form](../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Lexeme_Form_field.md), [Citation Form](../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms_entry.md), and [Example](../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/example_field.md).
 >
 > - See [Correct sound quality problems (Windows<sup>®</sup>10)](Correct_sound_quality_problem_on_Windows_10.md) if you have poor sound quality.
 

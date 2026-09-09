@@ -10,7 +10,7 @@ breadcrumb:
   - "Entry level fields overview"
 source: "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Entry_level_fields_overview.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Entry_level_fields_overview.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Entry level fields"
 related:
@@ -23,7 +23,7 @@ related:
   - "Lexicon Edit overview -> ../../../../../Using_Tools/Lexicon_tools/Lexicon_Edit/lexicon_edit_overview.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:d5b397261d296f57"
+content_hash: "sha256:6372ccccef284933"
 ---
 
 # Entry level fields overview
@@ -44,7 +44,7 @@ In the **Entry** pane (**Lexicon Edit**). The fields listed here are located bet
 </tr>
 <tr>
 <td><ul>
-<li><p><a href="Allomorph_Status_field.md">Alsomorph Status</a></p></li>
+<li><p><a href="Allomorph_Status_field.md">Allomorph Status</a></p></li>
 </ul></td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ In the **Entry** pane (**Lexicon Edit**). The fields listed here are located bet
 </ul></td>
 </tr>
 <tr>
-<td><p><a href="Complex_Forms.md">Complex Forms</a></p></td>
+<td><p><a href="Complex_Forms_entry.md">Complex Forms (Entry Level)</a></p></td>
 <td><ul>
 <li><a href="Source_Language_Etymology.md">Source Language</a></li>
 </ul></td>
@@ -141,7 +141,7 @@ In the **Entry** pane (**Lexicon Edit**). The fields listed here are located bet
 </tr>
 <tr style="height: 20px;">
 <td><p><a href="Pronunciation_field.md">Pronunciation</a></p></td>
-<td><p><a href="bibliography_field.md">Bibliography</a></p></td>
+<td><p><a href="bibliography_field_entry.md">Bibliography (Entry Level)</a></p></td>
 </tr>
 <tr style="height: 20px;">
 <td><ul>
@@ -159,7 +159,7 @@ In the **Entry** pane (**Lexicon Edit**). The fields listed here are located bet
 <td><ul>
 <li><p><a href="Location_field.md">Location</a></p></li>
 </ul></td>
-<td><p><a href="bibliography_field.md">Inflection Classes</a></p></td>
+<td><p><a href="bibliography_field_entry.md">Inflection Classes</a></p></td>
 </tr>
 <tr style="height: 20px;">
 <td><ul>

@@ -8,7 +8,7 @@ breadcrumb:
   - "About parser parameters"
 source: "User_Interface/Menus/Parser/About_parser_parameters.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Parser/About_parser_parameters.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Parser:About parser parameters"
   - "Parameters"
@@ -22,7 +22,7 @@ related:
   - "Parsing words overview -> Parsing_words_overview.md"
 fw_help_version: "9.3"
 type: "topic"
-content_hash: "sha256:2a114122d74b90fd"
+content_hash: "sha256:56a1717ff9ad2f27"
 ---
 
 # About parser parameters
@@ -117,6 +117,13 @@ It is recommended that you review the following table before you [Edit parser pa
 <p><img src="../../../assets/images/User_Interface/Menus/Parser/CheckBoxBlackCkMk.png" /> means no default compounding rules will be used.</p></td>
 </tr>
 <tr>
+<td style="width: 16%"><p><strong>MaxRoots</strong></p></td>
+<td style="width: 19%"><p>2</p></td>
+<td style="width: 65%"><p>The maximum number of roots that may appear in a single well-formed word. The default is 2.</p>
+<p>Any lexical entry with a morpheme type of root, bound root, stem or bound stem is considered to be a root as far as this parameter is concerned.</p>
+<p>You will only need to change it if you can have three or more roots that can compound in a single well-formed word. The maximium value you can set is 10, but you will want this to be as <em>small</em> as possible to make parsing efficient.</p></td>
+</tr>
+<tr>
 <td style="width: 16%"><p><strong>AcceptUnspecifiedGraphemes</strong></p></td>
 <td><p><strong><img src="../../../assets/images/User_Interface/Menus/Parser/CheckBoxNoCkMk.png" /></strong></p></td>
 <td><p><img src="../../../assets/images/User_Interface/Menus/Parser/CheckBoxNoCkMk.png" /> means the HC parser requires every Unicode character that occurs in the <strong>Lexeme Form</strong> <a href="../../Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Lexeme_Form_field.md">field</a> of any entry in the Lexicon to be included in the <strong>Grapheme</strong> <a href="../../Field_Descriptions/Grammar/Phonemes_fields/representation_field_phonemes.md">field</a> of one of the Phonemes in the project. If not, an error message appears indicating a character is not recognized and any entry that has that character will be ignored by the parser.</p>
@@ -143,14 +150,27 @@ It is recommended that you review the following table before you [Edit parser pa
 <tr>
 <td style="width: 16%"></td>
 <td></td>
-<td><blockquote>
-<p></p>
+<td><p>Note</p>
 <ul>
 <li><p>If you have no Lexeme Forms that are pattern-matching entries, then root guessing will not happen even when <strong>GuessRoots</strong> is selected.</p></li>
 <li><p>When the HC parser does the unapplication process on a word with no analyses, it will take all of the constraints of the pattern-matching entry into account as it tries to determine what affixes are on this word, and what the remaining root is.</p></li>
 <li><p>Recommendation: select <img src="../../../assets/images/User_Interface/Menus/Parser/CheckBoxBlackCkMk.png" /> <strong>NoDefaultCompounding</strong> to reduce the number of unhelpful guesses.<code></code></p></li>
-</ul>
-</blockquote></td>
+</ul></td>
+</tr>
+<tr>
+<td style="width: 16%"><p><strong>MergeAnalyses</strong></p></td>
+<td><p><img src="../../../assets/images/User_Interface/Menus/Parser/CheckBoxBlackCkMk.png" /></p></td>
+<td><p>This check box was added for performance considerations. If selected, which is the default, equivalent analyses are merged.</p></td>
+</tr>
+<tr>
+<td style="width: 16%"><p><strong>MaxAlternatives</strong></p></td>
+<td><p>0</p></td>
+<td><p>This parser can sometimes take minutes or hours to parse a word.<br />
+One possible solution to speed it up is to limit the number of alternatives that it considers by entering a non-zero value to <strong>MaxAlternatives</strong>. If that value is exceeded, then the parser produces an error for that word.<br />
+Entering 1000 is similar to setting a timeout of 1 second depending on the grammar and the machine."<br />
+The same results are produced each time you run it as long as the grammar stays the same.<br />
+0, which is the default, means don't set a limit.<br />
+You might want to <a href="../../../Overview/Technical_support.md">get more help</a>.</p></td>
 </tr>
 <tr>
 <td style="width: 16%"><p><strong>Strata</strong></p></td>
@@ -166,6 +186,8 @@ It is recommended that you review the following table before you [Edit parser pa
 </table>
 
 > [!TIP]
+>
+> - 
 >
 > - A warning message may appear if you enter very large parameter values, such as "50,000" MaxNulls. FieldWorks will reduce large values to more reasonable values.
 >

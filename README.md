@@ -2,7 +2,7 @@
 
 Generated documentation corpus. **Do not edit these files**; the tree is replaced as a set.
 
-- **Source ref:** `ae6b04a`
+- **Source ref:** `16437e8`
 - **CHMs:** 2   **PDFs:** 13
 
 - **Root CHMs (auto-discovered):** `FieldWorks_Language_Explorer_Help.chm`, `Using_Help.chm`
@@ -11,13 +11,10 @@ Generated documentation corpus. **Do not edit these files**; the tree is replace
 
 | Check | Severity | Count |
 | --- | --- | ---: |
-| Duplicate display title | warning | 4 |
 | Link case mismatch | warning | 6 |
-| Missing local link | warning | 16 |
 | Raw HTML retained | warning | 240 |
 | Replacement character | warning | 2 |
 | Source unsafe URI | warning | 4 |
-| Stale TOC entry | warning | 1 |
 | Topic missing from TOC | warning | 3 |
 
 Full detail: [author-report.md](author-report.md) for authors; [author-report.json](author-report.json) for automation.
@@ -314,7 +311,6 @@ Full detail: [author-report.md](author-report.md) for authors; [author-report.js
       - [Try a word](chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_a_word.md)
       - [Try a Word additional information](chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_a_Word_additional_information.md)
       - [Try the next pass example](chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_the_next_pass_example.md)
-      - **About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm**
     - **Window**
       - [Resizing window panes](chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Window/resizing_window_panes.md)
       - [Window overview](chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Window/Window_overview.md)
@@ -373,15 +369,15 @@ Full detail: [author-report.md](author-report.md) for authors; [author-report.js
           - [Affix Process Rule field (lexeme form)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Affix_Process_Rule_field.md)
           - [Affix Process Rules Examples](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Affix_Process_Rules_Examples.md)
           - [Bibliographic Source field (Etymology)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Bibliographic_Source_Etymology.md)
-          - [Bibliography field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md)
+          - [Bibliography field (Entry Level)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field_entry.md)
           - [Citation Form field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Citation_Form_field.md)
           - [Comment field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Comment_field.md)
           - [Complex Form Type field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Form_Type_field.md)
-          - [Complex Forms field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md)
+          - [Complex Forms field (Entry Level)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms_entry.md)
           - [Components field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Components_field.md)
           - [Cross References field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/cross_references_field.md)
           - [CV Pattern field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/cv_pattern_field.md)
-          - [Dialect Labels field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Dialect_Labels_Entry.md)
+          - [Dialect Labels field (Entry Level)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Dialect_Labels_Entry.md)
           - [Environments field (lexeme form)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Environments_field.md)
           - [Etymology field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Etymology_field.md)
           - [Etymology fields overview](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Etymology_fields_overview.md)
@@ -417,9 +413,9 @@ Full detail: [author-report.md](author-report.md) for authors; [author-report.js
           - [Academic Domains field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/academic_domains_field.md)
           - [Anthropology Categories field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/anthropology_categories_field.md)
           - [Anthropology Note field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/anthropology_note_field.md)
-          - [Bibliography field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md)
+          - [Bibliography field (Sense Level)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field_sense.md)
           - [Caption field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/caption_field.md)
-          - [Complex Forms field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md)
+          - [Complex Forms field (Sense Level)](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms_sense.md)
           - [Definition field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/definition_field.md)
           - [Dialect Labels (Sense) field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Dialect_Labels_%28Sense%29.md)
           - [Discourse Note field](chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/discourse_note_field.md)

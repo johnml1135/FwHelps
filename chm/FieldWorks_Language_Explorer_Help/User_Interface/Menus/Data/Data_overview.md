@@ -8,7 +8,7 @@ breadcrumb:
   - "Data overview"
 source: "User_Interface/Menus/Data/Data_overview.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Data/Data_overview.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Data menu overview"
   - "Gloss:Move to another word"
@@ -29,7 +29,7 @@ related:
   - "Texts & Words overview -> ../../../Using_Tools/Texts_&_Words_tools/Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:c1e26cd6c167a0c1"
+content_hash: "sha256:e0e22a7acd00e292"
 ---
 
 # Data overview
@@ -100,7 +100,7 @@ In **Texts** **&** **Words**, these commands may also be available:
 
 - ![](../../../assets/images/User_Interface/Menus/Data/ApproveAllIcon.png) **Approve All**
 
-Use this menu command (*or* [toolbar button](../../Toolbars/Insert_toolbar.md)) only if you want to approve *all* the analyses i*n the current text* that have a [colored background](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md). To prevent inadvertent use, this command does *not* have a shortcut key. You can use **Undo**.
+Use this menu command (*or* [toolbar button](../../Toolbars/Insert_toolbar.md)) only if you want to approve *all* the analyses i*n the current text* that have a [colored background](../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/interlinear_views_colors.md). To prevent inadvertent use, this command does *not* have a shortcut key. You can use **Undo**.
 
 > [!TIP]
 >

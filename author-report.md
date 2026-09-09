@@ -6,7 +6,7 @@ This report explains every source or export finding and how to repair it. Machin
 
 | Item | Value |
 | --- | ---: |
-| Source ref | `ae6b04a` |
+| Source ref | `16437e8` |
 | CHMs | 2 |
 | Topics | 1630 |
 | Images | 583 |
@@ -17,22 +17,8 @@ This report explains every source or export finding and how to repair it. Machin
 | Severity | Count |
 | --- | ---: |
 | Fatal errors | 0 |
-| Advisories | 276 |
-| Total | 276 |
-
-## Duplicate display title (`duplicate_title`)
-
-- **Severity:** advisory
-- **Owner:** RoboHelp
-- **Count:** 4
-- **How to fix in RoboHelp:** Open the listed topics in RoboHelp and give each page a distinct, descriptive title or heading so search results identify the correct page.
-
-| Source or generated path | Problem | Evidence |
-| --- | --- | --- |
-| `User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm` | duplicate title 'Bibliography field' appears in 2 topics | {"title": "Bibliography field", "topics": &#91;"User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm", "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm"&#93;} |
-| `User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm` | duplicate title 'Complex Forms' appears in 3 topics | {"title": "Complex Forms", "topics": &#91;"User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm", "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm", "User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm"&#93;} |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md` | display title 'bibliography field (bibliography field)': chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md, chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md | &#91;"chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md", "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md"&#93; |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md` | display title 'complex forms field': chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md, chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md | &#91;"chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md", "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md"&#93; |
+| Advisories | 255 |
+| Total | 255 |
 
 ## Link case mismatch (`source_link_case`)
 
@@ -49,32 +35,6 @@ This report explains every source or export finding and how to repair it. Machin
 | `User_Interface/Menus/Parser/Parsing_words_overview.htm` | ../../../using_tools/texts_&amp;amp;_words_tools/Interlinear_Texts/specify_the_word_gloss.htm | &#91;"User_Interface/Menus/Parser/Parsing_words_overview.htm", "../../../using_tools/texts_&amp;amp;_words_tools/Interlinear_Texts/specify_the_word_gloss.htm"&#93; |
 | `User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm` | ../../../using_tools/texts_&amp;amp;_words_tools/Interlinear_Texts/Analyze_Text_overview.htm | &#91;"User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm", "../../../using_tools/texts_&amp;amp;_words_tools/Interlinear_Texts/Analyze_Text_overview.htm"&#93; |
 | `User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm` | ../../../using_tools/texts_&amp;amp;_words_tools/Interlinear_Texts/specify_the_word_gloss.htm | &#91;"User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm", "../../../using_tools/texts_&amp;amp;_words_tools/Interlinear_Texts/specify_the_word_gloss.htm"&#93; |
-
-## Missing local link (`source_missing_link`)
-
-- **Severity:** advisory
-- **Owner:** RoboHelp
-- **Count:** 16
-- **How to fix in RoboHelp:** Open the source topic in RoboHelp, find the hyperlink named in Evidence, and retarget or remove it; then rebuild the CHM.
-
-| Source or generated path | Problem | Evidence |
-| --- | --- | --- |
-| `Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm` | ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm", "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `User_Interface/Menus/Data/Data_overview.htm` | ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"User_Interface/Menus/Data/Data_overview.htm", "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm` | ../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm", "../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `User_Interface/Menus/Parser/Edit_Parser_Parameters.htm` | Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm | &#91;"User_Interface/Menus/Parser/Edit_Parser_Parameters.htm", "Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm"&#93; |
-| `User_Interface/Menus/Parser/Parse_Current_Word.htm` | ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"User_Interface/Menus/Parser/Parse_Current_Word.htm", "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `User_Interface/Menus/Parser/Parsing_words_overview.htm` | ../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"User_Interface/Menus/Parser/Parsing_words_overview.htm", "../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm` | ../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm", "../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `User_Interface/Toolbars/Insert_toolbar.htm` | ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm | &#91;"User_Interface/Toolbars/Insert_toolbar.htm", "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"&#93; |
-| `chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.md` | target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Data/Data_overview.md` | target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Default_XAmple_parser_overview.md` | target does not exist: ../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Edit_Parser_Parameters.md` | target does not exist: Strata_as_a_String_in_the_Hermit_Crab_properties%20-%20OBSOLETE.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parse_Current_Word.md` | target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parsing_words_overview.md` | target does not exist: ../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.md` | target does not exist: ../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Toolbars/Insert_toolbar.md` | raw HTML target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md | — |
 
 ## Raw HTML retained (`raw_html`)
 
@@ -172,7 +132,7 @@ This report explains every source or export finding and how to repair it. Machin
 | `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Format/Styles/Select_the_parent_style.md` | raw HTML tags: default, sup | — |
 | `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Format/Styles/Styles_Font_tab.md` | raw HTML tags: default | — |
 | `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Insert/Insert_overview.md` | raw HTML tags: a, code, em, img, li, p, strong, table, tbody, td, th, tr, ul | — |
-| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/About_parser_parameters.md` | raw HTML tags: a, blockquote, code, em, img, li, p, strong, table, tbody, td, th, tr, ul | — |
+| `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/About_parser_parameters.md` | raw HTML tags: a, blockquote, br, code, em, img, li, p, strong, table, tbody, td, th, tr, ul | — |
 | `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parser_menu_overview.md` | raw HTML tags: a, br, em, img, li, ol, p, strong, table, tbody, td, th, tr, ul | — |
 | `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_a_word.md` | raw HTML tags: word&#92; | — |
 | `chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Try_the_next_pass_example.md` | raw HTML tags: p, table, tbody, td, th, tr | — |
@@ -351,17 +311,6 @@ This report explains every source or export finding and how to repair it. Machin
 | `Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm` | file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Subentries_(Publication_Settings).htm | &#91;"Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm", "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Subentries_(Publication_Settings).htm"&#93; |
 | `Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm` | file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Menus/Tools/Configure_Dictionary/Main_Minor_entry.htm | &#91;"Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm", "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Menus/Tools/Configure_Dictionary/Main_Minor_entry.htm"&#93; |
 | `Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm` | file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Show_Minor_Entry_Pub_Set_level.htm | &#91;"Using_Tools/Lexicon_tools/Lexicon_Edit/Specify_publishable_lexical_data.htm", "file://D:/FieldWorks_Language_Explorer_Help_Dictionary/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Publication_Settings_flds/Show_Minor_Entry_Pub_Set_level.htm"&#93; |
-
-## Stale TOC entry (`stale_toc_entries`)
-
-- **Severity:** advisory
-- **Owner:** RoboHelp
-- **Count:** 1
-- **How to fix in RoboHelp:** Open the RoboHelp table of contents, locate the target in Evidence, and retarget or remove the entry before rebuilding the CHM.
-
-| Source or generated path | Problem | Evidence |
-| --- | --- | --- |
-| `TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm` | TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm | TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm |
 
 ## Topic missing from TOC (`not_in_toc`)
 

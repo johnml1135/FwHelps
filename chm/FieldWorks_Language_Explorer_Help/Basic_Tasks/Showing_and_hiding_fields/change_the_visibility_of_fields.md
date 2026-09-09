@@ -7,7 +7,7 @@ breadcrumb:
   - "Change the visibility of fields"
 source: "Basic_Tasks/Showing_and_hiding_fields/change_the_visibility_of_fields.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Basic_Tasks/Showing_and_hiding_fields/change_the_visibility_of_fields.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Change"
   - "Change:Visibility of fields"

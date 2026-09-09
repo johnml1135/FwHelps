@@ -8,7 +8,7 @@ breadcrumb:
   - "Choose visible complex forms"
 source: "Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_referenced_complex_forms.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=Using_Tools/Lexicon_tools/Lexicon_Edit/Choose_referenced_complex_forms.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Choose (See also: Select or Specify):Visible Complex Forms"
   - "Stem-based views"
@@ -19,7 +19,7 @@ related:
   - "Specify that a form is complex -> Specify_that_Form_is_Complex.md"
 fw_help_version: "9.3"
 type: "topic"
-content_hash: "sha256:42812b4840636eb3"
+content_hash: "sha256:90fb30b826c40eee"
 ---
 
 # Choose referenced complex forms
@@ -30,7 +30,7 @@ content_hash: "sha256:42812b4840636eb3"
 
 When you [choose components](Choose_components_for_Components_field.md) for a complex form, FLEx adds that complex form to the applicable **Referenced Complex Forms** field in each component entry.
 
-You can also remove or add complex forms to the applicable **Referenced Complex Forms** field from the [Complex Forms](../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md) field (at the entry- *or* sense-level in the complex form entry).
+You can also remove or add complex forms to the applicable **Referenced Complex Forms** field from the [Complex Forms](../../../User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms_entry.md) field (at the entry- *or* sense-level in the complex form entry).
 
 Alternatively, you can do the following:
 

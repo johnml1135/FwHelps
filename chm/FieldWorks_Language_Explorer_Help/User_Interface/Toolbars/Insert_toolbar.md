@@ -7,7 +7,7 @@ breadcrumb:
   - "Insert toolbar"
 source: "User_Interface/Toolbars/Insert_toolbar.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Toolbars/Insert_toolbar.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Insert:Insert toolbar"
   - "Toolbar"
@@ -24,7 +24,7 @@ related:
   - "Toolbars overview -> Toolbars_overview.md"
 fw_help_version: "9.3"
 type: "topic"
-content_hash: "sha256:823b479005c7aaf1"
+content_hash: "sha256:29115e148a9d373c"
 ---
 
 # Insert toolbar
@@ -104,7 +104,7 @@ content_hash: "sha256:823b479005c7aaf1"
 <td style="width: 54%"></td>
 </tr>
 <tr>
-<td style="width: 38%"><p><strong>See Also:</strong> <a href="../Menus/Data/Data_overview.md">Data overview</a>. Approve <em>all</em> analyses <em>in the current text</em> that have a <a href="../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md">colored background</a>.</p></td>
+<td style="width: 38%"><p><strong>See Also:</strong> <a href="../Menus/Data/Data_overview.md">Data overview</a>. Approve <em>all</em> analyses <em>in the current text</em> that have a <a href="../../Using_Tools/Texts_&amp;_Words_tools/Interlinear_Texts/interlinear_views_colors.md">colored background</a>.</p></td>
 <td style="width: 8%"><p><img src="../../assets/images/User_Interface/Menus/Data/ApproveAllIcon.png" /></p>
 <p>(Approve All)</p></td>
 <td style="width: 54%"></td>

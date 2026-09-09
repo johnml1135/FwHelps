@@ -9,7 +9,7 @@ breadcrumb:
   - "Confidence field (Notebook Record Types)"
 source: "User_Interface/Field_Descriptions/Lists/Notebook_Record_Types_fields/confidence_field_Ntbk_Rec_Types.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Field_Descriptions/Lists/Notebook_Record_Types_fields/confidence_field_Ntbk_Rec_Types.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Notebook Record Types fields overview"
 related:

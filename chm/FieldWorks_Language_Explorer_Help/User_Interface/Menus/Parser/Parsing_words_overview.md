@@ -8,7 +8,7 @@ breadcrumb:
   - "Parsing words overview"
 source: "User_Interface/Menus/Parser/Parsing_words_overview.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Parser/Parsing_words_overview.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Parser"
   - "Parser:Parsing words overview"
@@ -22,7 +22,7 @@ related:
   - "Try a Word additional information -> Try_a_Word_additional_information.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:398180af5d185159"
+content_hash: "sha256:631a56ede228c84a"
 ---
 
 # Parsing words overview
@@ -41,7 +41,7 @@ Parsing is not limited to one method or starting point. You can
 
 - try the [Phonological Rule-based](Phonological_Rule_Based_parser_overview.md) computational parser to *produce* analyses.
 
-Different [background colors](../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md) indicate if an analysis was *suggested* by FLEx or *produced* by a computational parser.
+Different [background colors](../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/interlinear_views_colors.md) indicate if an analysis was *suggested* by FLEx or *produced* by a computational parser.
 
 ## Computational Parsing
 
@@ -57,7 +57,7 @@ It is also expected that the default parser will be sufficient for all of the co
 
 > [!IMPORTANT]
 >
-> - Here is another way to understand the difference between *manually* [analyzing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/Analyze_Text_overview.md) words and using a computational [parser](Parsing_words_overview.md):
+> - Here is another way to understand the difference between *manually* [analyzing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/Analyze_Text_overview.md) words and using a computational parser:
 >
 > <!-- -->
 >

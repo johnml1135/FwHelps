@@ -1,6 +1,6 @@
 {
   "corpus": {
-    "source_ref": "ae6b04a",
+    "source_ref": "16437e8",
     "source_repo": "https://github.com/sillsdev/FwHelps",
     "chms": [
       {
@@ -24,54 +24,18 @@
     "pdf_count": 13
   },
   "summary": {
-    "total": 276,
+    "total": 255,
     "fatal": 0,
-    "advisory": 276,
+    "advisory": 255,
     "by_code": {
-      "duplicate_title": 4,
       "source_unsafe_uri": 4,
       "not_in_toc": 3,
-      "source_missing_link": 16,
       "source_link_case": 6,
-      "stale_toc_entries": 1,
       "source_replacement_character": 2,
       "raw_html": 240
     }
   },
   "issues": [
-    {
-      "code": "duplicate_title",
-      "message": "duplicate title 'Bibliography field' appears in 2 topics",
-      "path": "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": {
-        "title": "Bibliography field",
-        "topics": [
-          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.htm",
-          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.htm"
-        ]
-      },
-      "label": "Duplicate display title",
-      "severity": "warning"
-    },
-    {
-      "code": "duplicate_title",
-      "message": "duplicate title 'Complex Forms' appears in 3 topics",
-      "path": "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": {
-        "title": "Complex Forms",
-        "topics": [
-          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.htm",
-          "User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.htm",
-          "User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm"
-        ]
-      },
-      "label": "Duplicate display title",
-      "severity": "warning"
-    },
     {
       "code": "source_unsafe_uri",
       "message": "httsp://www.ethnologue.com/world",
@@ -155,110 +119,6 @@
       "severity": "warning"
     },
     {
-      "code": "source_missing_link",
-      "message": "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.htm",
-        "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "User_Interface/Menus/Data/Data_overview.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Menus/Data/Data_overview.htm",
-        "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm",
-        "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm",
-      "path": "User_Interface/Menus/Parser/Edit_Parser_Parameters.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Menus/Parser/Edit_Parser_Parameters.htm",
-        "Strata_as_a_String_in_the_Hermit_Crab_properties - OBSOLETE.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "User_Interface/Menus/Parser/Parse_Current_Word.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Menus/Parser/Parse_Current_Word.htm",
-        "../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "User_Interface/Menus/Parser/Parsing_words_overview.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Menus/Parser/Parsing_words_overview.htm",
-        "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.htm",
-        "../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm",
-      "path": "User_Interface/Toolbars/Insert_toolbar.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "User_Interface/Toolbars/Insert_toolbar.htm",
-        "../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.htm"
-      ],
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
       "code": "source_link_case",
       "message": "../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/Analyze_Text_overview.htm",
       "path": "User_Interface/Menus/Parser/Default_XAmple_parser_overview.htm",
@@ -334,16 +194,6 @@
         "../../../using_tools/texts_&amp;_words_tools/Interlinear_Texts/specify_the_word_gloss.htm"
       ],
       "label": "Link case mismatch",
-      "severity": "warning"
-    },
-    {
-      "code": "stale_toc_entries",
-      "message": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
-      "path": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
-      "fatal": false,
-      "provenance": "source",
-      "detail": "TOC points at a topic that does not exist: User_Interface/Menus/Parser/About_Strata_Sequences_as_a_string_in_the_Hermit_Crab_parser.htm",
-      "label": "Stale TOC entry",
       "severity": "warning"
     },
     {
@@ -589,16 +439,6 @@
       "provenance": "source",
       "detail": null,
       "label": "Raw HTML retained",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/Basic_Tasks/Show_data/Show_Word_Cat_in_Cat_Edit.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
       "severity": "warning"
     },
     {
@@ -1052,16 +892,6 @@
       "severity": "warning"
     },
     {
-      "code": "source_missing_link",
-      "message": "target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Data/Data_overview.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
       "code": "raw_html",
       "message": "raw HTML tags: item\\",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Edit/Delete.md",
@@ -1263,42 +1093,12 @@
     },
     {
       "code": "raw_html",
-      "message": "raw HTML tags: a, blockquote, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
+      "message": "raw HTML tags: a, blockquote, br, code, em, img, li, p, strong, table, tbody, td, th, tr, ul",
       "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/About_parser_parameters.md",
       "fatal": false,
       "provenance": "source",
       "detail": null,
       "label": "Raw HTML retained",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Default_XAmple_parser_overview.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "target does not exist: Strata_as_a_String_in_the_Hermit_Crab_properties%20-%20OBSOLETE.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Edit_Parser_Parameters.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "target does not exist: ../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parse_Current_Word.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
       "severity": "warning"
     },
     {
@@ -1309,26 +1109,6 @@
       "provenance": "source",
       "detail": null,
       "label": "Raw HTML retained",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Parsing_words_overview.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "target does not exist: ../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Menus/Parser/Phonological_Rule_Based_parser_overview.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
       "severity": "warning"
     },
     {
@@ -1969,16 +1749,6 @@
       "provenance": "source",
       "detail": null,
       "label": "Raw HTML retained",
-      "severity": "warning"
-    },
-    {
-      "code": "source_missing_link",
-      "message": "raw HTML target does not exist: ../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Toolbars/Insert_toolbar.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": null,
-      "label": "Missing local link",
       "severity": "warning"
     },
     {
@@ -2859,32 +2629,6 @@
       "provenance": "source",
       "detail": null,
       "label": "Raw HTML retained",
-      "severity": "warning"
-    },
-    {
-      "code": "duplicate_title",
-      "message": "display title 'bibliography field (bibliography field)': chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md, chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/bibliography_field.md",
-        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/bibliography_field.md"
-      ],
-      "label": "Duplicate display title",
-      "severity": "warning"
-    },
-    {
-      "code": "duplicate_title",
-      "message": "display title 'complex forms field': chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md, chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md",
-      "path": "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md",
-      "fatal": false,
-      "provenance": "source",
-      "detail": [
-        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Entry_level_fields/Complex_Forms.md",
-        "chm/FieldWorks_Language_Explorer_Help/User_Interface/Field_Descriptions/Lexicon/Lexicon_Edit_fields/Sense_level_fields/Complex_Forms.md"
-      ],
-      "label": "Duplicate display title",
       "severity": "warning"
     }
   ]

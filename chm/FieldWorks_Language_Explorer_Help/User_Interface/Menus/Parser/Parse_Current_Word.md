@@ -8,18 +8,19 @@ breadcrumb:
   - "Parse current word"
 source: "User_Interface/Menus/Parser/Parse_Current_Word.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Parser/Parse_Current_Word.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Parser:Parse current word"
   - "Current Word"
 related:
+  - "Interlinear view colors -> ../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/interlinear_views_colors.md"
   - "Parser menu overview -> Parser_menu_overview.md"
   - "Parsing words overview -> Parsing_words_overview.md"
   - "Remove Parser-approved analysis utility -> ../Tools/Language_Project_Utilities_overview.md"
   - "Texts & Words overview -> ../../../Using_Tools/Texts_&_Words_tools/Texts_and_Words_overview.md"
 fw_help_version: "9.3"
 type: "topic"
-content_hash: "sha256:45ff17213cbb65a4"
+content_hash: "sha256:38f051c3085ea148"
 ---
 
 # Parse current word
@@ -55,7 +56,7 @@ content_hash: "sha256:45ff17213cbb65a4"
 >   See:** [Active field (Affix Templates)](../../Field_Descriptions/Grammar/Category_Edit_fields/Active_field_templates.md).
 
 ## Related topics
-[Interlinear view background colors](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/interlinear_views_background_colors.md)
+[Interlinear view colors](../../../Using_Tools/Texts_&_Words_tools/Interlinear_Texts/interlinear_views_colors.md)
 
 [Parser menu overview](Parser_menu_overview.md)
 

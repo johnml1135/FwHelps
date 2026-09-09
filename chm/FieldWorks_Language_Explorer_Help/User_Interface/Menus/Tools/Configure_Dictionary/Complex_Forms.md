@@ -1,5 +1,5 @@
 ---
-title: "Complex Forms (Complex Forms)"
+title: "Complex Forms"
 source_title: "Complex Forms"
 breadcrumb:
   - "User Interface"
@@ -9,7 +9,7 @@ breadcrumb:
   - "Complex Forms"
 source: "User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm"
 source_url: "https://downloads.languagetechnology.org/fieldworks/Documentation/en/index.htm#t=User_Interface/Menus/Tools/Configure_Dictionary/Complex_Forms.htm"
-source_hash: "sha256:902c7d7196f408addc2e76cc7f471f0bac6efcb24cb42bbd21d8abe7fd0faf05"
+source_hash: "sha256:18f8b3364a5650ff4235ca9d73b9ba1a90362b3f54612977ddd38ccd417084b2"
 keywords:
   - "Complex Forms"
   - "Complex Forms:Complex Forms (Dictionary)"
@@ -28,7 +28,7 @@ type: "topic"
 content_hash: "sha256:3893f551a8b95218"
 ---
 
-# Complex Forms (Complex Forms)
+# Complex Forms
 
 *User Interface › Menus › Tools › Configure Dictionary*
 
