@@ -133,6 +133,24 @@ class CorpusValidationTests(unittest.TestCase):
             issues = validate_corpus(root)
         self.assertEqual([], [issue for issue in issues if issue.code in {"unsafe_uri", "path_escape"}])
 
+    def test_link_case_must_match_its_target_on_every_platform(self):
+        # A case-insensitive filesystem resolves this link and a case-sensitive
+        # host does not, so validating with the host's rules would pass on
+        # Windows and publish a 404 to GitHub.
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw)
+            (root / "Topics").mkdir()
+            (root / "Topics" / "Target.md").write_text("# Target\n", encoding="utf-8")
+            (root / "page.md").write_text(
+                "# Page\n\n[wrong case](topics/target.md) "
+                "[right case](Topics/Target.md)\n",
+                encoding="utf-8",
+            )
+            issues = validate_corpus(root)
+        broken = [issue for issue in issues if issue.code == "missing_link"]
+        self.assertEqual(1, len(broken), [issue.message for issue in broken])
+        self.assertIn("topics/target.md", broken[0].message)
+
     def test_encoded_uri_separators_are_unsafe(self):
         with tempfile.TemporaryDirectory() as raw:
             root = Path(raw)

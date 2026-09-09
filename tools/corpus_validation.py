@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import re
 from html.parser import HTMLParser
 from pathlib import Path
@@ -79,11 +80,31 @@ def _resolve(root: Path, source: Path, raw: str) -> Path | None:
     # Absolute paths are never local corpus references.
     if path.startswith(("/", "\\")):
         return None
-    return (source.parent / path).resolve()
+    # Normalize ".." lexically rather than with Path.resolve(): on Windows
+    # resolve() rewrites the path to the real on-disk case, so a link whose
+    # case does not match its target would look valid here and 404 on the
+    # case-sensitive host the corpus is published to.
+    return Path(os.path.normpath(source.parent / path))
 
 
 def _inside_root(root: Path, candidate: Path) -> bool:
     return candidate == root or root in candidate.parents
+
+
+def _corpus_entries(root: Path) -> set[str]:
+    """Return every corpus path, in the exact case it was emitted with."""
+    return {item.relative_to(root).as_posix() for item in root.rglob("*")}
+
+
+def _exists(root: Path, entries: set[str], candidate: Path) -> bool:
+    """Return whether candidate exists, matching case on every platform."""
+    if candidate == root:
+        return True
+    try:
+        relative = candidate.relative_to(root).as_posix()
+    except ValueError:
+        return False
+    return relative in entries
 
 
 def _markdown_targets(text: str):
@@ -134,6 +155,7 @@ def validate_corpus(root: Path, *, advisory_links: set[tuple[str, str]] | None =
     advisory_images = advisory_images or set()
     source_replacement_paths = source_replacement_paths or set()
     issues: list[Issue] = []
+    entries = _corpus_entries(root)
     markdown = sorted(root.rglob("*.md"))
     titles: dict[str, list[str]] = {}
     for path in markdown:
@@ -179,7 +201,7 @@ def validate_corpus(root: Path, *, advisory_links: set[tuple[str, str]] | None =
             target = _resolve(root, path, raw)
             if target is not None:
                 inside = _inside_root(root, target)
-                if not inside or not target.exists():
+                if not inside or not _exists(root, entries, target):
                     # Source-authored missing targets are visible but advisory;
                     # an escape is always an exporter safety error.
                     advisory = inside and (
@@ -209,7 +231,8 @@ def validate_corpus(root: Path, *, advisory_links: set[tuple[str, str]] | None =
                 ))
                 continue
             target = _resolve(root, path, raw)
-            if target is not None and (not target.exists() or not _inside_root(root, target)):
+            if target is not None and (not _exists(root, entries, target)
+                                       or not _inside_root(root, target)):
                 inside = _inside_root(root, target)
                 advisory = inside and (
                     (kind == "href" and (rel, raw) in advisory_links)

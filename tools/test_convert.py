@@ -1108,5 +1108,48 @@ class ConvertOrchestrationTests(unittest.TestCase):
         self.assertGreaterEqual(result.stderr.count("FWHELP_PATH_ESCAPE"), 2)
 
 
+class LinkCaseTests(unittest.TestCase):
+    def test_authored_link_case_is_corrected_and_reported(self):
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw)
+            chm = root / "Help.chm"
+            chm.write_bytes(b"fixture")
+
+            def fake_extract(_chm, extraction):
+                (extraction / "Topics" / "A_&_B").mkdir(parents=True)
+                (extraction / "Topics" / "Start.htm").write_text(
+                    "<title>Start</title>"
+                    "<a href='a_&amp;_b/target.htm'>wrong case</a>"
+                    "<a href='A_%26_B/Target.htm'>right case</a>"
+                    "<a href='A_&amp;_B/Missing.htm'>absent</a>",
+                    encoding="cp1252",
+                )
+                (extraction / "Topics" / "A_&_B" / "Target.htm").write_text(
+                    "<title>Target</title>", encoding="cp1252"
+                )
+
+            captured: list[str] = []
+
+            def capture(source, tmp):
+                captured.append(source)
+                return "# converted\n", []
+
+            with mock.patch.object(chm_convert, "run_pandoc", side_effect=capture):
+                result = chm_convert.convert_chm(
+                    chm, root / "work", root / "out", extractor=fake_extract
+                )
+
+        start = next(text for text in captured if "wrong case" in text)
+        # The authored case is republished as the case the file really has, so
+        # the link survives on a case-sensitive host.
+        self.assertIn("href='A_%26_B/Target.htm'>wrong case", start)
+        # Links that already match are left exactly as authored.
+        self.assertIn("href='A_%26_B/Target.htm'>right case", start)
+        # A target that does not exist in any case is not invented.
+        self.assertIn("href='A_&amp;_B/Missing.htm'>absent", start)
+        mismatches = result["report"]["link_case_mismatches"]
+        self.assertEqual([["Topics/Start.htm", "a_&amp;_b/target.htm"]], mismatches)
+
+
 if __name__ == "__main__":
     unittest.main()

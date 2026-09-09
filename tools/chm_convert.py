@@ -198,13 +198,60 @@ def _sanitize_markdown_targets(markdown: str, report: dict[str, list], rel: str)
     return "".join(output)
 
 
-def _sanitize_raw_targets(markdown: str, report: dict[str, list], rel: str) -> str:
-    pattern = re.compile(
-        r"(?P<prefix>\b(?:href|src)\s*=\s*)"
-        r"(?:(?P<quote>[\"'])(?P<quoted>.*?)(?P=quote)|(?P<bare>[^\s>]+))",
-        re.IGNORECASE,
-    )
+_ATTR_TARGET = re.compile(
+    r"(?P<prefix>\b(?:href|src)\s*=\s*)"
+    r"(?:(?P<quote>[\"'])(?P<quoted>.*?)(?P=quote)|(?P<bare>[^\s>]+))",
+    re.IGNORECASE,
+)
 
+
+def _canonical_case(target: str, rel: str, canonical: dict[str, str]) -> str | None:
+    """Return target restated in its file's real case, or None if it already is."""
+    kind, value = _uri_kind(target)
+    if kind != "local" or not value:
+        return None
+    resolved = _norm((Path(rel).parent / value).as_posix())
+    actual = canonical.get(resolved.casefold())
+    if actual is None or actual == resolved:
+        return None
+    prefix = _norm(Path(rel).parent.as_posix())
+    shared = 0
+    actual_parts, prefix_parts = actual.split("/"), prefix.split("/") if prefix else []
+    while (shared < len(prefix_parts) and shared < len(actual_parts) - 1
+           and prefix_parts[shared] == actual_parts[shared]):
+        shared += 1
+    hops = [".."] * (len(prefix_parts) - shared)
+    fragment = urldefrag(target.strip())[1]
+    return "/".join(hops + actual_parts[shared:]) + (f"#{fragment}" if fragment else "")
+
+
+def _canonicalize_link_case(source: str, rel: str, canonical: dict[str, str],
+                            report: dict[str, list]) -> str:
+    """Restate authored links in their target's real case before conversion.
+
+    RoboHelp resolves hrefs case-insensitively, so authored case drifts from the
+    topic's real path.  Such a link still opens inside a CHM and 404s once the
+    corpus is published to a case-sensitive host, so emit the case the file
+    actually has and report the drift back to the author.
+    """
+    def replace(match: re.Match[str]) -> str:
+        target = match.group("quoted") if match.group("quote") else match.group("bare")
+        # Source attributes carry HTML entities ("&amp;") over path characters
+        # that the extracted filenames spell literally, so compare decoded and
+        # re-encode the corrected path on the way out.
+        fixed = _canonical_case(html.unescape(target), rel, canonical)
+        if fixed is None:
+            return match.group(0)
+        fixed = quote(fixed, safe="/#")
+        _append_reference(report, "link_case_mismatches", rel, target)
+        if match.group("quote"):
+            return match.group("prefix") + match.group("quote") + fixed + match.group("quote")
+        return match.group("prefix") + fixed
+
+    return _ATTR_TARGET.sub(replace, source)
+
+
+def _sanitize_raw_targets(markdown: str, report: dict[str, list], rel: str) -> str:
     def replace(match: re.Match[str]) -> str:
         target = match.group("quoted") if match.group("quote") else match.group("bare")
         kind, _ = _uri_kind(target)
@@ -215,7 +262,7 @@ def _sanitize_raw_targets(markdown: str, report: dict[str, list], rel: str) -> s
             return match.group("prefix") + "#"
         return match.group(0)
 
-    return pattern.sub(replace, markdown)
+    return _ATTR_TARGET.sub(replace, markdown)
 
 
 def _version(extraction: Path) -> str:
@@ -357,12 +404,17 @@ def _convert_chm_locked(chm: Path, work_root: Path, destination: Path, *, reuse:
     if limit:
         topics = topics[:limit]
     claimed: dict[str, list[str]] = defaultdict(list)
+    # Links are canonicalized against the source paths, before the .htm to .md
+    # rewrite, so authored case is corrected once at the conversion boundary.
+    canonical_sources: dict[str, str] = {}
     for rel in all_topics:
         claimed[Path(rel).with_suffix(".md").as_posix().casefold()].append(f"topic:{rel}")
+        canonical_sources[rel.casefold()] = rel
     for image in extraction.rglob("*"):
         if image.is_file() and image.suffix.lower() in IMAGE_EXTS:
             rel = image.relative_to(extraction).as_posix()
             claimed[rel.casefold()].append(f"asset:{rel}")
+            canonical_sources[rel.casefold()] = rel
     collisions = [(dest, paths) for dest, paths in sorted(claimed.items()) if len(paths) > 1]
     if collisions:
         report: dict[str, list] = {"destination_collisions": collisions}
@@ -407,6 +459,7 @@ def _convert_chm_locked(chm: Path, work_root: Path, destination: Path, *, reuse:
         for rel in topics:
             raw = (extraction / rel).read_bytes()
             source = _normalize_source(raw.decode("cp1252", errors="replace"))
+            source = _canonicalize_link_case(source, rel, canonical_sources, report)
             if "\ufffd" in source:
                 source_replacement_paths.append(rel)
             original_title, meta = records[rel]

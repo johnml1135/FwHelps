@@ -13,7 +13,7 @@ class IssueCatalogTests(unittest.TestCase):
     def test_every_emitted_issue_code_has_exactly_one_policy(self):
         emitted = {
             "missing_link", "source_missing_link", "missing_image", "source_missing_image",
-            "duplicate_title", "malformed_list", "replacement_character",
+            "source_link_case", "duplicate_title", "malformed_list", "replacement_character",
             "source_replacement_character", "raw_html", "one_h1", "destination_collision",
             "unsafe_uri", "path_escape", "source_unsafe_uri", "source_path_escape",
             "pandoc_failure", "unmapped_span", "pdf_failure",
