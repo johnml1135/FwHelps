@@ -30,11 +30,18 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-    env:
-      EXPORT_DIR: ${{ runner.temp }}/markdown-export
-      WORK_DIR: ${{ runner.temp }}/markdown-export-work
-      DIAGNOSTICS: ${{ runner.temp }}/markdown-export-diagnostics.json
     steps:
+      # The runner context is not available to job-level env, so the build
+      # paths are resolved here from $RUNNER_TEMP for every later step.
+      - name: Resolve build paths
+        run: |
+          set -euo pipefail
+          {
+            echo "EXPORT_DIR=${RUNNER_TEMP}/markdown-export"
+            echo "WORK_DIR=${RUNNER_TEMP}/markdown-export-work"
+            echo "DIAGNOSTICS=${RUNNER_TEMP}/markdown-export-diagnostics.json"
+          } >> "$GITHUB_ENV"
+
       - name: Checkout source
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
         with:

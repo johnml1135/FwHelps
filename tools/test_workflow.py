@@ -3,13 +3,40 @@
 import unittest
 from pathlib import Path
 
+import yaml
+
 WORKFLOW = Path(__file__).parents[1] / ".github" / "workflows" / "markdown-export.yml"
+
+# Contexts GitHub refuses to evaluate in jobs.<id>.env. Referencing one there is
+# a load-time error ("Unrecognized named-value"), which fails the whole run
+# before any job starts and produces no logs to diagnose it from.
+JOB_ENV_FORBIDDEN_CONTEXTS = ("runner", "steps", "job", "env", "secrets")
 
 
 class WorkflowGuardrailTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.text = WORKFLOW.read_text(encoding="utf-8")
+        cls.workflow = yaml.safe_load(cls.text)
+
+    def test_job_env_avoids_contexts_github_rejects_at_load_time(self):
+        for job_id, job in self.workflow["jobs"].items():
+            for name, value in (job.get("env") or {}).items():
+                for context in JOB_ENV_FORBIDDEN_CONTEXTS:
+                    self.assertNotRegex(
+                        str(value),
+                        r"\$\{\{\s*" + context + r"\.",
+                        f"{job_id}.env.{name} uses the {context} context, "
+                        "which GitHub rejects in job-level env",
+                    )
+
+    def test_build_paths_are_resolved_from_runner_temp_in_a_step(self):
+        steps = self.workflow["jobs"]["validate"]["steps"]
+        resolve = steps[0]
+        self.assertEqual("Resolve build paths", resolve["name"])
+        for name in ("EXPORT_DIR", "WORK_DIR", "DIAGNOSTICS"):
+            self.assertIn(f"{name}=${{RUNNER_TEMP}}", resolve["run"])
+        self.assertIn('>> "$GITHUB_ENV"', resolve["run"])
 
     def test_summary_consumes_canonical_report_schema(self):
         self.assertIn('r.get("corpus", {})', self.text)
