@@ -30,6 +30,15 @@ class WorkflowGuardrailTests(unittest.TestCase):
                         "which GitHub rejects in job-level env",
                     )
 
+    def test_convert_repo_is_relative_to_the_directory_uv_runs_in(self):
+        steps = self.workflow["jobs"]["validate"]["steps"]
+        convert = next(step for step in steps if step.get("name") == "Convert")
+        # "--directory src" changes uv's working directory, so a "--repo src"
+        # here would resolve to src/src and fail before a single topic converts.
+        self.assertIn("--directory src", convert["run"])
+        self.assertIn("--repo .", convert["run"])
+        self.assertNotIn("--repo src", convert["run"])
+
     def test_build_paths_are_resolved_from_runner_temp_in_a_step(self):
         steps = self.workflow["jobs"]["validate"]["steps"]
         resolve = steps[0]

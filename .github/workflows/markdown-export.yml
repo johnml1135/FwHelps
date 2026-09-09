@@ -86,8 +86,9 @@ jobs:
         run: |
           set -euo pipefail
           rm -rf -- "${EXPORT_DIR}" "${WORK_DIR}"
+          # --directory already puts uv in the checkout, so --repo is relative to it.
           uv run --frozen --directory src python tools/convert.py \
-            --repo src \
+            --repo . \
             --out "${EXPORT_DIR}" \
             --work "${WORK_DIR}" \
             --diagnostics "${DIAGNOSTICS}" \
