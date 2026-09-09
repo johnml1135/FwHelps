@@ -16,7 +16,7 @@ related:
   - "Parsing words overview -> Parsing_words_overview.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:689bab643ce87421"
+content_hash: "sha256:4bf7d4abd06cec13"
 ---
 
 # Default XAmple parser overview
@@ -43,7 +43,7 @@ This parser uses an *item and arrangement* approach. The [phonological rule-base
 
 > [!IMPORTANT]
 >
-> - Using this computational parser, or the phonological rule-based parser, *contrasts* with [manually analyzing](../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.md) or [manually glossing](../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.md) the words in a text.
+> - Using this computational parser, or the phonological rule-based parser, *contrasts* with [manually analyzing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/Analyze_Text_overview.md) or [manually glossing](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/specify_the_word_gloss.md) the words in a text.
 >
 > - It also *contrasts* with FieldWorks *program-proposed* analyses that are based on a previous user analysis that was manually done for an identically spelled word. These different analyses initially appear with different [background colors](../../../using_tools/texts_&_words_tools/Interlinear_Texts/interlinear_views_background_colors.md).
 

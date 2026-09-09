@@ -2,7 +2,7 @@
 
 Generated documentation corpus. **Do not edit these files**; the tree is replaced as a set.
 
-- **Source ref:** `c556bc7b8d534ae33152d0379dd2d31b4ac2f92a`
+- **Source ref:** `ae6b04a`
 - **CHMs:** 2   **PDFs:** 13
 
 - **Root CHMs (auto-discovered):** `FieldWorks_Language_Explorer_Help.chm`, `Using_Help.chm`
@@ -12,6 +12,7 @@ Generated documentation corpus. **Do not edit these files**; the tree is replace
 | Check | Severity | Count |
 | --- | --- | ---: |
 | Duplicate display title | warning | 4 |
+| Link case mismatch | warning | 6 |
 | Missing local link | warning | 16 |
 | Raw HTML retained | warning | 240 |
 | Replacement character | warning | 2 |
@@ -1879,7 +1880,7 @@ Full detail: [author-report.md](author-report.md) for authors; [author-report.js
 - [Technical Notes on Writing Systems](pdf/Language_Explorer/Training/Technical_Notes_on_Writing_Systems.md)
 - [AlloGenUserDocumentation](pdf/Language_Explorer/Utilities/AlloGenUserDocumentation.md)
 - [PcPatrFLExUserDocumentation](pdf/Language_Explorer/Utilities/PcPatrFLExUserDocumentation.md)
-- [silewp2007 002](pdf/Language_Explorer/Utilities/silewp2007_002.md)
 - [ToneParsFLExUserDocumentation](pdf/Language_Explorer/Utilities/ToneParsFLExUserDocumentation.md)
 - [VarGenUserDocumentation](pdf/Language_Explorer/Utilities/VarGenUserDocumentation.md)
+- [silewp2007 002](pdf/Language_Explorer/Utilities/silewp2007_002.md)
 - [ConceptualIntroFLEx](pdf/WW-ConceptualIntro/ConceptualIntroFLEx.md)

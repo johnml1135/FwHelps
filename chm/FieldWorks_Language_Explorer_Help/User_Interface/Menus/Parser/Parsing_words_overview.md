@@ -22,7 +22,7 @@ related:
   - "Try a Word additional information -> Try_a_Word_additional_information.md"
 fw_help_version: "9.3"
 type: "index"
-content_hash: "sha256:e0ce30190f5f1670"
+content_hash: "sha256:398180af5d185159"
 ---
 
 # Parsing words overview
@@ -33,7 +33,7 @@ As stated in [Texts & Words overview](../../../Using_Tools/Texts_&_Words_tools/T
 
 Parsing is not limited to one method or starting point. You can
 
-- [manually analyze](../../../using_tools/texts_&_words_tools/Interlinear_Texts/Analyze_Text_overview.md) (manually "parse") *or* [manually gloss](../../../using_tools/texts_&_words_tools/Interlinear_Texts/specify_the_word_gloss.md) words
+- [manually analyze](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/Analyze_Text_overview.md) (manually "parse") *or* [manually gloss](../../../Using_Tools/Texts_%26_Words_tools/Interlinear_Texts/specify_the_word_gloss.md) words
 
   - use ([approve](../Data/Data_overview.md)) analyses *suggested* by FLEx, based on previous manual analyses of identically spelled words
 
